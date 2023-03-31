@@ -21,6 +21,8 @@ Year,Units,Útgjaldaliður,Value
 2017,Hlutfall af heildarútgjöldum hins opinbera,,57.37
 2018,Hlutfall af heildarútgjöldum hins opinbera,,56.67
 2019,Hlutfall af heildarútgjöldum hins opinbera,,59.16
+2020,Hlutfall af heildarútgjöldum hins opinbera,,59.61
+2021,Hlutfall af heildarútgjöldum hins opinbera,,60.63
 1998,Hlutfall af heildarútgjöldum hins opinbera,Heilbrigðismál,18.13
 1999,Hlutfall af heildarútgjöldum hins opinbera,Heilbrigðismál,19.57
 2000,Hlutfall af heildarútgjöldum hins opinbera,Heilbrigðismál,18.99
@@ -43,6 +45,8 @@ Year,Units,Útgjaldaliður,Value
 2017,Hlutfall af heildarútgjöldum hins opinbera,Heilbrigðismál,17.47
 2018,Hlutfall af heildarútgjöldum hins opinbera,Heilbrigðismál,17.61
 2019,Hlutfall af heildarútgjöldum hins opinbera,Heilbrigðismál,17.93
+2020,Hlutfall af heildarútgjöldum hins opinbera,Heilbrigðismál,16.91
+2021,Hlutfall af heildarútgjöldum hins opinbera,Heilbrigðismál,18.15
 1998,Hlutfall af heildarútgjöldum hins opinbera,Félagsvernd,18.58
 1999,Hlutfall af heildarútgjöldum hins opinbera,Félagsvernd,17.99
 2000,Hlutfall af heildarútgjöldum hins opinbera,Félagsvernd,18.21
@@ -65,6 +69,8 @@ Year,Units,Útgjaldaliður,Value
 2017,Hlutfall af heildarútgjöldum hins opinbera,Félagsvernd,22.51
 2018,Hlutfall af heildarútgjöldum hins opinbera,Félagsvernd,23.07
 2019,Hlutfall af heildarútgjöldum hins opinbera,Félagsvernd,25.09
+2020,Hlutfall af heildarútgjöldum hins opinbera,Félagsvernd,27.42
+2021,Hlutfall af heildarútgjöldum hins opinbera,Félagsvernd,26.87
 1998,Hlutfall af heildarútgjöldum hins opinbera,Menntun,17.85
 1999,Hlutfall af heildarútgjöldum hins opinbera,Menntun,17.75
 2000,Hlutfall af heildarútgjöldum hins opinbera,Menntun,17.93
@@ -87,6 +93,8 @@ Year,Units,Útgjaldaliður,Value
 2017,Hlutfall af heildarútgjöldum hins opinbera,Menntun,17.39
 2018,Hlutfall af heildarútgjöldum hins opinbera,Menntun,15.99
 2019,Hlutfall af heildarútgjöldum hins opinbera,Menntun,16.14
+2020,Hlutfall af heildarútgjöldum hins opinbera,Menntun,15.28
+2021,Hlutfall af heildarútgjöldum hins opinbera,Menntun,15.61
 1998,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),,22.18
 1999,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),,22.88
 2000,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),,22.59
@@ -109,6 +117,8 @@ Year,Units,Útgjaldaliður,Value
 2017,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),,24.83
 2018,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),,24.93
 2019,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),,25.7
+2020,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),,30.34
+2021,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),,29.92
 1998,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Heilbrigðismál,7.37
 1999,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Heilbrigðismál,8.1
 2000,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Heilbrigðismál,7.78
@@ -131,6 +141,8 @@ Year,Units,Útgjaldaliður,Value
 2017,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Heilbrigðismál,7.56
 2018,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Heilbrigðismál,7.75
 2019,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Heilbrigðismál,7.79
+2020,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Heilbrigðismál,8.6
+2021,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Heilbrigðismál,8.96
 1998,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Félagsvernd,7.55
 1999,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Félagsvernd,7.44
 2000,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Félagsvernd,7.46
@@ -153,6 +165,8 @@ Year,Units,Útgjaldaliður,Value
 2017,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Félagsvernd,9.74
 2018,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Félagsvernd,10.15
 2019,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Félagsvernd,10.9
+2020,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Félagsvernd,13.96
+2021,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Félagsvernd,13.26
 1998,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Menntun,7.26
 1999,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Menntun,7.34
 2000,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Menntun,7.35
@@ -175,3 +189,5 @@ Year,Units,Útgjaldaliður,Value
 2017,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Menntun,7.53
 2018,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Menntun,7.03
 2019,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Menntun,7.01
+2020,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Menntun,7.78
+2021,Hlutfall (%) af vergri þjóðarframleiðslu (GDP),Menntun,7.7

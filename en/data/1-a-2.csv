@@ -21,6 +21,8 @@ Year,Units,Area of Spending Category,Value
 2017,Percentage (%) of national budget,,57.37
 2018,Percentage (%) of national budget,,56.67
 2019,Percentage (%) of national budget,,59.16
+2020,Percentage (%) of national budget,,59.61
+2021,Percentage (%) of national budget,,60.63
 1998,Percentage (%) of national budget,Health,18.13
 1999,Percentage (%) of national budget,Health,19.57
 2000,Percentage (%) of national budget,Health,18.99
@@ -43,6 +45,8 @@ Year,Units,Area of Spending Category,Value
 2017,Percentage (%) of national budget,Health,17.47
 2018,Percentage (%) of national budget,Health,17.61
 2019,Percentage (%) of national budget,Health,17.93
+2020,Percentage (%) of national budget,Health,16.91
+2021,Percentage (%) of national budget,Health,18.15
 1998,Percentage (%) of national budget,Social Protection,18.58
 1999,Percentage (%) of national budget,Social Protection,17.99
 2000,Percentage (%) of national budget,Social Protection,18.21
@@ -65,6 +69,8 @@ Year,Units,Area of Spending Category,Value
 2017,Percentage (%) of national budget,Social Protection,22.51
 2018,Percentage (%) of national budget,Social Protection,23.07
 2019,Percentage (%) of national budget,Social Protection,25.09
+2020,Percentage (%) of national budget,Social Protection,27.42
+2021,Percentage (%) of national budget,Social Protection,26.87
 1998,Percentage (%) of national budget,Education,17.85
 1999,Percentage (%) of national budget,Education,17.75
 2000,Percentage (%) of national budget,Education,17.93
@@ -87,6 +93,8 @@ Year,Units,Area of Spending Category,Value
 2017,Percentage (%) of national budget,Education,17.39
 2018,Percentage (%) of national budget,Education,15.99
 2019,Percentage (%) of national budget,Education,16.14
+2020,Percentage (%) of national budget,Education,15.28
+2021,Percentage (%) of national budget,Education,15.61
 1998,Percentage (%) of Gross Domestic Product (GDP),,22.18
 1999,Percentage (%) of Gross Domestic Product (GDP),,22.88
 2000,Percentage (%) of Gross Domestic Product (GDP),,22.59
@@ -109,6 +117,8 @@ Year,Units,Area of Spending Category,Value
 2017,Percentage (%) of Gross Domestic Product (GDP),,24.83
 2018,Percentage (%) of Gross Domestic Product (GDP),,24.93
 2019,Percentage (%) of Gross Domestic Product (GDP),,25.7
+2020,Percentage (%) of Gross Domestic Product (GDP),,30.34
+2021,Percentage (%) of Gross Domestic Product (GDP),,29.92
 1998,Percentage (%) of Gross Domestic Product (GDP),Health,7.37
 1999,Percentage (%) of Gross Domestic Product (GDP),Health,8.1
 2000,Percentage (%) of Gross Domestic Product (GDP),Health,7.78
@@ -131,6 +141,8 @@ Year,Units,Area of Spending Category,Value
 2017,Percentage (%) of Gross Domestic Product (GDP),Health,7.56
 2018,Percentage (%) of Gross Domestic Product (GDP),Health,7.75
 2019,Percentage (%) of Gross Domestic Product (GDP),Health,7.79
+2020,Percentage (%) of Gross Domestic Product (GDP),Health,8.6
+2021,Percentage (%) of Gross Domestic Product (GDP),Health,8.96
 1998,Percentage (%) of Gross Domestic Product (GDP),Social Protection,7.55
 1999,Percentage (%) of Gross Domestic Product (GDP),Social Protection,7.44
 2000,Percentage (%) of Gross Domestic Product (GDP),Social Protection,7.46
@@ -153,6 +165,8 @@ Year,Units,Area of Spending Category,Value
 2017,Percentage (%) of Gross Domestic Product (GDP),Social Protection,9.74
 2018,Percentage (%) of Gross Domestic Product (GDP),Social Protection,10.15
 2019,Percentage (%) of Gross Domestic Product (GDP),Social Protection,10.9
+2020,Percentage (%) of Gross Domestic Product (GDP),Social Protection,13.96
+2021,Percentage (%) of Gross Domestic Product (GDP),Social Protection,13.26
 1998,Percentage (%) of Gross Domestic Product (GDP),Education,7.26
 1999,Percentage (%) of Gross Domestic Product (GDP),Education,7.34
 2000,Percentage (%) of Gross Domestic Product (GDP),Education,7.35
@@ -175,3 +189,5 @@ Year,Units,Area of Spending Category,Value
 2017,Percentage (%) of Gross Domestic Product (GDP),Education,7.53
 2018,Percentage (%) of Gross Domestic Product (GDP),Education,7.03
 2019,Percentage (%) of Gross Domestic Product (GDP),Education,7.01
+2020,Percentage (%) of Gross Domestic Product (GDP),Education,7.78
+2021,Percentage (%) of Gross Domestic Product (GDP),Education,7.7
