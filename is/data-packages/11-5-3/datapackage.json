@@ -13,18 +13,18 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "17-6-2",
-  "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+  "name": "11-5-3",
+  "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
 }
