@@ -55,7 +55,6 @@
                 "Clerks (4)",
                 "Service workers and shop and market sales workers (5)",
                 "Craft and related workers (7)",
-                "Plant and machine operators and assemblers (8)",
                 "Elementary occupations (9)",
                 "General, machine and specialized workers",
                 ""
@@ -65,7 +64,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

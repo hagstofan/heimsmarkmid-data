@@ -3861,7 +3861,6 @@
                 "Skrifstofufólk (4)",
                 "Þjónustu-, sölu- og afgreiðslufólk (5)",
                 "Iðnaðarmenn og sérhæft iðnverkafólk (7)",
-                "Véla- og vélgæslufólk (8)",
                 "Ósérhæft starfsfólk (9)",
                 "Verkafólk",
                 ""
@@ -3871,7 +3870,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Gildi"
           }
         ]
