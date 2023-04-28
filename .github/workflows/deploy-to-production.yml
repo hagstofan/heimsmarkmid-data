@@ -24,8 +24,6 @@ on:
   push:
     branches:
       - master
-  repository_dispatch:
-    types: rebuild-production
 
 jobs:
   build:
@@ -48,9 +46,11 @@ jobs:
     - name: Build data
       run: |
         python scripts/build_data.py
-    - name: Rebuild site
-      run: |
-        curl -X POST https://api.github.com/repos/hagstofan/heimsmarkmid-site/dispatches \
-        -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Authorization: token ${{secrets.HAGSTOFA_DATA}}" \
-        --data '{"event_type": "rebuild-production"}'
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+        REPOSITORY_NAME: hagstofan/heimsmarkmid-data-prod
+        ACCESS_TOKEN: ${{ secrets.HAGSTOFA_DATA_PROD }}
+        BRANCH: gh-pages
+        FOLDER: _site
+        CLEAN: true
