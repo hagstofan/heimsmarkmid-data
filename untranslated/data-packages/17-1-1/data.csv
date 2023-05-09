@@ -20,6 +20,10 @@ Year,Revenue,Value
 2016,Tax revenue,47.38
 2017,Tax revenue,34.18
 2018,Tax revenue,33.41
+2019,Tax revenue,31.9
+2020,Tax revenue,33.33
+2021,Tax revenue,32.12
+2022,Tax revenue,31.9
 1998,Social contributions,2.67
 1999,Social contributions,2.74
 2000,Social contributions,2.78
@@ -41,6 +45,10 @@ Year,Revenue,Value
 2016,Social contributions,3.43
 2017,Social contributions,3.43
 2018,Social contributions,3.49
+2019,Social contributions,3.22
+2020,Social contributions,3.03
+2021,Social contributions,3.0
+2022,Social contributions,3.01
 1998,Grants,0.07
 1999,Grants,0.08
 2000,Grants,0.09
@@ -62,6 +70,10 @@ Year,Revenue,Value
 2016,Grants,0.12
 2017,Grants,0.11
 2018,Grants,0.12
+2019,Grants,0.13
+2020,Grants,0.11
+2021,Grants,0.12
+2022,Grants,0.11
 1998,Other revenue,6.27
 1999,Other revenue,6.14
 2000,Other revenue,6.13
@@ -83,3 +95,7 @@ Year,Revenue,Value
 2016,Other revenue,6.01
 2017,Other revenue,5.84
 2018,Other revenue,5.78
+2019,Other revenue,6.84
+2020,Other revenue,5.73
+2021,Other revenue,6.13
+2022,Other revenue,6.77

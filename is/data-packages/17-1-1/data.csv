@@ -20,6 +20,10 @@ Year,Tekjur,Value
 2016,Skattekjur,47.38
 2017,Skattekjur,34.18
 2018,Skattekjur,33.41
+2019,Skattekjur,31.9
+2020,Skattekjur,33.33
+2021,Skattekjur,32.12
+2022,Skattekjur,31.9
 1998,Tryggingagjöld,2.67
 1999,Tryggingagjöld,2.74
 2000,Tryggingagjöld,2.78
@@ -41,6 +45,10 @@ Year,Tekjur,Value
 2016,Tryggingagjöld,3.43
 2017,Tryggingagjöld,3.43
 2018,Tryggingagjöld,3.49
+2019,Tryggingagjöld,3.22
+2020,Tryggingagjöld,3.03
+2021,Tryggingagjöld,3.0
+2022,Tryggingagjöld,3.01
 1998,Fjárframlög,0.07
 1999,Fjárframlög,0.08
 2000,Fjárframlög,0.09
@@ -62,6 +70,10 @@ Year,Tekjur,Value
 2016,Fjárframlög,0.12
 2017,Fjárframlög,0.11
 2018,Fjárframlög,0.12
+2019,Fjárframlög,0.13
+2020,Fjárframlög,0.11
+2021,Fjárframlög,0.12
+2022,Fjárframlög,0.11
 1998,Aðrar tekjur,6.27
 1999,Aðrar tekjur,6.14
 2000,Aðrar tekjur,6.13
@@ -83,3 +95,7 @@ Year,Tekjur,Value
 2016,Aðrar tekjur,6.01
 2017,Aðrar tekjur,5.84
 2018,Aðrar tekjur,5.78
+2019,Aðrar tekjur,6.84
+2020,Aðrar tekjur,5.73
+2021,Aðrar tekjur,6.13
+2022,Aðrar tekjur,6.77
