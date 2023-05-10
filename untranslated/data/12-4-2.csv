@@ -1,31 +1,36 @@
 Year,Type of treatment,Units,Value
-2014,,Tonne per capita,0.1107
-2015,,Tonne per capita,0.1651
-2016,,Tonne per capita,0.1427
-2017,,Tonne per capita,0.2373
-2018,,Tonne per capita,0.2186
-2019,,Tonne per capita,0.3237
-2014,Recovery,Tonne per capita,0.0776
-2015,Recovery,Tonne per capita,0.1188
-2016,Recovery,Tonne per capita,0.0595
-2017,Recovery,Tonne per capita,0.1927
-2018,Recovery,Tonne per capita,0.1747
-2019,Recovery,Tonne per capita,0.2756
-2014,Disposal,Tonne per capita,0.0331
-2015,Disposal,Tonne per capita,0.0462
-2016,Disposal,Tonne per capita,0.0831
-2017,Disposal,Tonne per capita,0.0446
-2018,Disposal,Tonne per capita,0.0439
-2019,Disposal,Tonne per capita,0.0482
-2014,Recovery,Percentage of all hazardous waste,70.1
-2015,Recovery,Percentage of all hazardous waste,71.99
-2016,Recovery,Percentage of all hazardous waste,41.73
-2017,Recovery,Percentage of all hazardous waste,81.22
-2018,Recovery,Percentage of all hazardous waste,79.9
-2019,Recovery,Percentage of all hazardous waste,85.12
-2014,Disposal,Percentage of all hazardous waste,29.9
-2015,Disposal,Percentage of all hazardous waste,28.01
-2016,Disposal,Percentage of all hazardous waste,58.27
-2017,Disposal,Percentage of all hazardous waste,18.78
-2018,Disposal,Percentage of all hazardous waste,20.1
-2019,Disposal,Percentage of all hazardous waste,14.88
+2014,,Tonne per capita,0.12
+2015,,Tonne per capita,0.12
+2016,,Tonne per capita,0.14
+2017,,Tonne per capita,0.09
+2018,,Tonne per capita,0.08
+2019,,Tonne per capita,0.11
+2020,,Tonne per capita,0.11
+2014,Recovery,Tonne per capita,0.08
+2015,Recovery,Tonne per capita,0.07
+2016,Recovery,Tonne per capita,0.06
+2017,Recovery,Tonne per capita,0.05
+2018,Recovery,Tonne per capita,0.03
+2019,Recovery,Tonne per capita,0.06
+2020,Recovery,Tonne per capita,0.05
+2014,Disposal,Tonne per capita,0.04
+2015,Disposal,Tonne per capita,0.05
+2016,Disposal,Tonne per capita,0.08
+2017,Disposal,Tonne per capita,0.04
+2018,Disposal,Tonne per capita,0.04
+2019,Disposal,Tonne per capita,0.05
+2020,Disposal,Tonne per capita,0.06
+2014,Recovery,Percentage of all hazardous waste,0.69
+2015,Recovery,Percentage of all hazardous waste,0.57
+2016,Recovery,Percentage of all hazardous waste,0.42
+2017,Recovery,Percentage of all hazardous waste,0.51
+2018,Recovery,Percentage of all hazardous waste,0.45
+2019,Recovery,Percentage of all hazardous waste,0.56
+2020,Recovery,Percentage of all hazardous waste,0.43
+2014,Disposal,Percentage of all hazardous waste,0.31
+2015,Disposal,Percentage of all hazardous waste,0.43
+2016,Disposal,Percentage of all hazardous waste,0.58
+2017,Disposal,Percentage of all hazardous waste,0.49
+2018,Disposal,Percentage of all hazardous waste,0.55
+2019,Disposal,Percentage of all hazardous waste,0.44
+2020,Disposal,Percentage of all hazardous waste,0.57
