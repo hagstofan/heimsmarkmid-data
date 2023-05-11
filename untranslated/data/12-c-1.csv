@@ -19,7 +19,10 @@ Year,Unit,Value
 2015,Percentage of GDP,0.016172991
 2016,Percentage of GDP,0.014524661
 2017,Percentage of GDP,0.01467336
-2018,Percentage of GDP,0.014612257
+2018,Percentage of GDP,0.014321101
+2019,Percentage of GDP,0.01327081
+2020,Percentage of GDP,0.0127897
+2021,Percentage of GDP,0.0
 2010,Percentage of fuel imports,0.556279628
 2011,Percentage of fuel imports,0.383911933
 2012,Percentage of fuel imports,0.378519467
@@ -29,3 +32,6 @@ Year,Unit,Value
 2016,Percentage of fuel imports,0.493931658
 2017,Percentage of fuel imports,0.464194509
 2018,Percentage of fuel imports,0.33563656
+2019,Percentage of fuel imports,0.4093507
+2020,Percentage of fuel imports,0.725219091
+2021,Percentage of fuel imports,0.0
