@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Vatnsafl",
-                "Jarðvarmi",
+                "Jarðhiti",
                 "Vindafl",
                 ""
               ]
