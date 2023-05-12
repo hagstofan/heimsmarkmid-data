@@ -7352,7 +7352,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Gildi"
           }
         ]
@@ -7908,7 +7908,7 @@
                 "I - Rekstur gististaða og veitingarekstur",
                 "J - Upplýsingar og fjarskipti",
                 "K - Fjármála og vátryggingastarfsemi",
-                "L - Real estate activities",
+                "L - Fasteignaviðskipti",
                 "M - Sérfræðileg, vísindaleg og tæknileg starfsemi",
                 "N - Leigustarfsemi og ýmis sérhæfð þjónusta",
                 "O - Opinber stjórnsýsla og varnarmál; almannatryggingar",
