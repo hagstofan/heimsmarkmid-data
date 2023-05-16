@@ -11,6 +11,7 @@ Year,Sex,Value
 2010,,65.0
 2011,,64.4
 2012,,65.6
+2013,,67.0
 2000,Male,53.2
 2002,Male,55.0
 2003,Male,55.5
@@ -23,6 +24,7 @@ Year,Sex,Value
 2010,Male,56.2
 2011,Male,58.4
 2012,Male,59.9
+2013,Male,60.6
 2000,Female,68.4
 2002,Female,67.2
 2003,Female,68.0
@@ -35,3 +37,4 @@ Year,Sex,Value
 2010,Female,74.1
 2011,Female,70.6
 2012,Female,71.4
+2013,Female,73.6
