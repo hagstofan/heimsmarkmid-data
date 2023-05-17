@@ -4925,15 +4925,6 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -5438,15 +5429,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

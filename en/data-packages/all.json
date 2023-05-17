@@ -5357,16 +5357,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5916,16 +5906,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Group"
           },
           {
             "name": "Value",

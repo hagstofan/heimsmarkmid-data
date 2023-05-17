@@ -15,15 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Group",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
