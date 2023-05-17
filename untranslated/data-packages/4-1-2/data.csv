@@ -1,40 +1,49 @@
 Year,Sex,Value
-2000,,60.8
-2002,,61.2
-2003,,61.6
-2004,,61.3
-2005,,63.5
-2006,,63.1
-2007,,63.3
-2008,,64.3
-2009,,63.1
-2010,,65.0
-2011,,64.4
-2012,,65.6
-2013,,67.0
-2000,Male,53.2
-2002,Male,55.0
-2003,Male,55.5
-2004,Male,55.4
-2005,Male,57.9
-2006,Male,56.7
-2007,Male,57.2
-2008,Male,58.6
-2009,Male,56.4
-2010,Male,56.2
-2011,Male,58.4
-2012,Male,59.9
-2013,Male,60.6
-2000,Female,68.4
-2002,Female,67.2
-2003,Female,68.0
-2004,Female,67.2
-2005,Female,68.7
-2006,Female,69.2
-2007,Female,69.6
-2008,Female,70.1
-2009,Female,69.7
-2010,Female,74.1
-2011,Female,70.6
-2012,Female,71.4
-2013,Female,73.6
+2000 (completion 2004),,43.1
+2002 (completion 2006),,44.7
+2003 (completion 2007),,44.2
+2004 (completion 2008),,44.7
+2005 (completion 2009),,46.5
+2006 (completion 2010),,46.5
+2007 (completion 2011),,48.4
+2008 (completion 2012),,49.7
+2009  (completion 2013),,49.4
+2010  (completion 2014),,50.9
+2011 (completion 2015),,50.9
+2012  (completion 2016),,52.0
+2013  (completion 2017),,54.1
+2014  (completion 2018),,55.6
+2015  (completion 2019),,60.0
+2016 (completion 2020),,61.7
+2000 (completion 2004),Male,34.1
+2002 (completion 2006),Male,38.0
+2003 (completion 2007),Male,36.3
+2004 (completion 2008),Male,37.6
+2005 (completion 2009),Male,39.5
+2006 (completion 2010),Male,38.8
+2007 (completion 2011),Male,42.0
+2008 (completion 2012),Male,41.8
+2009  (completion 2013),Male,41.3
+2010  (completion 2014),Male,40.9
+2011 (completion 2015),Male,43.4
+2012  (completion 2016),Male,44.6
+2013  (completion 2017),Male,45.6
+2014  (completion 2018),Male,48.3
+2015  (completion 2019),Male,51.4
+2016 (completion 2020),Male,52.6
+2000 (completion 2004),Female,52.1
+2002 (completion 2006),Female,51.2
+2003 (completion 2007),Female,52.3
+2004 (completion 2008),Female,52.0
+2005 (completion 2009),Female,53.1
+2006 (completion 2010),Female,53.7
+2007 (completion 2011),Female,55.0
+2008 (completion 2012),Female,57.8
+2009  (completion 2013),Female,57.4
+2010  (completion 2014),Female,61.2
+2011 (completion 2015),Female,58.9
+2012  (completion 2016),Female,59.6
+2013  (completion 2017),Female,63.0
+2014  (completion 2018),Female,63.2
+2015  (completion 2019),Female,68.3
+2016 (completion 2020),Female,70.9
