@@ -49,8 +49,14 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        REPOSITORY_NAME: PRODUCTION_ORGANISATION/PRODUCTION_REPOSITORY
-        ACCESS_TOKEN: ${{ secrets.token }}
+        REPOSITORY_NAME: hagstofan/heimsmarkmid-data-prod
+        ACCESS_TOKEN: ${{ secrets.HAGSTOFA_DATA_PROD }}
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
+    - name: Rebuild site
+      run: |
+        curl -X POST https://api.github.com/repos/hagstofan/heimsmarkmid-site/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{secrets.HAGSTOFA_DATA}}" \
+        --data '{"event_type": "rebuild-production", "client_payload":{"ref":"master"}}'
