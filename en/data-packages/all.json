@@ -2185,9 +2185,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Equal to or above 10 Mbit/s",
                 "256 kbit/s to less than 2 Mbit/s",
                 "2 Mbit/s to less than 10 Mbit/s",
+                "Equal to or above 10 Mbit/s",
                 ""
               ]
             },

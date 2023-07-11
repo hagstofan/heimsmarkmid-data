@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Jafnt eða yfir 10 Mbit/s",
                 "256 kbit/s til minna en 2 Mbit/s",
                 "2 Mbit/s til minna en 10 Mbit/s",
+                "Jafnt eða yfir 10 Mbit/s",
                 ""
               ]
             },
