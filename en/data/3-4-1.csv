@@ -24,6 +24,7 @@ Year,Disease,Value
 2018,Cancer,169.9
 2019,Cancer,179.84
 2020,Cancer,173.29
+2021,Cancer,172.45
 1996,Diabetes,8.21
 1997,Diabetes,5.56
 1998,Diabetes,9.2
@@ -49,6 +50,7 @@ Year,Disease,Value
 2018,Diabetes,10.62
 2019,Diabetes,8.4
 2020,Diabetes,9.06
+2021,Diabetes,11.93
 1996,Cardiovascular disease,288.48
 1997,Cardiovascular disease,280.87
 1998,Cardiovascular disease,271.68
@@ -74,6 +76,7 @@ Year,Disease,Value
 2018,Cardiovascular disease,188.26
 2019,Cardiovascular disease,196.36
 2020,Cardiovascular disease,187.84
+2021,Cardiovascular disease,183.3
 1996,Chronic respiratory disease,36.57
 1997,Chronic respiratory disease,27.42
 1998,Chronic respiratory disease,30.84
@@ -98,7 +101,8 @@ Year,Disease,Value
 2017,Chronic respiratory disease,39.9
 2018,Chronic respiratory disease,40.18
 2019,Chronic respiratory disease,28.29
-2020,Chronic respiratory disease,31.86
+2020,Chronic respiratory disease,25.27
+2021,Chronic respiratory disease,29.6
 1996,,535.9
 1997,,510.98
 1998,,497.46
@@ -124,3 +128,4 @@ Year,Disease,Value
 2018,,408.95
 2019,,412.9
 2020,,402.05
+2021,,397.28
