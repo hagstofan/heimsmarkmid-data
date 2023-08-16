@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Attainment at age 9",
                 "Attainment at age 15",
+                "Attainment at age 9",
                 ""
               ]
             }
@@ -41,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reading",
                 "Math",
+                "Reading",
                 ""
               ]
             }

@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lágmarksfærni við 9 ára aldur",
                 "Lágmarksfærni við 15 ára aldur",
+                "Lágmarksfærni við 9 ára aldur",
                 ""
               ]
             },
@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lestur",
                 "Stærðfræði",
+                "Lestur",
                 ""
               ]
             },
