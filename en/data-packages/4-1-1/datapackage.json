@@ -33,7 +33,6 @@
             "constraints": {
               "enum": [
                 "Attainment at age 15",
-                "Attainment at age 9",
                 ""
               ]
             },

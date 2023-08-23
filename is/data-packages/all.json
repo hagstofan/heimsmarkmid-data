@@ -6139,7 +6139,6 @@
             "constraints": {
               "enum": [
                 "Lágmarksfærni við 15 ára aldur",
-                "Lágmarksfærni við 9 ára aldur",
                 ""
               ]
             },
