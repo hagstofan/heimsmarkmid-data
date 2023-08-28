@@ -15,14 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Never smoked",
-                "Quit smoking",
-                "Smoke less frequently than daily",
-                "Smoke daily",
+                "Male",
+                "Female",
                 ""
               ]
             }

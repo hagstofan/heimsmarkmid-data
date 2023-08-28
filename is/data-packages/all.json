@@ -2911,18 +2911,16 @@
             "title": "Ár"
           },
           {
-            "name": "Group",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Aldrei reykt",
-                "Hætt að reykja",
-                "Reyki sjaldnar en daglega",
-                "Reyki daglega",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Hópur"
+            "title": "Kyn"
           },
           {
             "name": "Value",
