@@ -1,647 +1,93 @@
 Year,Starfsgrein,Value
-1981,Lífeindafræðingar,1161.0
-1982,Lífeindafræðingar,1143.0
-1983,Lífeindafræðingar,1041.0
-1984,Lífeindafræðingar,1042.0
-1985,Lífeindafræðingar,1067.0
-1986,Lífeindafræðingar,1163.0
-1987,Lífeindafræðingar,1120.0
-1988,Lífeindafræðingar,1058.0
-1989,Lífeindafræðingar,1027.0
-1990,Lífeindafræðingar,1084.0
-1991,Lífeindafræðingar,1031.0
-1992,Lífeindafræðingar,914.0
-1993,Lífeindafræðingar,924.0
-1994,Lífeindafræðingar,927.0
-1995,Lífeindafræðingar,
-1996,Lífeindafræðingar,
-1997,Lífeindafræðingar,923.0
-1998,Lífeindafræðingar,951.0
-1999,Lífeindafræðingar,936.0
-2000,Lífeindafræðingar,970.0
-2001,Lífeindafræðingar,978.0
-2002,Lífeindafræðingar,998.0
-2003,Lífeindafræðingar,
-2004,Lífeindafræðingar,982.0
-2005,Lífeindafræðingar,996.0
-2006,Lífeindafræðingar,1026.0
-2007,Lífeindafræðingar,1099.0
-2008,Lífeindafræðingar,1079.0
-2009,Lífeindafræðingar,1062.0
-2010,Lífeindafræðingar,1034.0
-2011,Lífeindafræðingar,1069.0
-2012,Lífeindafræðingar,1084.0
-2013,Lífeindafræðingar,1071.0
-2014,Lífeindafræðingar,1065.0
-2015,Lífeindafræðingar,1105.0
-2016,Lífeindafræðingar,1200.0
-2017,Lífeindafræðingar,1267.0
-2018,Lífeindafræðingar,1257.0
-1981,Tannfræðingar,
-1982,Tannfræðingar,
-1983,Tannfræðingar,
-1984,Tannfræðingar,
-1985,Tannfræðingar,
-1986,Tannfræðingar,
-1987,Tannfræðingar,
-1988,Tannfræðingar,
-1989,Tannfræðingar,
-1990,Tannfræðingar,
-1991,Tannfræðingar,
-1992,Tannfræðingar,
-1993,Tannfræðingar,
-1994,Tannfræðingar,
-1995,Tannfræðingar,
-1996,Tannfræðingar,
-1997,Tannfræðingar,
-1998,Tannfræðingar,
-1999,Tannfræðingar,
-2000,Tannfræðingar,
-2001,Tannfræðingar,
-2002,Tannfræðingar,
-2003,Tannfræðingar,
-2004,Tannfræðingar,
-2005,Tannfræðingar,11996.0
-2006,Tannfræðingar,16193.0
-2007,Tannfræðingar,16603.0
-2008,Tannfræðingar,17743.0
-2009,Tannfræðingar,22688.0
-2010,Tannfræðingar,22747.0
-2011,Tannfræðingar,21305.0
-2012,Tannfræðingar,22990.0
-2013,Tannfræðingar,23262.0
-2014,Tannfræðingar,23507.0
-2015,Tannfræðingar,25579.0
-2016,Tannfræðingar,26027.0
-2017,Tannfræðingar,29038.0
-2018,Tannfræðingar,29749.0
-1981,Tanntæknar og aðstoðarfólk tannlækna,
-1982,Tanntæknar og aðstoðarfólk tannlækna,
-1983,Tanntæknar og aðstoðarfólk tannlækna,
-1984,Tanntæknar og aðstoðarfólk tannlækna,
-1985,Tanntæknar og aðstoðarfólk tannlækna,
-1986,Tanntæknar og aðstoðarfólk tannlækna,
-1987,Tanntæknar og aðstoðarfólk tannlækna,
-1988,Tanntæknar og aðstoðarfólk tannlækna,
-1989,Tanntæknar og aðstoðarfólk tannlækna,
-1990,Tanntæknar og aðstoðarfólk tannlækna,
-1991,Tanntæknar og aðstoðarfólk tannlækna,
-1992,Tanntæknar og aðstoðarfólk tannlækna,
-1993,Tanntæknar og aðstoðarfólk tannlækna,
-1994,Tanntæknar og aðstoðarfólk tannlækna,
-1995,Tanntæknar og aðstoðarfólk tannlækna,
-1996,Tanntæknar og aðstoðarfólk tannlækna,
-1997,Tanntæknar og aðstoðarfólk tannlækna,
-1998,Tanntæknar og aðstoðarfólk tannlækna,
-1999,Tanntæknar og aðstoðarfólk tannlækna,
-2000,Tanntæknar og aðstoðarfólk tannlækna,
-2001,Tanntæknar og aðstoðarfólk tannlækna,
-2002,Tanntæknar og aðstoðarfólk tannlækna,
-2003,Tanntæknar og aðstoðarfólk tannlækna,
-2004,Tanntæknar og aðstoðarfólk tannlækna,969.0
-2005,Tanntæknar og aðstoðarfólk tannlækna,996.0
-2006,Tanntæknar og aðstoðarfólk tannlækna,1036.0
-2007,Tanntæknar og aðstoðarfólk tannlækna,1095.0
-2008,Tanntæknar og aðstoðarfólk tannlækna,
-2009,Tanntæknar og aðstoðarfólk tannlækna,
-2010,Tanntæknar og aðstoðarfólk tannlækna,1027.0
-2011,Tanntæknar og aðstoðarfólk tannlækna,999.0
-2012,Tanntæknar og aðstoðarfólk tannlækna,1006.0
-2013,Tanntæknar og aðstoðarfólk tannlækna,1071.0
-2014,Tanntæknar og aðstoðarfólk tannlækna,1025.0
-2015,Tanntæknar og aðstoðarfólk tannlækna,1056.0
-2016,Tanntæknar og aðstoðarfólk tannlækna,1041.0
-2017,Tanntæknar og aðstoðarfólk tannlækna,1162.0
-2018,Tanntæknar og aðstoðarfólk tannlækna,1322.0
-1981,Tannlæknar,1319.0
-1982,Tannlæknar,1309.0
-1983,Tannlæknar,1248.0
-1984,Tannlæknar,1247.0
-1985,Tannlæknar,1229.0
-1986,Tannlæknar,1191.0
-1987,Tannlæknar,1162.0
-1988,Tannlæknar,1172.0
-1989,Tannlæknar,1159.0
-1990,Tannlæknar,1112.0
-1991,Tannlæknar,1078.0
-1992,Tannlæknar,1021.0
-1993,Tannlæknar,1004.0
-1994,Tannlæknar,978.0
-1995,Tannlæknar,992.0
-1996,Tannlæknar,974.0
-1997,Tannlæknar,959.0
-1998,Tannlæknar,1017.0
-1999,Tannlæknar,1004.0
-2000,Tannlæknar,1001.0
-2001,Tannlæknar,1006.0
-2002,Tannlæknar,1002.0
-2003,Tannlæknar,1009.0
-2004,Tannlæknar,1023.0
-2005,Tannlæknar,1038.0
-2006,Tannlæknar,1076.0
-2007,Tannlæknar,1073.0
-2008,Tannlæknar,1061.0
-2009,Tannlæknar,1080.0
-2010,Tannlæknar,1065.0
-2011,Tannlæknar,1129.0
-2012,Tannlæknar,1192.0
-2013,Tannlæknar,1197.0
-2014,Tannlæknar,1201.0
-2015,Tannlæknar,1196.0
-2016,Tannlæknar,1217.0
-2017,Tannlæknar,1249.0
-2018,Tannlæknar,1235.0
-1981,Heilbrigðisfulltrúar,8292.0
-1982,Heilbrigðisfulltrúar,8724.0
-1983,Heilbrigðisfulltrúar,10366.0
-1984,Heilbrigðisfulltrúar,9624.0
-1985,Heilbrigðisfulltrúar,7569.0
-1986,Heilbrigðisfulltrúar,8139.0
-1987,Heilbrigðisfulltrúar,9169.0
-1988,Heilbrigðisfulltrúar,8687.0
-1989,Heilbrigðisfulltrúar,9399.0
-1990,Heilbrigðisfulltrúar,9477.0
-1991,Heilbrigðisfulltrúar,9276.0
-1992,Heilbrigðisfulltrúar,9371.0
-1993,Heilbrigðisfulltrúar,9467.0
-1994,Heilbrigðisfulltrúar,9535.0
-1995,Heilbrigðisfulltrúar,9570.0
-1996,Heilbrigðisfulltrúar,6747.0
-1997,Heilbrigðisfulltrúar,6810.0
-1998,Heilbrigðisfulltrúar,6893.0
-1999,Heilbrigðisfulltrúar,7155.0
-2000,Heilbrigðisfulltrúar,6747.0
-2001,Heilbrigðisfulltrúar,
-2002,Heilbrigðisfulltrúar,
-2003,Heilbrigðisfulltrúar,
-2004,Heilbrigðisfulltrúar,
-2005,Heilbrigðisfulltrúar,5767.0
-2006,Heilbrigðisfulltrúar,5805.0
-2007,Heilbrigðisfulltrúar,6067.0
-2008,Heilbrigðisfulltrúar,5807.0
-2009,Heilbrigðisfulltrúar,5993.0
-2010,Heilbrigðisfulltrúar,5897.0
-2011,Heilbrigðisfulltrúar,5918.0
-2012,Heilbrigðisfulltrúar,5960.0
-2013,Heilbrigðisfulltrúar,6031.0
-2014,Heilbrigðisfulltrúar,5877.0
-2015,Heilbrigðisfulltrúar,6274.0
-2016,Heilbrigðisfulltrúar,5936.0
-2017,Heilbrigðisfulltrúar,6222.0
-2018,Heilbrigðisfulltrúar,6051.0
-1981,Aðstoðarlyfjafræðingar,4073.0
-1982,Aðstoðarlyfjafræðingar,4132.0
-1983,Aðstoðarlyfjafræðingar,4257.0
-1984,Aðstoðarlyfjafræðingar,4718.0
-1985,Aðstoðarlyfjafræðingar,4658.0
-1986,Aðstoðarlyfjafræðingar,4787.0
-1987,Aðstoðarlyfjafræðingar,4951.0
-1988,Aðstoðarlyfjafræðingar,5038.0
-1989,Aðstoðarlyfjafræðingar,5287.0
-1990,Aðstoðarlyfjafræðingar,5686.0
-1991,Aðstoðarlyfjafræðingar,6493.0
-1992,Aðstoðarlyfjafræðingar,5831.0
-1993,Aðstoðarlyfjafræðingar,6024.0
-1994,Aðstoðarlyfjafræðingar,6357.0
-1995,Aðstoðarlyfjafræðingar,6380.0
-1996,Aðstoðarlyfjafræðingar,5867.0
-1997,Aðstoðarlyfjafræðingar,5921.0
-1998,Aðstoðarlyfjafræðingar,6565.0
-1999,Aðstoðarlyfjafræðingar,6644.0
-2000,Aðstoðarlyfjafræðingar,7084.0
-2001,Aðstoðarlyfjafræðingar,7348.0
-2002,Aðstoðarlyfjafræðingar,7397.0
-2003,Aðstoðarlyfjafræðingar,7647.0
-2004,Aðstoðarlyfjafræðingar,8635.0
-2005,Aðstoðarlyfjafræðingar,9088.0
-2006,Aðstoðarlyfjafræðingar,10609.0
-2007,Aðstoðarlyfjafræðingar,10878.0
-2008,Aðstoðarlyfjafræðingar,11828.0
-2009,Aðstoðarlyfjafræðingar,14438.0
-2010,Aðstoðarlyfjafræðingar,13846.0
-2011,Aðstoðarlyfjafræðingar,13895.0
-2012,Aðstoðarlyfjafræðingar,15327.0
-2013,Aðstoðarlyfjafræðingar,19157.0
-2014,Aðstoðarlyfjafræðingar,21940.0
-2015,Aðstoðarlyfjafræðingar,22169.0
-2016,Aðstoðarlyfjafræðingar,22557.0
-2017,Aðstoðarlyfjafræðingar,23230.0
-2018,Aðstoðarlyfjafræðingar,23799.0
-1981,Ljósmæður,1407.0
-1982,Ljósmæður,1338.0
-1983,Ljósmæður,1282.0
-1984,Ljósmæður,1273.0
-1985,Ljósmæður,1281.0
-1986,Ljósmæður,1292.0
-1987,Ljósmæður,1368.0
-1988,Ljósmæður,1340.0
-1989,Ljósmæður,1275.0
-1990,Ljósmæður,1267.0
-1991,Ljósmæður,1318.0
-1992,Ljósmæður,1312.0
-1993,Ljósmæður,1359.0
-1994,Ljósmæður,1376.0
-1995,Ljósmæður,
-1996,Ljósmæður,
-1997,Ljósmæður,1348.0
-1998,Ljósmæður,1332.0
-1999,Ljósmæður,1335.0
-2000,Ljósmæður,1376.0
-2001,Ljósmæður,1309.0
-2002,Ljósmæður,1387.0
-2003,Ljósmæður,1345.0
-2004,Ljósmæður,1311.0
-2005,Ljósmæður,1293.0
-2006,Ljósmæður,1282.0
-2007,Ljósmæður,1288.0
-2008,Ljósmæður,1277.0
-2009,Ljósmæður,1271.0
-2010,Ljósmæður,1274.0
-2011,Ljósmæður,1150.0
-2012,Ljósmæður,1257.0
-2013,Ljósmæður,1234.0
-2014,Ljósmæður,1219.0
-2015,Ljósmæður,1209.0
-2016,Ljósmæður,1277.0
-2017,Ljósmæður,1267.0
-2018,Ljósmæður,1253.0
-1981,Hjúkrunarfræðingar,184.0
-1982,Hjúkrunarfræðingar,172.0
-1983,Hjúkrunarfræðingar,164.0
-1984,Hjúkrunarfræðingar,158.0
-1985,Hjúkrunarfræðingar,155.0
-1986,Hjúkrunarfræðingar,147.0
-1987,Hjúkrunarfræðingar,145.0
-1988,Hjúkrunarfræðingar,147.0
-1989,Hjúkrunarfræðingar,147.0
-1990,Hjúkrunarfræðingar,143.0
-1991,Hjúkrunarfræðingar,143.0
-1992,Hjúkrunarfræðingar,141.0
-1993,Hjúkrunarfræðingar,139.0
-1994,Hjúkrunarfræðingar,137.0
-1995,Hjúkrunarfræðingar,132.0
-1996,Hjúkrunarfræðingar,132.0
-1997,Hjúkrunarfræðingar,131.0
-1998,Hjúkrunarfræðingar,125.0
-1999,Hjúkrunarfræðingar,126.0
-2000,Hjúkrunarfræðingar,127.0
-2001,Hjúkrunarfræðingar,123.0
-2002,Hjúkrunarfræðingar,123.0
-2003,Hjúkrunarfræðingar,117.0
-2004,Hjúkrunarfræðingar,116.0
-2005,Hjúkrunarfræðingar,118.0
-2006,Hjúkrunarfræðingar,120.0
-2007,Hjúkrunarfræðingar,116.0
-2008,Hjúkrunarfræðingar,117.0
-2009,Hjúkrunarfræðingar,118.0
-2010,Hjúkrunarfræðingar,120.0
-2011,Hjúkrunarfræðingar,116.0
-2012,Hjúkrunarfræðingar,111.0
-2013,Hjúkrunarfræðingar,108.0
-2014,Hjúkrunarfræðingar,109.0
-2015,Hjúkrunarfræðingar,108.0
-2016,Hjúkrunarfræðingar,123.0
-2017,Hjúkrunarfræðingar,117.0
-2018,Hjúkrunarfræðingar,113.0
-1981,Iðjuþjálfar,14511.0
-1982,Iðjuþjálfar,11777.0
-1983,Iðjuþjálfar,10366.0
-1984,Iðjuþjálfar,8297.0
-1985,Iðjuþjálfar,6920.0
-1986,Iðjuþjálfar,6425.0
-1987,Iðjuþjálfar,6189.0
-1988,Iðjuþjálfar,5477.0
-1989,Iðjuþjálfar,4700.0
-1990,Iðjuþjálfar,4921.0
-1991,Iðjuþjálfar,4995.0
-1992,Iðjuþjálfar,4859.0
-1993,Iðjuþjálfar,5409.0
-1994,Iðjuþjálfar,4525.0
-1995,Iðjuþjálfar,4187.0
-1996,Iðjuþjálfar,4353.0
-1997,Iðjuþjálfar,3448.0
-1998,Iðjuþjálfar,3133.0
-1999,Iðjuþjálfar,4501.0
-2000,Iðjuþjálfar,4048.0
-2001,Iðjuþjálfar,3257.0
-2002,Iðjuþjálfar,
-2003,Iðjuþjálfar,
-2004,Iðjuþjálfar,1997.0
-2005,Iðjuþjálfar,1922.0
-2006,Iðjuþjálfar,1865.0
-2007,Iðjuþjálfar,1867.0
-2008,Iðjuþjálfar,1736.0
-2009,Iðjuþjálfar,1663.0
-2010,Iðjuþjálfar,1642.0
-2011,Iðjuþjálfar,1500.0
-2012,Iðjuþjálfar,1358.0
-2013,Iðjuþjálfar,1386.0
-2014,Iðjuþjálfar,1306.0
-2015,Iðjuþjálfar,1163.0
-2016,Iðjuþjálfar,1175.0
-2017,Iðjuþjálfar,1142.0
-2018,Iðjuþjálfar,1170.0
-1981,Lyfjafræðingar,3745.0
-1982,Lyfjafræðingar,3624.0
-1983,Lyfjafræðingar,3266.0
-1984,Lyfjafræðingar,3208.0
-1985,Lyfjafræðingar,2883.0
-1986,Lyfjafræðingar,2839.0
-1987,Lyfjafræðingar,2751.0
-1988,Lyfjafræðingar,2153.0
-1989,Lyfjafræðingar,2097.0
-1990,Lyfjafræðingar,1909.0
-1991,Lyfjafræðingar,1869.0
-1992,Lyfjafræðingar,1773.0
-1993,Lyfjafræðingar,1732.0
-1994,Lyfjafræðingar,1517.0
-1995,Lyfjafræðingar,1294.0
-1996,Lyfjafræðingar,1267.0
-1997,Lyfjafræðingar,1211.0
-1998,Lyfjafræðingar,1188.0
-1999,Lyfjafræðingar,1193.0
-2000,Lyfjafræðingar,1232.0
-2001,Lyfjafræðingar,1179.0
-2002,Lyfjafræðingar,1057.0
-2003,Lyfjafræðingar,1041.0
-2004,Lyfjafræðingar,1023.0
-2005,Lyfjafræðingar,1003.0
-2006,Lyfjafræðingar,986.0
-2007,Lyfjafræðingar,965.0
-2008,Lyfjafræðingar,971.0
-2009,Lyfjafræðingar,951.0
-2010,Lyfjafræðingar,931.0
-2011,Lyfjafræðingar,895.0
-2012,Lyfjafræðingar,955.0
-2013,Lyfjafræðingar,949.0
-2014,Lyfjafræðingar,946.0
-2015,Lyfjafræðingar,937.0
-2016,Lyfjafræðingar,967.0
-2017,Lyfjafræðingar,968.0
-2018,Lyfjafræðingar,947.0
-1981,Lyfjatæknar,3685.0
-1982,Lyfjatæknar,3569.0
-1983,Lyfjatæknar,3506.0
-1984,Lyfjatæknar,3538.0
-1985,Lyfjatæknar,2990.0
-1986,Lyfjatæknar,2570.0
-1987,Lyfjatæknar,2476.0
-1988,Lyfjatæknar,3451.0
-1989,Lyfjatæknar,2700.0
-1990,Lyfjatæknar,2722.0
-1991,Lyfjatæknar,2854.0
-1992,Lyfjatæknar,2982.0
-1993,Lyfjatæknar,2820.0
-1994,Lyfjatæknar,2567.0
-1995,Lyfjatæknar,2528.0
-1996,Lyfjatæknar,
-1997,Lyfjatæknar,
-1998,Lyfjatæknar,
-1999,Lyfjatæknar,
-2000,Lyfjatæknar,
-2001,Lyfjatæknar,
-2002,Lyfjatæknar,
-2003,Lyfjatæknar,
-2004,Lyfjatæknar,
-2005,Lyfjatæknar,
-2006,Lyfjatæknar,
-2007,Lyfjatæknar,
-2008,Lyfjatæknar,1846.0
-2009,Lyfjatæknar,1836.0
-2010,Lyfjatæknar,1841.0
-2011,Lyfjatæknar,1775.0
-2012,Lyfjatæknar,1963.0
-2013,Lyfjatæknar,
-2014,Lyfjatæknar,
-2015,Lyfjatæknar,
-2016,Lyfjatæknar,
-2017,Lyfjatæknar,
-2018,Lyfjatæknar,
-1981,Læknar,456.0
-1982,Læknar,443.0
-1983,Læknar,437.0
-1984,Læknar,419.0
-1985,Læknar,387.0
-1986,Læknar,386.0
-1987,Læknar,372.0
-1988,Læknar,373.0
-1989,Læknar,357.0
-1990,Læknar,352.0
-1991,Læknar,354.0
-1992,Læknar,340.0
-1993,Læknar,340.0
-1994,Læknar,335.0
-1995,Læknar,331.0
-1996,Læknar,322.0
-1997,Læknar,308.0
-1998,Læknar,303.0
-1999,Læknar,297.0
-2000,Læknar,293.0
-2001,Læknar,289.0
-2002,Læknar,280.0
-2003,Læknar,278.0
-2004,Læknar,278.0
-2005,Læknar,280.0
-2006,Læknar,281.0
-2007,Læknar,280.0
-2008,Læknar,276.0
-2009,Læknar,273.0
-2010,Læknar,279.0
-2011,Læknar,286.0
-2012,Læknar,282.0
-2013,Læknar,279.0
-2014,Læknar,276.0
-2015,Læknar,266.0
-2016,Læknar,262.0
-2017,Læknar,262.0
-2018,Læknar,260.0
-1981,Sjúkraþjálfarar,2609.0
-1982,Sjúkraþjálfarar,2309.0
-1983,Sjúkraþjálfarar,2337.0
-1984,Sjúkraþjálfarar,2022.0
-1985,Sjúkraþjálfarar,1821.0
-1986,Sjúkraþjálfarar,1757.0
-1987,Sjúkraþjálfarar,1629.0
-1988,Sjúkraþjálfarar,1431.0
-1989,Sjúkraþjálfarar,1372.0
-1990,Sjúkraþjálfarar,1242.0
-1991,Sjúkraþjálfarar,1237.0
-1992,Sjúkraþjálfarar,1126.0
-1993,Sjúkraþjálfarar,1073.0
-1994,Sjúkraþjálfarar,1059.0
-1995,Sjúkraþjálfarar,992.0
-1996,Sjúkraþjálfarar,937.0
-1997,Sjúkraþjálfarar,849.0
-1998,Sjúkraþjálfarar,828.0
-1999,Sjúkraþjálfarar,744.0
-2000,Sjúkraþjálfarar,700.0
-2001,Sjúkraþjálfarar,691.0
-2002,Sjúkraþjálfarar,
-2003,Sjúkraþjálfarar,
-2004,Sjúkraþjálfarar,716.0
-2005,Sjúkraþjálfarar,714.0
-2006,Sjúkraþjálfarar,724.0
-2007,Sjúkraþjálfarar,701.0
-2008,Sjúkraþjálfarar,672.0
-2009,Sjúkraþjálfarar,676.0
-2010,Sjúkraþjálfarar,673.0
-2011,Sjúkraþjálfarar,680.0
-2012,Sjúkraþjálfarar,646.0
-2013,Sjúkraþjálfarar,632.0
-2014,Sjúkraþjálfarar,620.0
-2015,Sjúkraþjálfarar,607.0
-2016,Sjúkraþjálfarar,603.0
-2017,Sjúkraþjálfarar,584.0
-2018,Sjúkraþjálfarar,586.0
-1981,Sjúkraliðar,255.0
-1982,Sjúkraliðar,244.0
-1983,Sjúkraliðar,220.0
-1984,Sjúkraliðar,215.0
-1985,Sjúkraliðar,217.0
-1986,Sjúkraliðar,218.0
-1987,Sjúkraliðar,209.0
-1988,Sjúkraliðar,202.0
-1989,Sjúkraliðar,191.0
-1990,Sjúkraliðar,185.0
-1991,Sjúkraliðar,184.0
-1992,Sjúkraliðar,188.0
-1993,Sjúkraliðar,183.0
-1994,Sjúkraliðar,182.0
-1995,Sjúkraliðar,
-1996,Sjúkraliðar,
-1997,Sjúkraliðar,184.0
-1998,Sjúkraliðar,184.0
-1999,Sjúkraliðar,186.0
-2000,Sjúkraliðar,190.0
-2001,Sjúkraliðar,202.0
-2002,Sjúkraliðar,196.0
-2003,Sjúkraliðar,197.0
-2004,Sjúkraliðar,199.0
-2005,Sjúkraliðar,187.0
-2006,Sjúkraliðar,192.0
-2007,Sjúkraliðar,193.0
-2008,Sjúkraliðar,160.0
-2009,Sjúkraliðar,145.0
-2010,Sjúkraliðar,161.0
-2011,Sjúkraliðar,163.0
-2012,Sjúkraliðar,165.0
-2013,Sjúkraliðar,165.0
-2014,Sjúkraliðar,166.0
-2015,Sjúkraliðar,164.0
-2016,Sjúkraliðar,167.0
-2017,Sjúkraliðar,174.0
-2018,Sjúkraliðar,177.0
-1981,Lyfsalar,6110.0
-1982,Lyfsalar,6198.0
-1983,Lyfsalar,6113.0
-1984,Lyfsalar,6015.0
-1985,Lyfsalar,5767.0
-1986,Lyfsalar,5678.0
-1987,Lyfsalar,5757.0
-1988,Lyfsalar,5859.0
-1989,Lyfsalar,5902.0
-1990,Lyfsalar,5815.0
-1991,Lyfsalar,6040.0
-1992,Lyfsalar,6102.0
-1993,Lyfsalar,6164.0
-1994,Lyfsalar,6209.0
-1995,Lyfsalar,6090.0
-1996,Lyfsalar,4998.0
-1997,Lyfsalar,4696.0
-1998,Lyfsalar,4595.0
-1999,Lyfsalar,4501.0
-2000,Lyfsalar,4428.0
-2001,Lyfsalar,4409.0
-2002,Lyfsalar,4653.0
-2003,Lyfsalar,4925.0
-2004,Lyfsalar,4893.0
-2005,Lyfsalar,5355.0
-2006,Lyfsalar,5594.0
-2007,Lyfsalar,5633.0
-2008,Lyfsalar,6142.0
-2009,Lyfsalar,5882.0
-2010,Lyfsalar,5587.0
-2011,Lyfsalar,5417.0
-2012,Lyfsalar,5455.0
-2013,Lyfsalar,5921.0
-2014,Lyfsalar,5308.0
-2015,Lyfsalar,5196.0
-2016,Lyfsalar,5127.0
-2017,Lyfsalar,5124.0
-2018,Lyfsalar,5028.0
-1981,Geislafræðingar,5277.0
-1982,Geislafræðingar,5234.0
-1983,Geislafræðingar,4415.0
-1984,Geislafræðingar,4627.0
-1985,Geislafræðingar,4570.0
-1986,Geislafræðingar,4439.0
-1987,Geislafræðingar,4196.0
-1988,Geislafræðingar,3705.0
-1989,Geislafræðingar,3254.0
-1990,Geislafræðingar,3239.0
-1991,Geislafræðingar,3288.0
-1992,Geislafræðingar,3200.0
-1993,Geislafræðingar,
-1994,Geislafræðingar,
-1995,Geislafræðingar,
-1996,Geislafræðingar,
-1997,Geislafræðingar,3363.0
-1998,Geislafræðingar,3490.0
-1999,Geislafræðingar,3403.0
-2000,Geislafræðingar,3257.0
-2001,Geislafræðingar,3412.0
-2002,Geislafræðingar,3354.0
-2003,Geislafræðingar,3379.0
-2004,Geislafræðingar,3336.0
-2005,Geislafræðingar,3296.0
-2006,Geislafræðingar,3496.0
-2007,Geislafræðingar,2948.0
-2008,Geislafræðingar,2985.0
-2009,Geislafræðingar,2811.0
-2010,Geislafræðingar,2769.0
-2011,Geislafræðingar,2708.0
-2012,Geislafræðingar,2953.0
-2013,Geislafræðingar,2857.0
-2014,Geislafræðingar,2551.0
-2015,Geislafræðingar,2358.0
-2016,Geislafræðingar,2366.0
-2017,Geislafræðingar,2370.0
-2018,Geislafræðingar,2204.0
-1981,Félagsráðgjafar,8599.0
-1982,Félagsráðgjafar,7598.0
-1983,Félagsráðgjafar,7012.0
-1984,Félagsráðgjafar,6874.0
-1985,Félagsráðgjafar,7339.0
-1986,Félagsráðgjafar,7630.0
-1987,Félagsráðgjafar,6691.0
-1988,Félagsráðgjafar,6459.0
-1989,Félagsráðgjafar,6507.0
-1990,Félagsráðgjafar,5950.0
-1991,Félagsráðgjafar,5646.0
-1992,Félagsráðgjafar,5355.0
-1993,Félagsráðgjafar,5762.0
-1994,Félagsráðgjafar,5340.0
-1995,Félagsráðgjafar,
-1996,Félagsráðgjafar,
-1997,Félagsráðgjafar,3537.0
-1998,Félagsráðgjafar,3535.0
-1999,Félagsráðgjafar,3322.0
-2000,Félagsráðgjafar,2673.0
-2001,Félagsráðgjafar,2349.0
-2002,Félagsráðgjafar,2345.0
-2003,Félagsráðgjafar,
-2004,Félagsráðgjafar,
-2005,Félagsráðgjafar,
-2006,Félagsráðgjafar,
-2007,Félagsráðgjafar,1052.0
-2008,Félagsráðgjafar,965.0
-2009,Félagsráðgjafar,892.0
-2010,Félagsráðgjafar,808.0
-2011,Félagsráðgjafar,845.0
-2012,Félagsráðgjafar,840.0
-2013,Félagsráðgjafar,779.0
-2014,Félagsráðgjafar,758.0
-2015,Félagsráðgjafar,729.0
-2016,Félagsráðgjafar,745.0
-2017,Félagsráðgjafar,754.0
-2018,Félagsráðgjafar,732.0
+2000,Medical doctors,41.35
+2001,Medical doctors,41.64
+2002,Medical doctors,42.75
+2003,Medical doctors,43.57
+2004,Medical doctors,43.23
+2005,Medical doctors,43.33
+2006,Medical doctors,43.18
+2007,Medical doctors,43.1
+2008,Medical doctors,42.98
+2009,Medical doctors,42.33
+2010,Medical doctors,41.94
+2011,Medical doctors,41.01
+2012,Medical doctors,35.73
+2013,Medical doctors,36.29
+2014,Medical doctors,36.63
+2015,Medical doctors,43.76
+2016,Medical doctors,38.85
+2017,Medical doctors,45.07
+2018,Medical doctors,45.26
+2019,Medical doctors,44.93
+2020,Medical doctors,49.4
+2021,Medical doctors,49.95
+2022,Medical doctors,50.37
+2000,Nursing and midwifery personnel,87.55
+2001,Nursing and midwifery personnel,89.78
+2002,Nursing and midwifery personnel,88.98
+2003,Nursing and midwifery personnel,93.25
+2004,Nursing and midwifery personnel,94.61
+2005,Nursing and midwifery personnel,94.63
+2006,Nursing and midwifery personnel,93.6
+2007,Nursing and midwifery personnel,96.66
+2008,Nursing and midwifery personnel,94.43
+2009,Nursing and midwifery personnel,91.93
+2010,Nursing and midwifery personnel,91.4
+2011,Nursing and midwifery personnel,95.56
+2012,Nursing and midwifery personnel,99.04
+2013,Nursing and midwifery personnel,102.19
+2014,Nursing and midwifery personnel,101.39
+2015,Nursing and midwifery personnel,102.25
+2016,Nursing and midwifery personnel,90.4
+2017,Nursing and midwifery personnel,96.2
+2018,Nursing and midwifery personnel,98.72
+2019,Nursing and midwifery personnel,104.9
+2020,Nursing and midwifery personnel,106.77
+2021,Nursing and midwifery personnel,106.78
+2022,Nursing and midwifery personnel,106.82
+2000,Lyfjafræðingar,10.54
+2001,Lyfjafræðingar,10.87
+2002,Lyfjafræðingar,11.69
+2003,Lyfjafræðingar,11.72
+2004,Lyfjafræðingar,11.94
+2005,Lyfjafræðingar,12.09
+2006,Lyfjafræðingar,12.24
+2007,Lyfjafræðingar,12.45
+2008,Lyfjafræðingar,17.56
+2009,Lyfjafræðingar,17.57
+2010,Lyfjafræðingar,18.01
+2011,Lyfjafræðingar,18.72
+2012,Lyfjafræðingar,17.52
+2013,Lyfjafræðingar,12.37
+2014,Lyfjafræðingar,12.59
+2015,Lyfjafræðingar,12.73
+2016,Lyfjafræðingar,12.51
+2017,Lyfjafræðingar,12.65
+2018,Lyfjafræðingar,12.86
+2019,Lyfjafræðingar,12.66
+2020,Lyfjafræðingar,13.18
+2021,Lyfjafræðingar,13.15
+2022,Lyfjafræðingar,13.05
+2000,Tannlæknar,10.14
+2001,Tannlæknar,10.06
+2002,Tannlæknar,10.05
+2003,Tannlæknar,9.98
+2004,Tannlæknar,9.88
+2005,Tannlæknar,9.84
+2006,Tannlæknar,9.54
+2007,Tannlæknar,9.56
+2008,Tannlæknar,9.54
+2009,Tannlæknar,9.21
+2010,Tannlæknar,9.41
+2011,Tannlæknar,8.89
+2012,Tannlæknar,8.45
+2013,Tannlæknar,8.45
+2014,Tannlæknar,8.41
+2015,Tannlæknar,8.45
+2016,Tannlæknar,8.36
+2017,Tannlæknar,8.25
+2018,Tannlæknar,8.29
+2019,Tannlæknar,7.98
+2020,Tannlæknar,7.96
+2021,Tannlæknar,7.97
+2022,Tannlæknar,8.0

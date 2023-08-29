@@ -20,23 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Biomedical scientists",
-                "Dental hygienists",
-                "Dental Surgery Assistants",
-                "Dentists",
-                "Environmental health officers",
-                "Exam. pharmacists",
-                "Midwives",
-                "Nurses",
-                "Occupational therapists",
+                "Medical doctors",
+                "Nursing and midwifery personnel",
                 "Pharmacists",
-                "Pharmacy technicians",
-                "Physicians and surgeons",
-                "Physiotherapists",
-                "Practical nurses",
-                "Proprietary pharmacists",
-                "Radiographers",
-                "Social workers",
+                "Dentists",
                 ""
               ]
             },
