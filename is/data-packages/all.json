@@ -5147,8 +5147,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medical doctors",
-                "Nursing and midwifery personnel",
+                "Læknar",
+                "Hjúkrunarfræðingar og ljósmæður",
                 "Lyfjafræðingar",
                 "Tannlæknar",
                 ""
