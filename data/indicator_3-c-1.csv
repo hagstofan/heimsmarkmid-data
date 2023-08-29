@@ -1,647 +1,93 @@
 Year,Type of Occupation,Value
-1981,Biomedical scientists,1161
-1982,Biomedical scientists,1143
-1983,Biomedical scientists,1041
-1984,Biomedical scientists,1042
-1985,Biomedical scientists,1067
-1986,Biomedical scientists,1163
-1987,Biomedical scientists,1120
-1988,Biomedical scientists,1058
-1989,Biomedical scientists,1027
-1990,Biomedical scientists,1084
-1991,Biomedical scientists,1031
-1992,Biomedical scientists,914
-1993,Biomedical scientists,924
-1994,Biomedical scientists,927
-1995,Biomedical scientists,
-1996,Biomedical scientists,
-1997,Biomedical scientists,923
-1998,Biomedical scientists,951
-1999,Biomedical scientists,936
-2000,Biomedical scientists,970
-2001,Biomedical scientists,978
-2002,Biomedical scientists,998
-2003,Biomedical scientists,
-2004,Biomedical scientists,982
-2005,Biomedical scientists,996
-2006,Biomedical scientists,1026
-2007,Biomedical scientists,1099
-2008,Biomedical scientists,1079
-2009,Biomedical scientists,1062
-2010,Biomedical scientists,1034
-2011,Biomedical scientists,1069
-2012,Biomedical scientists,1084
-2013,Biomedical scientists,1071
-2014,Biomedical scientists,1065
-2015,Biomedical scientists,1105
-2016,Biomedical scientists,1200
-2017,Biomedical scientists,1267
-2018,Biomedical scientists,1257
-1981,Dental hygienists,
-1982,Dental hygienists,
-1983,Dental hygienists,
-1984,Dental hygienists,
-1985,Dental hygienists,
-1986,Dental hygienists,
-1987,Dental hygienists,
-1988,Dental hygienists,
-1989,Dental hygienists,
-1990,Dental hygienists,
-1991,Dental hygienists,
-1992,Dental hygienists,
-1993,Dental hygienists,
-1994,Dental hygienists,
-1995,Dental hygienists,
-1996,Dental hygienists,
-1997,Dental hygienists,
-1998,Dental hygienists,
-1999,Dental hygienists,
-2000,Dental hygienists,
-2001,Dental hygienists,
-2002,Dental hygienists,
-2003,Dental hygienists,
-2004,Dental hygienists,
-2005,Dental hygienists,11996
-2006,Dental hygienists,16193
-2007,Dental hygienists,16603
-2008,Dental hygienists,17743
-2009,Dental hygienists,22688
-2010,Dental hygienists,22747
-2011,Dental hygienists,21305
-2012,Dental hygienists,22990
-2013,Dental hygienists,23262
-2014,Dental hygienists,23507
-2015,Dental hygienists,25579
-2016,Dental hygienists,26027
-2017,Dental hygienists,29038
-2018,Dental hygienists,29749
-1981,Dental Surgery Assistants,
-1982,Dental Surgery Assistants,
-1983,Dental Surgery Assistants,
-1984,Dental Surgery Assistants,
-1985,Dental Surgery Assistants,
-1986,Dental Surgery Assistants,
-1987,Dental Surgery Assistants,
-1988,Dental Surgery Assistants,
-1989,Dental Surgery Assistants,
-1990,Dental Surgery Assistants,
-1991,Dental Surgery Assistants,
-1992,Dental Surgery Assistants,
-1993,Dental Surgery Assistants,
-1994,Dental Surgery Assistants,
-1995,Dental Surgery Assistants,
-1996,Dental Surgery Assistants,
-1997,Dental Surgery Assistants,
-1998,Dental Surgery Assistants,
-1999,Dental Surgery Assistants,
-2000,Dental Surgery Assistants,
-2001,Dental Surgery Assistants,
-2002,Dental Surgery Assistants,
-2003,Dental Surgery Assistants,
-2004,Dental Surgery Assistants,969
-2005,Dental Surgery Assistants,996
-2006,Dental Surgery Assistants,1036
-2007,Dental Surgery Assistants,1095
-2008,Dental Surgery Assistants,
-2009,Dental Surgery Assistants,
-2010,Dental Surgery Assistants,1027
-2011,Dental Surgery Assistants,999
-2012,Dental Surgery Assistants,1006
-2013,Dental Surgery Assistants,1071
-2014,Dental Surgery Assistants,1025
-2015,Dental Surgery Assistants,1056
-2016,Dental Surgery Assistants,1041
-2017,Dental Surgery Assistants,1162
-2018,Dental Surgery Assistants,1322
-1981,Dentists,1319
-1982,Dentists,1309
-1983,Dentists,1248
-1984,Dentists,1247
-1985,Dentists,1229
-1986,Dentists,1191
-1987,Dentists,1162
-1988,Dentists,1172
-1989,Dentists,1159
-1990,Dentists,1112
-1991,Dentists,1078
-1992,Dentists,1021
-1993,Dentists,1004
-1994,Dentists,978
-1995,Dentists,992
-1996,Dentists,974
-1997,Dentists,959
-1998,Dentists,1017
-1999,Dentists,1004
-2000,Dentists,1001
-2001,Dentists,1006
-2002,Dentists,1002
-2003,Dentists,1009
-2004,Dentists,1023
-2005,Dentists,1038
-2006,Dentists,1076
-2007,Dentists,1073
-2008,Dentists,1061
-2009,Dentists,1080
-2010,Dentists,1065
-2011,Dentists,1129
-2012,Dentists,1192
-2013,Dentists,1197
-2014,Dentists,1201
-2015,Dentists,1196
-2016,Dentists,1217
-2017,Dentists,1249
-2018,Dentists,1235
-1981,Environmental health officers,8292
-1982,Environmental health officers,8724
-1983,Environmental health officers,10366
-1984,Environmental health officers,9624
-1985,Environmental health officers,7569
-1986,Environmental health officers,8139
-1987,Environmental health officers,9169
-1988,Environmental health officers,8687
-1989,Environmental health officers,9399
-1990,Environmental health officers,9477
-1991,Environmental health officers,9276
-1992,Environmental health officers,9371
-1993,Environmental health officers,9467
-1994,Environmental health officers,9535
-1995,Environmental health officers,9570
-1996,Environmental health officers,6747
-1997,Environmental health officers,6810
-1998,Environmental health officers,6893
-1999,Environmental health officers,7155
-2000,Environmental health officers,6747
-2001,Environmental health officers,
-2002,Environmental health officers,
-2003,Environmental health officers,
-2004,Environmental health officers,
-2005,Environmental health officers,5767
-2006,Environmental health officers,5805
-2007,Environmental health officers,6067
-2008,Environmental health officers,5807
-2009,Environmental health officers,5993
-2010,Environmental health officers,5897
-2011,Environmental health officers,5918
-2012,Environmental health officers,5960
-2013,Environmental health officers,6031
-2014,Environmental health officers,5877
-2015,Environmental health officers,6274
-2016,Environmental health officers,5936
-2017,Environmental health officers,6222
-2018,Environmental health officers,6051
-1981,Exam. pharmacists,4073
-1982,Exam. pharmacists,4132
-1983,Exam. pharmacists,4257
-1984,Exam. pharmacists,4718
-1985,Exam. pharmacists,4658
-1986,Exam. pharmacists,4787
-1987,Exam. pharmacists,4951
-1988,Exam. pharmacists,5038
-1989,Exam. pharmacists,5287
-1990,Exam. pharmacists,5686
-1991,Exam. pharmacists,6493
-1992,Exam. pharmacists,5831
-1993,Exam. pharmacists,6024
-1994,Exam. pharmacists,6357
-1995,Exam. pharmacists,6380
-1996,Exam. pharmacists,5867
-1997,Exam. pharmacists,5921
-1998,Exam. pharmacists,6565
-1999,Exam. pharmacists,6644
-2000,Exam. pharmacists,7084
-2001,Exam. pharmacists,7348
-2002,Exam. pharmacists,7397
-2003,Exam. pharmacists,7647
-2004,Exam. pharmacists,8635
-2005,Exam. pharmacists,9088
-2006,Exam. pharmacists,10609
-2007,Exam. pharmacists,10878
-2008,Exam. pharmacists,11828
-2009,Exam. pharmacists,14438
-2010,Exam. pharmacists,13846
-2011,Exam. pharmacists,13895
-2012,Exam. pharmacists,15327
-2013,Exam. pharmacists,19157
-2014,Exam. pharmacists,21940
-2015,Exam. pharmacists,22169
-2016,Exam. pharmacists,22557
-2017,Exam. pharmacists,23230
-2018,Exam. pharmacists,23799
-1981,Midwives,1407
-1982,Midwives,1338
-1983,Midwives,1282
-1984,Midwives,1273
-1985,Midwives,1281
-1986,Midwives,1292
-1987,Midwives,1368
-1988,Midwives,1340
-1989,Midwives,1275
-1990,Midwives,1267
-1991,Midwives,1318
-1992,Midwives,1312
-1993,Midwives,1359
-1994,Midwives,1376
-1995,Midwives,
-1996,Midwives,
-1997,Midwives,1348
-1998,Midwives,1332
-1999,Midwives,1335
-2000,Midwives,1376
-2001,Midwives,1309
-2002,Midwives,1387
-2003,Midwives,1345
-2004,Midwives,1311
-2005,Midwives,1293
-2006,Midwives,1282
-2007,Midwives,1288
-2008,Midwives,1277
-2009,Midwives,1271
-2010,Midwives,1274
-2011,Midwives,1150
-2012,Midwives,1257
-2013,Midwives,1234
-2014,Midwives,1219
-2015,Midwives,1209
-2016,Midwives,1277
-2017,Midwives,1267
-2018,Midwives,1253
-1981,Nurses,184
-1982,Nurses,172
-1983,Nurses,164
-1984,Nurses,158
-1985,Nurses,155
-1986,Nurses,147
-1987,Nurses,145
-1988,Nurses,147
-1989,Nurses,147
-1990,Nurses,143
-1991,Nurses,143
-1992,Nurses,141
-1993,Nurses,139
-1994,Nurses,137
-1995,Nurses,132
-1996,Nurses,132
-1997,Nurses,131
-1998,Nurses,125
-1999,Nurses,126
-2000,Nurses,127
-2001,Nurses,123
-2002,Nurses,123
-2003,Nurses,117
-2004,Nurses,116
-2005,Nurses,118
-2006,Nurses,120
-2007,Nurses,116
-2008,Nurses,117
-2009,Nurses,118
-2010,Nurses,120
-2011,Nurses,116
-2012,Nurses,111
-2013,Nurses,108
-2014,Nurses,109
-2015,Nurses,108
-2016,Nurses,123
-2017,Nurses,117
-2018,Nurses,113
-1981,Occupational therapists,14511
-1982,Occupational therapists,11777
-1983,Occupational therapists,10366
-1984,Occupational therapists,8297
-1985,Occupational therapists,6920
-1986,Occupational therapists,6425
-1987,Occupational therapists,6189
-1988,Occupational therapists,5477
-1989,Occupational therapists,4700
-1990,Occupational therapists,4921
-1991,Occupational therapists,4995
-1992,Occupational therapists,4859
-1993,Occupational therapists,5409
-1994,Occupational therapists,4525
-1995,Occupational therapists,4187
-1996,Occupational therapists,4353
-1997,Occupational therapists,3448
-1998,Occupational therapists,3133
-1999,Occupational therapists,4501
-2000,Occupational therapists,4048
-2001,Occupational therapists,3257
-2002,Occupational therapists,
-2003,Occupational therapists,
-2004,Occupational therapists,1997
-2005,Occupational therapists,1922
-2006,Occupational therapists,1865
-2007,Occupational therapists,1867
-2008,Occupational therapists,1736
-2009,Occupational therapists,1663
-2010,Occupational therapists,1642
-2011,Occupational therapists,1500
-2012,Occupational therapists,1358
-2013,Occupational therapists,1386
-2014,Occupational therapists,1306
-2015,Occupational therapists,1163
-2016,Occupational therapists,1175
-2017,Occupational therapists,1142
-2018,Occupational therapists,1170
-1981,Pharmacists,3745
-1982,Pharmacists,3624
-1983,Pharmacists,3266
-1984,Pharmacists,3208
-1985,Pharmacists,2883
-1986,Pharmacists,2839
-1987,Pharmacists,2751
-1988,Pharmacists,2153
-1989,Pharmacists,2097
-1990,Pharmacists,1909
-1991,Pharmacists,1869
-1992,Pharmacists,1773
-1993,Pharmacists,1732
-1994,Pharmacists,1517
-1995,Pharmacists,1294
-1996,Pharmacists,1267
-1997,Pharmacists,1211
-1998,Pharmacists,1188
-1999,Pharmacists,1193
-2000,Pharmacists,1232
-2001,Pharmacists,1179
-2002,Pharmacists,1057
-2003,Pharmacists,1041
-2004,Pharmacists,1023
-2005,Pharmacists,1003
-2006,Pharmacists,986
-2007,Pharmacists,965
-2008,Pharmacists,971
-2009,Pharmacists,951
-2010,Pharmacists,931
-2011,Pharmacists,895
-2012,Pharmacists,955
-2013,Pharmacists,949
-2014,Pharmacists,946
-2015,Pharmacists,937
-2016,Pharmacists,967
-2017,Pharmacists,968
-2018,Pharmacists,947
-1981,Pharmacy technicians,3685
-1982,Pharmacy technicians,3569
-1983,Pharmacy technicians,3506
-1984,Pharmacy technicians,3538
-1985,Pharmacy technicians,2990
-1986,Pharmacy technicians,2570
-1987,Pharmacy technicians,2476
-1988,Pharmacy technicians,3451
-1989,Pharmacy technicians,2700
-1990,Pharmacy technicians,2722
-1991,Pharmacy technicians,2854
-1992,Pharmacy technicians,2982
-1993,Pharmacy technicians,2820
-1994,Pharmacy technicians,2567
-1995,Pharmacy technicians,2528
-1996,Pharmacy technicians,
-1997,Pharmacy technicians,
-1998,Pharmacy technicians,
-1999,Pharmacy technicians,
-2000,Pharmacy technicians,
-2001,Pharmacy technicians,
-2002,Pharmacy technicians,
-2003,Pharmacy technicians,
-2004,Pharmacy technicians,
-2005,Pharmacy technicians,
-2006,Pharmacy technicians,
-2007,Pharmacy technicians,
-2008,Pharmacy technicians,1846
-2009,Pharmacy technicians,1836
-2010,Pharmacy technicians,1841
-2011,Pharmacy technicians,1775
-2012,Pharmacy technicians,1963
-2013,Pharmacy technicians,
-2014,Pharmacy technicians,
-2015,Pharmacy technicians,
-2016,Pharmacy technicians,
-2017,Pharmacy technicians,
-2018,Pharmacy technicians,
-1981,Physicians and surgeons,456
-1982,Physicians and surgeons,443
-1983,Physicians and surgeons,437
-1984,Physicians and surgeons,419
-1985,Physicians and surgeons,387
-1986,Physicians and surgeons,386
-1987,Physicians and surgeons,372
-1988,Physicians and surgeons,373
-1989,Physicians and surgeons,357
-1990,Physicians and surgeons,352
-1991,Physicians and surgeons,354
-1992,Physicians and surgeons,340
-1993,Physicians and surgeons,340
-1994,Physicians and surgeons,335
-1995,Physicians and surgeons,331
-1996,Physicians and surgeons,322
-1997,Physicians and surgeons,308
-1998,Physicians and surgeons,303
-1999,Physicians and surgeons,297
-2000,Physicians and surgeons,293
-2001,Physicians and surgeons,289
-2002,Physicians and surgeons,280
-2003,Physicians and surgeons,278
-2004,Physicians and surgeons,278
-2005,Physicians and surgeons,280
-2006,Physicians and surgeons,281
-2007,Physicians and surgeons,280
-2008,Physicians and surgeons,276
-2009,Physicians and surgeons,273
-2010,Physicians and surgeons,279
-2011,Physicians and surgeons,286
-2012,Physicians and surgeons,282
-2013,Physicians and surgeons,279
-2014,Physicians and surgeons,276
-2015,Physicians and surgeons,266
-2016,Physicians and surgeons,262
-2017,Physicians and surgeons,262
-2018,Physicians and surgeons,260
-1981,Physiotherapists,2609
-1982,Physiotherapists,2309
-1983,Physiotherapists,2337
-1984,Physiotherapists,2022
-1985,Physiotherapists,1821
-1986,Physiotherapists,1757
-1987,Physiotherapists,1629
-1988,Physiotherapists,1431
-1989,Physiotherapists,1372
-1990,Physiotherapists,1242
-1991,Physiotherapists,1237
-1992,Physiotherapists,1126
-1993,Physiotherapists,1073
-1994,Physiotherapists,1059
-1995,Physiotherapists,992
-1996,Physiotherapists,937
-1997,Physiotherapists,849
-1998,Physiotherapists,828
-1999,Physiotherapists,744
-2000,Physiotherapists,700
-2001,Physiotherapists,691
-2002,Physiotherapists,
-2003,Physiotherapists,
-2004,Physiotherapists,716
-2005,Physiotherapists,714
-2006,Physiotherapists,724
-2007,Physiotherapists,701
-2008,Physiotherapists,672
-2009,Physiotherapists,676
-2010,Physiotherapists,673
-2011,Physiotherapists,680
-2012,Physiotherapists,646
-2013,Physiotherapists,632
-2014,Physiotherapists,620
-2015,Physiotherapists,607
-2016,Physiotherapists,603
-2017,Physiotherapists,584
-2018,Physiotherapists,586
-1981,Practical nurses,255
-1982,Practical nurses,244
-1983,Practical nurses,220
-1984,Practical nurses,215
-1985,Practical nurses,217
-1986,Practical nurses,218
-1987,Practical nurses,209
-1988,Practical nurses,202
-1989,Practical nurses,191
-1990,Practical nurses,185
-1991,Practical nurses,184
-1992,Practical nurses,188
-1993,Practical nurses,183
-1994,Practical nurses,182
-1995,Practical nurses,
-1996,Practical nurses,
-1997,Practical nurses,184
-1998,Practical nurses,184
-1999,Practical nurses,186
-2000,Practical nurses,190
-2001,Practical nurses,202
-2002,Practical nurses,196
-2003,Practical nurses,197
-2004,Practical nurses,199
-2005,Practical nurses,187
-2006,Practical nurses,192
-2007,Practical nurses,193
-2008,Practical nurses,160
-2009,Practical nurses,145
-2010,Practical nurses,161
-2011,Practical nurses,163
-2012,Practical nurses,165
-2013,Practical nurses,165
-2014,Practical nurses,166
-2015,Practical nurses,164
-2016,Practical nurses,167
-2017,Practical nurses,174
-2018,Practical nurses,177
-1981,Proprietary pharmacists,6110
-1982,Proprietary pharmacists,6198
-1983,Proprietary pharmacists,6113
-1984,Proprietary pharmacists,6015
-1985,Proprietary pharmacists,5767
-1986,Proprietary pharmacists,5678
-1987,Proprietary pharmacists,5757
-1988,Proprietary pharmacists,5859
-1989,Proprietary pharmacists,5902
-1990,Proprietary pharmacists,5815
-1991,Proprietary pharmacists,6040
-1992,Proprietary pharmacists,6102
-1993,Proprietary pharmacists,6164
-1994,Proprietary pharmacists,6209
-1995,Proprietary pharmacists,6090
-1996,Proprietary pharmacists,4998
-1997,Proprietary pharmacists,4696
-1998,Proprietary pharmacists,4595
-1999,Proprietary pharmacists,4501
-2000,Proprietary pharmacists,4428
-2001,Proprietary pharmacists,4409
-2002,Proprietary pharmacists,4653
-2003,Proprietary pharmacists,4925
-2004,Proprietary pharmacists,4893
-2005,Proprietary pharmacists,5355
-2006,Proprietary pharmacists,5594
-2007,Proprietary pharmacists,5633
-2008,Proprietary pharmacists,6142
-2009,Proprietary pharmacists,5882
-2010,Proprietary pharmacists,5587
-2011,Proprietary pharmacists,5417
-2012,Proprietary pharmacists,5455
-2013,Proprietary pharmacists,5921
-2014,Proprietary pharmacists,5308
-2015,Proprietary pharmacists,5196
-2016,Proprietary pharmacists,5127
-2017,Proprietary pharmacists,5124
-2018,Proprietary pharmacists,5028
-1981,Radiographers,5277
-1982,Radiographers,5234
-1983,Radiographers,4415
-1984,Radiographers,4627
-1985,Radiographers,4570
-1986,Radiographers,4439
-1987,Radiographers,4196
-1988,Radiographers,3705
-1989,Radiographers,3254
-1990,Radiographers,3239
-1991,Radiographers,3288
-1992,Radiographers,3200
-1993,Radiographers,
-1994,Radiographers,
-1995,Radiographers,
-1996,Radiographers,
-1997,Radiographers,3363
-1998,Radiographers,3490
-1999,Radiographers,3403
-2000,Radiographers,3257
-2001,Radiographers,3412
-2002,Radiographers,3354
-2003,Radiographers,3379
-2004,Radiographers,3336
-2005,Radiographers,3296
-2006,Radiographers,3496
-2007,Radiographers,2948
-2008,Radiographers,2985
-2009,Radiographers,2811
-2010,Radiographers,2769
-2011,Radiographers,2708
-2012,Radiographers,2953
-2013,Radiographers,2857
-2014,Radiographers,2551
-2015,Radiographers,2358
-2016,Radiographers,2366
-2017,Radiographers,2370
-2018,Radiographers,2204
-1981,Social workers,8599
-1982,Social workers,7598
-1983,Social workers,7012
-1984,Social workers,6874
-1985,Social workers,7339
-1986,Social workers,7630
-1987,Social workers,6691
-1988,Social workers,6459
-1989,Social workers,6507
-1990,Social workers,5950
-1991,Social workers,5646
-1992,Social workers,5355
-1993,Social workers,5762
-1994,Social workers,5340
-1995,Social workers,
-1996,Social workers,
-1997,Social workers,3537
-1998,Social workers,3535
-1999,Social workers,3322
-2000,Social workers,2673
-2001,Social workers,2349
-2002,Social workers,2345
-2003,Social workers,
-2004,Social workers,
-2005,Social workers,
-2006,Social workers,
-2007,Social workers,1052
-2008,Social workers,965
-2009,Social workers,892
-2010,Social workers,808
-2011,Social workers,845
-2012,Social workers,840
-2013,Social workers,779
-2014,Social workers,758
-2015,Social workers,729
-2016,Social workers,745
-2017,Social workers,754
-2018,Social workers,732
+2000,Medical doctors,41.35
+2001,Medical doctors,41.64
+2002,Medical doctors,42.75
+2003,Medical doctors,43.57
+2004,Medical doctors,43.23
+2005,Medical doctors,43.33
+2006,Medical doctors,43.18
+2007,Medical doctors,43.10
+2008,Medical doctors,42.98
+2009,Medical doctors,42.33
+2010,Medical doctors,41.94
+2011,Medical doctors,41.01
+2012,Medical doctors,35.73
+2013,Medical doctors,36.29
+2014,Medical doctors,36.63
+2015,Medical doctors,43.76
+2016,Medical doctors,38.85
+2017,Medical doctors,45.07
+2018,Medical doctors,45.26
+2019,Medical doctors,44.93
+2020,Medical doctors,49.40
+2021,Medical doctors,49.95
+2022,Medical doctors,50.37
+2000,Nursing and midwifery personnel,87.55
+2001,Nursing and midwifery personnel,89.78
+2002,Nursing and midwifery personnel,88.98
+2003,Nursing and midwifery personnel,93.25
+2004,Nursing and midwifery personnel,94.61
+2005,Nursing and midwifery personnel,94.63
+2006,Nursing and midwifery personnel,93.60
+2007,Nursing and midwifery personnel,96.66
+2008,Nursing and midwifery personnel,94.43
+2009,Nursing and midwifery personnel,91.93
+2010,Nursing and midwifery personnel,91.40
+2011,Nursing and midwifery personnel,95.56
+2012,Nursing and midwifery personnel,99.04
+2013,Nursing and midwifery personnel,102.19
+2014,Nursing and midwifery personnel,101.39
+2015,Nursing and midwifery personnel,102.25
+2016,Nursing and midwifery personnel,90.40
+2017,Nursing and midwifery personnel,96.20
+2018,Nursing and midwifery personnel,98.72
+2019,Nursing and midwifery personnel,104.90
+2020,Nursing and midwifery personnel,106.77
+2021,Nursing and midwifery personnel,106.78
+2022,Nursing and midwifery personnel,106.82
+2000,Pharmacists,8.24
+2001,Pharmacists,8.58
+2002,Pharmacists,9.53
+2003,Pharmacists,9.67
+2004,Pharmacists,9.88
+2005,Pharmacists,10.18
+2006,Pharmacists,10.40
+2007,Pharmacists,10.63
+2008,Pharmacists,10.43
+2009,Pharmacists,10.46
+2010,Pharmacists,10.77
+2011,Pharmacists,11.21
+2012,Pharmacists,10.55
+2013,Pharmacists,10.66
+2014,Pharmacists,10.69
+2015,Pharmacists,10.79
+2016,Pharmacists,10.53
+2017,Pharmacists,10.64
+2018,Pharmacists,10.82
+2019,Pharmacists,10.59
+2020,Pharmacists,11.07
+2021,Pharmacists,11.14
+2022,Pharmacists,11.06
+2000,Dentists,10.14
+2001,Dentists,10.06
+2002,Dentists,10.05
+2003,Dentists,9.98
+2004,Dentists,9.88
+2005,Dentists,9.84
+2006,Dentists,9.54
+2007,Dentists,9.56
+2008,Dentists,9.54
+2009,Dentists,9.21
+2010,Dentists,9.41
+2011,Dentists,8.89
+2012,Dentists,8.45
+2013,Dentists,8.45
+2014,Dentists,8.41
+2015,Dentists,8.45
+2016,Dentists,8.36
+2017,Dentists,8.25
+2018,Dentists,8.29
+2019,Dentists,7.98
+2020,Dentists,7.96
+2021,Dentists,7.97
+2022,Dentists,8.00

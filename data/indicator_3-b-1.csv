@@ -8,6 +8,8 @@ Year,Vaccine,Vaccine - participation,Value
 2017,"DTP, Polio, HIB",% Covered at 3 months old,97
 2018,"DTP, Polio, HIB",% Covered at 3 months old,95
 2019,"DTP, Polio, HIB",% Covered at 3 months old,96
+2020,"DTP, Polio, HIB",% Covered at 3 months old,96
+2021,"DTP, Polio, HIB",% Covered at 3 months old,95
 2011,"DTP, Polio, HIB",% Covered at 5 months old,95
 2012,"DTP, Polio, HIB",% Covered at 5 months old,95
 2013,"DTP, Polio, HIB",% Covered at 5 months old,96
@@ -17,6 +19,8 @@ Year,Vaccine,Vaccine - participation,Value
 2017,"DTP, Polio, HIB",% Covered at 5 months old,96
 2018,"DTP, Polio, HIB",% Covered at 5 months old,94
 2019,"DTP, Polio, HIB",% Covered at 5 months old,95
+2020,"DTP, Polio, HIB",% Covered at 5 months old,96
+2021,"DTP, Polio, HIB",% Covered at 5 months old,95
 2011,"DTP, Polio, HIB",% Covered at 12 months old,88
 2012,"DTP, Polio, HIB",% Covered at 12 months old,90
 2013,"DTP, Polio, HIB",% Covered at 12 months old,92
@@ -26,6 +30,8 @@ Year,Vaccine,Vaccine - participation,Value
 2017,"DTP, Polio, HIB",% Covered at 12 months old,94
 2018,"DTP, Polio, HIB",% Covered at 12 months old,93
 2019,"DTP, Polio, HIB",% Covered at 12 months old,93
+2020,"DTP, Polio, HIB",% Covered at 12 months old,93
+2021,"DTP, Polio, HIB",% Covered at 12 months old,93
 2007,DTP revaccination at 4 years old,% Covered at 4 years old,82
 2008,DTP revaccination at 4 years old,% Covered at 4 years old,84
 2009,DTP revaccination at 4 years old,% Covered at 4 years old,85
@@ -35,6 +41,9 @@ Year,Vaccine,Vaccine - participation,Value
 2013,DTP revaccination at 4 years old,% Covered at 4 years old,93
 2014,DTP revaccination at 4 years old,% Covered at 4 years old,92
 2015,DTP revaccination at 4 years old,% Covered at 4 years old,88
+2019,DTP revaccination at 4 years old,% Covered at 4 years old,88
+2020,DTP revaccination at 4 years old,% Covered at 4 years old,88
+2021,DTP revaccination at 4 years old,% Covered at 4 years old,87
 1997,DTP & Polio revaccination at 14 years old,% Covered at 14 years old,93
 1998,DTP & Polio revaccination at 14 years old,% Covered at 14 years old,94
 1999,DTP & Polio revaccination at 14 years old,% Covered at 14 years old,96
@@ -44,6 +53,9 @@ Year,Vaccine,Vaccine - participation,Value
 2003,DTP & Polio revaccination at 14 years old,% Covered at 14 years old,97
 2004,DTP & Polio revaccination at 14 years old,% Covered at 14 years old,94
 2005,DTP & Polio revaccination at 14 years old,% Covered at 14 years old,96
+2019,DTP & Polio revaccination at 14 years old,% Covered at 14 years old,96
+2020,DTP & Polio revaccination at 14 years old,% Covered at 14 years old,95
+2021,DTP & Polio revaccination at 14 years old,% Covered at 14 years old,92
 2011,Pneumococcal Vaccine,% Covered at 3 months old,94
 2012,Pneumococcal Vaccine,% Covered at 3 months old,96
 2013,Pneumococcal Vaccine,% Covered at 3 months old,96
@@ -53,6 +65,8 @@ Year,Vaccine,Vaccine - participation,Value
 2017,Pneumococcal Vaccine,% Covered at 3 months old,96
 2018,Pneumococcal Vaccine,% Covered at 3 months old,94
 2019,Pneumococcal Vaccine,% Covered at 3 months old,95
+2020,Pneumococcal Vaccine,% Covered at 3 months old,96
+2021,Pneumococcal Vaccine,% Covered at 3 months old,95
 2011,Pneumococcal Vaccine,% Covered at 5 months old,93
 2012,Pneumococcal Vaccine,% Covered at 5 months old,95
 2013,Pneumococcal Vaccine,% Covered at 5 months old,95
@@ -62,6 +76,8 @@ Year,Vaccine,Vaccine - participation,Value
 2017,Pneumococcal Vaccine,% Covered at 5 months old,96
 2018,Pneumococcal Vaccine,% Covered at 5 months old,94
 2019,Pneumococcal Vaccine,% Covered at 5 months old,95
+2020,Pneumococcal Vaccine,% Covered at 5 months old,95
+2021,Pneumococcal Vaccine,% Covered at 5 months old,94
 2011,Pneumococcal Vaccine,% Covered at 12 months old,85
 2012,Pneumococcal Vaccine,% Covered at 12 months old,89
 2013,Pneumococcal Vaccine,% Covered at 12 months old,91
@@ -71,6 +87,8 @@ Year,Vaccine,Vaccine - participation,Value
 2017,Pneumococcal Vaccine,% Covered at 12 months old,93
 2018,Pneumococcal Vaccine,% Covered at 12 months old,92
 2019,Pneumococcal Vaccine,% Covered at 12 months old,93
+2020,Pneumococcal Vaccine,% Covered at 12 months old,93
+2021,Pneumococcal Vaccine,% Covered at 12 months old,92
 2011,Meningococcal C vaccine,% Covered at 6 months old,95
 2012,Meningococcal C vaccine,% Covered at 6 months old,95
 2013,Meningococcal C vaccine,% Covered at 6 months old,96
@@ -80,6 +98,8 @@ Year,Vaccine,Vaccine - participation,Value
 2017,Meningococcal C vaccine,% Covered at 6 months old,96
 2018,Meningococcal C vaccine,% Covered at 6 months old,94
 2019,Meningococcal C vaccine,% Covered at 6 months old,94
+2020,Meningococcal C vaccine,% Covered at 6 months old,95
+2021,Meningococcal C vaccine,% Covered at 6 months old,94
 2011,Meningococcal C vaccine,% Covered at 8 months old,90
 2012,Meningococcal C vaccine,% Covered at 8 months old,91
 2013,Meningococcal C vaccine,% Covered at 8 months old,92
@@ -89,6 +109,8 @@ Year,Vaccine,Vaccine - participation,Value
 2017,Meningococcal C vaccine,% Covered at 8 months old,92
 2018,Meningococcal C vaccine,% Covered at 8 months old,90
 2019,Meningococcal C vaccine,% Covered at 8 months old,91
+2020,Meningococcal C vaccine,% Covered at 8 months old,91
+2021,Meningococcal C vaccine,% Covered at 8 months old,90
 2010,MMR,% Covered at 18 months old,89
 2011,MMR,% Covered at 18 months old,90
 2012,MMR,% Covered at 18 months old,92
@@ -98,6 +120,9 @@ Year,Vaccine,Vaccine - participation,Value
 2016,MMR,% Covered at 18 months old,94
 2017,MMR,% Covered at 18 months old,92
 2018,MMR,% Covered at 18 months old,93
+2019,MMR,% Covered at 18 months old,93
+2020,MMR,% Covered at 18 months old,92
+2021,MMR,% Covered at 18 months old,91
 1999,MMR revaccination,% Covered at 12 years old,94
 2000,MMR revaccination,% Covered at 12 years old,93
 2001,MMR revaccination,% Covered at 12 years old,90
@@ -108,6 +133,9 @@ Year,Vaccine,Vaccine - participation,Value
 2006,MMR revaccination,% Covered at 12 years old,95
 2007,MMR revaccination,% Covered at 12 years old,94
 2008,MMR revaccination,% Covered at 12 years old,93
+2019,MMR revaccination,% Covered at 12 years old,93
+2020,MMR revaccination,% Covered at 12 years old,89
+2021,MMR revaccination,% Covered at 12 years old,89
 1999,HPV-1,% Covered at 12 years old,94
 2000,HPV-1,% Covered at 12 years old,92
 2001,HPV-1,% Covered at 12 years old,93
@@ -118,6 +146,9 @@ Year,Vaccine,Vaccine - participation,Value
 2006,HPV-1,% Covered at 12 years old,95
 2007,HPV-1,% Covered at 12 years old,94
 2008,HPV-1,% Covered at 12 years old,94
+2019,HPV-1,% Covered at 12 years old,94
+2020,HPV-1,% Covered at 12 years old,91
+2021,HPV-1,% Covered at 12 years old,88
 1999,HPV-2,% Covered at 12 years old,83
 2000,HPV-2,% Covered at 12 years old,91
 2001,HPV-2,% Covered at 12 years old,93
@@ -128,3 +159,6 @@ Year,Vaccine,Vaccine - participation,Value
 2006,HPV-2,% Covered at 12 years old,91
 2007,HPV-2,% Covered at 12 years old,91
 2008,HPV-2,% Covered at 12 years old,90
+2019,HPV-2,% Covered at 12 years old,90
+2020,HPV-2,% Covered at 12 years old,81
+2021,HPV-2,% Covered at 12 years old,72
