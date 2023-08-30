@@ -1,11 +1,14 @@
 Year,Capacity,Value
 2011,,66
-2012,,79.46153846
-2014,,83.76923077
-2016,,72.23076923
-2017,,72.23076923
-2018,,83.61538462
-2019,,82.84615385
+2012,,79
+2014,,84
+2016,,72
+2017,,72
+2018,,84
+2019,,83
+2020,,0
+2021,,76
+2022,,77
 2011,Food safety,100
 2011,Coordination,80
 2011,Zoonosis,100
@@ -96,3 +99,46 @@ Year,Capacity,Value
 2019,Radionuclear,80
 2019,National Health Emergency Framework,87
 2019,Health Service Provision,80
+2020,Legislation,0
+2020,Coordination,0
+2020,Zoonosis,0
+2020,Food safety,0
+2020,Laboratory,0
+2020,Surveillance,0
+2020,Human resources,0
+2020,Risk communication,0
+2020,Points of entry,0
+2020,Chemical,0
+2020,Radionuclear,0
+2020,National Health Emergency Framework,0
+2020,Health Service Provision,0
+2021,Legislation,60
+2021,Coordination,80
+2021,Financing,80
+2021,Laboratory,80
+2021,Surveillance,80
+2021,Human resources,80
+2021,Health Emergency Framework,93
+2021,Health Service Provision,60
+2021,Infection prevention and control (IPC),67
+2021,Risk communication,60
+2021,Points of entry,87
+2021,Zoonosis,80
+2021,Food safety,80
+2021,Chemical,80
+2021,Radionuclear,80
+2022,Legislation,60
+2022,Coordination,80
+2022,Financing,90
+2022,Laboratory,80
+2022,Surveillance,90
+2022,Human resources,90
+2022,Health Emergency Framework,73
+2022,Health Service Provision,67
+2022,Infection prevention and control (IPC),67
+2022,Risk communication,73
+2022,Points of entry,87
+2022,Zoonosis,60
+2022,Food safety,80
+2022,Chemical,80
+2022,Radionuclear,80
