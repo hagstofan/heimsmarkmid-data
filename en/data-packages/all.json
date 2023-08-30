@@ -5704,6 +5704,9 @@
                 "Human resources",
                 "National Health Emergency Framework",
                 "Health Service Provision",
+                "Financing",
+                "Health Emergency Framework",
+                "Infection prevention and control (IPC)",
                 ""
               ]
             },
@@ -5711,7 +5714,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -35,6 +35,9 @@
                 "Human resources",
                 "Innlend aðgerðaráætlun vegna neyðartilvika",
                 "Aðgengi heilbrigðisþjónustu",
+                "Financing",
+                "Health Emergency Framework",
+                "Infection prevention and control (IPC)",
                 ""
               ]
             },
@@ -42,7 +45,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Gildi"
           }
         ]

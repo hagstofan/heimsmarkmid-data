@@ -1,98 +1,144 @@
 Year,Flokkur,Value
-2011,,66.0
-2012,,79.46153846
-2014,,83.76923077
-2016,,72.23076923
-2017,,72.23076923
-2018,,83.61538462
-2019,,82.84615385
-2011,Matvælaöryggi,100.0
-2011,Samhæfing,80.0
-2011,Smit milli manna og dýra,100.0
-2011,Viðbragðsgeta,71.0
-2011,Áhættumiðlun,14.0
-2011,Landamæri,54.0
-2011,Löggjöf,50.0
-2011,Geislavarnir,83.0
-2011,Eftirlit,45.0
-2011,Greiningargeta,60.0
-2011,Efnaeitrun,58.0
-2011,Viðbúnaður,77.0
-2012,Matvælaöryggi,100.0
-2012,Human resources,20.0
-2012,Samhæfing,100.0
-2012,Smit milli manna og dýra,100.0
-2012,Viðbragðsgeta,83.0
-2012,Áhættumiðlun,71.0
-2012,Landamæri,74.0
-2012,Löggjöf,100.0
-2012,Geislavarnir,79.0
-2012,Eftirlit,75.0
-2012,Greiningargeta,77.0
-2012,Efnaeitrun,54.0
-2012,Viðbúnaður,100.0
-2014,Matvælaöryggi,100.0
-2014,Human resources,60.0
-2014,Samhæfing,83.0
-2014,Smit milli manna og dýra,100.0
-2014,Viðbragðsgeta,89.0
-2014,Áhættumiðlun,71.0
-2014,Landamæri,94.0
-2014,Löggjöf,100.0
-2014,Geislavarnir,77.0
-2014,Eftirlit,85.0
-2014,Greiningargeta,86.0
-2014,Efnaeitrun,54.0
-2014,Viðbúnaður,90.0
-2016,Matvælaöryggi,80.0
-2016,Human resources,60.0
-2016,Samhæfing,80.0
-2016,Smit milli manna og dýra,78.0
-2016,Viðbragðsgeta,71.0
-2016,Áhættumiðlun,86.0
-2016,Landamæri,66.0
-2016,Löggjöf,100.0
-2016,Geislavarnir,46.0
-2016,Eftirlit,65.0
-2016,Greiningargeta,53.0
-2016,Efnaeitrun,54.0
-2016,Viðbúnaður,100.0
-2017,Matvælaöryggi,80.0
-2017,Human resources,60.0
-2017,Samhæfing,80.0
-2017,Smit milli manna og dýra,78.0
-2017,Viðbragðsgeta,71.0
-2017,Áhættumiðlun,86.0
-2017,Landamæri,66.0
-2017,Löggjöf,100.0
-2017,Geislavarnir,46.0
-2017,Eftirlit,65.0
-2017,Greiningargeta,53.0
-2017,Efnaeitrun,54.0
-2017,Viðbúnaður,100.0
-2018,Löggjöf,87.0
-2018,Samhæfing,100.0
-2018,Smit milli manna og dýra,80.0
-2018,Matvælaöryggi,80.0
-2018,Greiningargeta,87.0
-2018,Eftirlit,80.0
-2018,Human resources,60.0
-2018,Áhættumiðlun,100.0
-2018,Landamæri,80.0
-2018,Efnaeitrun,60.0
-2018,Geislavarnir,80.0
-2018,Innlend aðgerðaráætlun vegna neyðartilvika,100.0
-2018,Aðgengi heilbrigðisþjónustu,93.0
-2019,Löggjöf,87.0
-2019,Samhæfing,100.0
-2019,Smit milli manna og dýra,80.0
-2019,Matvælaöryggi,80.0
-2019,Greiningargeta,93.0
-2019,Eftirlit,80.0
-2019,Human resources,60.0
-2019,Áhættumiðlun,100.0
-2019,Landamæri,90.0
-2019,Efnaeitrun,60.0
-2019,Geislavarnir,80.0
-2019,Innlend aðgerðaráætlun vegna neyðartilvika,87.0
-2019,Aðgengi heilbrigðisþjónustu,80.0
+2011,,66
+2012,,79
+2014,,84
+2016,,72
+2017,,72
+2018,,84
+2019,,83
+2020,,0
+2021,,76
+2022,,77
+2011,Matvælaöryggi,100
+2011,Samhæfing,80
+2011,Smit milli manna og dýra,100
+2011,Viðbragðsgeta,71
+2011,Áhættumiðlun,14
+2011,Landamæri,54
+2011,Löggjöf,50
+2011,Geislavarnir,83
+2011,Eftirlit,45
+2011,Greiningargeta,60
+2011,Efnaeitrun,58
+2011,Viðbúnaður,77
+2012,Matvælaöryggi,100
+2012,Human resources,20
+2012,Samhæfing,100
+2012,Smit milli manna og dýra,100
+2012,Viðbragðsgeta,83
+2012,Áhættumiðlun,71
+2012,Landamæri,74
+2012,Löggjöf,100
+2012,Geislavarnir,79
+2012,Eftirlit,75
+2012,Greiningargeta,77
+2012,Efnaeitrun,54
+2012,Viðbúnaður,100
+2014,Matvælaöryggi,100
+2014,Human resources,60
+2014,Samhæfing,83
+2014,Smit milli manna og dýra,100
+2014,Viðbragðsgeta,89
+2014,Áhættumiðlun,71
+2014,Landamæri,94
+2014,Löggjöf,100
+2014,Geislavarnir,77
+2014,Eftirlit,85
+2014,Greiningargeta,86
+2014,Efnaeitrun,54
+2014,Viðbúnaður,90
+2016,Matvælaöryggi,80
+2016,Human resources,60
+2016,Samhæfing,80
+2016,Smit milli manna og dýra,78
+2016,Viðbragðsgeta,71
+2016,Áhættumiðlun,86
+2016,Landamæri,66
+2016,Löggjöf,100
+2016,Geislavarnir,46
+2016,Eftirlit,65
+2016,Greiningargeta,53
+2016,Efnaeitrun,54
+2016,Viðbúnaður,100
+2017,Matvælaöryggi,80
+2017,Human resources,60
+2017,Samhæfing,80
+2017,Smit milli manna og dýra,78
+2017,Viðbragðsgeta,71
+2017,Áhættumiðlun,86
+2017,Landamæri,66
+2017,Löggjöf,100
+2017,Geislavarnir,46
+2017,Eftirlit,65
+2017,Greiningargeta,53
+2017,Efnaeitrun,54
+2017,Viðbúnaður,100
+2018,Löggjöf,87
+2018,Samhæfing,100
+2018,Smit milli manna og dýra,80
+2018,Matvælaöryggi,80
+2018,Greiningargeta,87
+2018,Eftirlit,80
+2018,Human resources,60
+2018,Áhættumiðlun,100
+2018,Landamæri,80
+2018,Efnaeitrun,60
+2018,Geislavarnir,80
+2018,Innlend aðgerðaráætlun vegna neyðartilvika,100
+2018,Aðgengi heilbrigðisþjónustu,93
+2019,Löggjöf,87
+2019,Samhæfing,100
+2019,Smit milli manna og dýra,80
+2019,Matvælaöryggi,80
+2019,Greiningargeta,93
+2019,Eftirlit,80
+2019,Human resources,60
+2019,Áhættumiðlun,100
+2019,Landamæri,90
+2019,Efnaeitrun,60
+2019,Geislavarnir,80
+2019,Innlend aðgerðaráætlun vegna neyðartilvika,87
+2019,Aðgengi heilbrigðisþjónustu,80
+2020,Löggjöf,0
+2020,Samhæfing,0
+2020,Smit milli manna og dýra,0
+2020,Matvælaöryggi,0
+2020,Greiningargeta,0
+2020,Eftirlit,0
+2020,Human resources,0
+2020,Áhættumiðlun,0
+2020,Landamæri,0
+2020,Efnaeitrun,0
+2020,Geislavarnir,0
+2020,Innlend aðgerðaráætlun vegna neyðartilvika,0
+2020,Aðgengi heilbrigðisþjónustu,0
+2021,Löggjöf,60
+2021,Samhæfing,80
+2021,Financing,80
+2021,Greiningargeta,80
+2021,Eftirlit,80
+2021,Human resources,80
+2021,Health Emergency Framework,93
+2021,Aðgengi heilbrigðisþjónustu,60
+2021,Infection prevention and control (IPC),67
+2021,Áhættumiðlun,60
+2021,Landamæri,87
+2021,Smit milli manna og dýra,80
+2021,Matvælaöryggi,80
+2021,Efnaeitrun,80
+2021,Geislavarnir,80
+2022,Löggjöf,60
+2022,Samhæfing,80
+2022,Financing,90
+2022,Greiningargeta,80
+2022,Eftirlit,90
+2022,Human resources,90
+2022,Health Emergency Framework,73
+2022,Aðgengi heilbrigðisþjónustu,67
+2022,Infection prevention and control (IPC),67
+2022,Áhættumiðlun,73
+2022,Landamæri,87
+2022,Smit milli manna og dýra,60
+2022,Matvælaöryggi,80
+2022,Efnaeitrun,80
+2022,Geislavarnir,80
