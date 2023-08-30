@@ -32,12 +32,12 @@
                 "Greiningargeta",
                 "Efnaeitrun",
                 "Viðbúnaður",
-                "Human resources",
+                "Mannauður",
                 "Innlend aðgerðaráætlun vegna neyðartilvika",
                 "Aðgengi heilbrigðisþjónustu",
-                "Financing",
-                "Health Emergency Framework",
-                "Infection prevention and control (IPC)",
+                "Fjármögnun forvarna",
+                "Innlend aðgerðaráætlun vegna neyðartilvika",
+                "Smitvarnir",
                 ""
               ]
             },
@@ -45,7 +45,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Gildi"
           }
         ]
