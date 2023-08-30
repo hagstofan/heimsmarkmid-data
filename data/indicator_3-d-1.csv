@@ -6,7 +6,7 @@ Year,Capacity,Value
 2017,,72
 2018,,84
 2019,,83
-2020,,0
+2020,,
 2021,,76
 2022,,77
 2011,Food safety,100
@@ -99,19 +99,19 @@ Year,Capacity,Value
 2019,Radionuclear,80
 2019,National Health Emergency Framework,87
 2019,Health Service Provision,80
-2020,Legislation,0
-2020,Coordination,0
-2020,Zoonosis,0
-2020,Food safety,0
-2020,Laboratory,0
-2020,Surveillance,0
-2020,Human resources,0
-2020,Risk communication,0
-2020,Points of entry,0
-2020,Chemical,0
-2020,Radionuclear,0
-2020,National Health Emergency Framework,0
-2020,Health Service Provision,0
+2020,Legislation,
+2020,Coordination,
+2020,Zoonosis,
+2020,Food safety,
+2020,Laboratory,
+2020,Surveillance,
+2020,Human resources,
+2020,Risk communication,
+2020,Points of entry,
+2020,Chemical,
+2020,Radionuclear,
+2020,National Health Emergency Framework,
+2020,Health Service Provision,
 2021,Legislation,60
 2021,Coordination,80
 2021,Financing,80
