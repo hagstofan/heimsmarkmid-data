@@ -43,8 +43,8 @@
                 "Rafmagns-, gas- og hitaveitur (D)",
                 "Heild- og smásöluverslun, viðgerðir á vélknúnum ökutækjum (G)",
                 "Flutningar og geymsla (H)",
-                "Upplýsingar og fjarskipti (J)",
                 "Rekstur gististaða og veitingarekstur (I)",
+                "Upplýsingar og fjarskipti (J)",
                 "Fjármála- og vátryggingastarfsemi (K)",
                 "Opinber stjórnsýsla og varnarmál; almannatryggingar (O)",
                 "Fræðslustarfsemi (P)",
@@ -64,7 +64,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Gildi"
           }
         ]

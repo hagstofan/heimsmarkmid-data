@@ -41,8 +41,8 @@
                 "Electricity, gas, steam, and air conditioning supply (D)",
                 "Wholesale and retail trade; repair of motor vehicles (G)",
                 "Transportation and storage (H)",
-                "Information and communication (J)",
                 "Accomodation and food services (I)",
+                "Information and communication (J)",
                 "Financial and insurance activities (K)",
                 "Public administration and defence; compulsory social sec. (O)",
                 "Education (P)",
@@ -61,7 +61,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

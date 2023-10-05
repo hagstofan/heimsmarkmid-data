@@ -1,723 +1,776 @@
 Year,Gender,Sector,Value
-2008,,,1895.0
-2009,,,1965.0
-2010,,,2070.0
-2011,,,2215.0
-2012,,,2310.0
-2013,,,2470.0
-2014,,,2560.0
-2015,,,2755.0
-2016,,,3035.0
-2017,,,3220.0
-2018,,,3260.0
-2019,,,3360.0
-2020,,,3695.0
-2021,,,3900.0
-2008,Male,,2110.0
-2009,Male,,2160.0
-2010,Male,,2270.0
-2011,Male,,2430.0
-2012,Male,,2530.0
-2013,Male,,2720.0
-2014,Male,,2790.0
-2015,Male,,3010.0
-2016,Male,,3290.0
-2017,Male,,3480.0
-2018,Male,,3500.0
-2019,Male,,3610.0
-2020,Male,,3930.0
-2021,Male,,4110.0
-2008,Female,,1680.0
-2009,Female,,1770.0
-2010,Female,,1870.0
-2011,Female,,2000.0
-2012,Female,,2090.0
-2013,Female,,2220.0
-2014,Female,,2330.0
-2015,Female,,2500.0
-2016,Female,,2780.0
-2017,Female,,2960.0
-2018,Female,,3020.0
-2019,Female,,3110.0
-2020,Female,,3460.0
-2021,Female,,3690.0
-2008,Male,Total - excluding public administration (O),2080.0
-2009,Male,Total - excluding public administration (O),2130.0
-2010,Male,Total - excluding public administration (O),2250.0
-2011,Male,Total - excluding public administration (O),2400.0
-2012,Male,Total - excluding public administration (O),2500.0
-2013,Male,Total - excluding public administration (O),2710.0
-2014,Male,Total - excluding public administration (O),2760.0
-2015,Male,Total - excluding public administration (O),2990.0
-2016,Male,Total - excluding public administration (O),3250.0
-2017,Male,Total - excluding public administration (O),3440.0
-2018,Male,Total - excluding public administration (O),3450.0
-2019,Male,Total - excluding public administration (O),3560.0
-2020,Male,Total - excluding public administration (O),3880.0
-2021,Male,Total - excluding public administration (O),4040.0
-2008,Female,Total - excluding public administration (O),1650.0
-2009,Female,Total - excluding public administration (O),1750.0
-2010,Female,Total - excluding public administration (O),1850.0
-2011,Female,Total - excluding public administration (O),1970.0
-2012,Female,Total - excluding public administration (O),2060.0
-2013,Female,Total - excluding public administration (O),2200.0
-2014,Female,Total - excluding public administration (O),2300.0
-2015,Female,Total - excluding public administration (O),2470.0
-2016,Female,Total - excluding public administration (O),2730.0
-2017,Female,Total - excluding public administration (O),2910.0
-2018,Female,Total - excluding public administration (O),2970.0
-2019,Female,Total - excluding public administration (O),3060.0
-2020,Female,Total - excluding public administration (O),3410.0
-2021,Female,Total - excluding public administration (O),3620.0
-2008,Male,Private sector,2090.0
-2009,Male,Private sector,2150.0
-2010,Male,Private sector,2310.0
-2011,Male,Private sector,2470.0
-2012,Male,Private sector,2580.0
-2013,Male,Private sector,2830.0
-2014,Male,Private sector,2840.0
-2015,Male,Private sector,3070.0
-2016,Male,Private sector,3290.0
-2017,Male,Private sector,3480.0
-2018,Male,Private sector,3460.0
-2019,Male,Private sector,3600.0
-2020,Male,Private sector,3960.0
-2021,Male,Private sector,4070.0
-2008,Female,Private sector,1620.0
-2009,Female,Private sector,1720.0
-2010,Female,Private sector,1900.0
-2011,Female,Private sector,2040.0
-2012,Female,Private sector,2150.0
-2013,Female,Private sector,2340.0
-2014,Female,Private sector,2380.0
-2015,Female,Private sector,2580.0
-2016,Female,Private sector,2790.0
-2017,Female,Private sector,2970.0
-2018,Female,Private sector,2910.0
-2019,Female,Private sector,3070.0
-2020,Female,Private sector,3490.0
-2021,Female,Private sector,3500.0
-2008,Male,"Public sector, total",2170.0
-2009,Male,"Public sector, total",2190.0
-2010,Male,"Public sector, total",2200.0
-2011,Male,"Public sector, total",2340.0
-2012,Male,"Public sector, total",2440.0
-2013,Male,"Public sector, total",2500.0
-2014,Male,"Public sector, total",2680.0
-2015,Male,"Public sector, total",2880.0
-2016,Male,"Public sector, total",3300.0
-2017,Male,"Public sector, total",3500.0
-2018,Male,"Public sector, total",3610.0
-2019,Male,"Public sector, total",3660.0
-2020,Male,"Public sector, total",3890.0
-2021,Male,"Public sector, total",4250.0
-2008,Female,"Public sector, total",1710.0
-2009,Female,"Public sector, total",1800.0
-2010,Female,"Public sector, total",1840.0
-2011,Female,"Public sector, total",1950.0
-2012,Female,"Public sector, total",2040.0
-2013,Female,"Public sector, total",2110.0
-2014,Female,"Public sector, total",2310.0
-2015,Female,"Public sector, total",2450.0
-2016,Female,"Public sector, total",2780.0
-2017,Female,"Public sector, total",2950.0
-2018,Female,"Public sector, total",3120.0
-2019,Female,"Public sector, total",3150.0
-2020,Female,"Public sector, total",3450.0
-2021,Female,"Public sector, total",3810.0
-2008,Male,"Public sector, central government",2400.0
-2009,Male,"Public sector, central government",2380.0
-2010,Male,"Public sector, central government",2410.0
-2011,Male,"Public sector, central government",2590.0
-2012,Male,"Public sector, central government",2720.0
-2013,Male,"Public sector, central government",2830.0
-2014,Male,"Public sector, central government",2970.0
-2015,Male,"Public sector, central government",3290.0
-2016,Male,"Public sector, central government",3740.0
-2017,Male,"Public sector, central government",3920.0
-2018,Male,"Public sector, central government",4090.0
-2019,Male,"Public sector, central government",4120.0
-2020,Male,"Public sector, central government",4350.0
-2021,Male,"Public sector, central government",4710.0
-2008,Female,"Public sector, central government",1950.0
-2009,Female,"Public sector, central government",1990.0
-2010,Female,"Public sector, central government",2030.0
-2011,Female,"Public sector, central government",2170.0
-2012,Female,"Public sector, central government",2240.0
-2013,Female,"Public sector, central government",2360.0
-2014,Female,"Public sector, central government",2530.0
-2015,Female,"Public sector, central government",2800.0
-2016,Female,"Public sector, central government",3130.0
-2017,Female,"Public sector, central government",3300.0
-2018,Female,"Public sector, central government",3500.0
-2019,Female,"Public sector, central government",3540.0
-2020,Female,"Public sector, central government",3860.0
-2021,Female,"Public sector, central government",4240.0
-2008,Male,"Public sector, local government",1840.0
-2009,Male,"Public sector, local government",1920.0
-2010,Male,"Public sector, local government",1930.0
-2011,Male,"Public sector, local government",2040.0
-2012,Male,"Public sector, local government",2130.0
-2013,Male,"Public sector, local government",2100.0
-2014,Male,"Public sector, local government",2290.0
-2015,Male,"Public sector, local government",2400.0
-2016,Male,"Public sector, local government",2750.0
-2017,Male,"Public sector, local government",2950.0
-2018,Male,"Public sector, local government",3010.0
-2019,Male,"Public sector, local government",3100.0
-2020,Male,"Public sector, local government",3350.0
-2021,Male,"Public sector, local government",3720.0
-2008,Female,"Public sector, local government",1570.0
-2009,Female,"Public sector, local government",1720.0
-2010,Female,"Public sector, local government",1790.0
-2011,Female,"Public sector, local government",1890.0
-2012,Female,"Public sector, local government",1960.0
-2013,Female,"Public sector, local government",1960.0
-2014,Female,"Public sector, local government",2130.0
-2015,Female,"Public sector, local government",2220.0
-2016,Female,"Public sector, local government",2530.0
-2017,Female,"Public sector, local government",2700.0
-2018,Female,"Public sector, local government",2830.0
-2019,Female,"Public sector, local government",2870.0
-2020,Female,"Public sector, local government",3170.0
-2021,Female,"Public sector, local government",3500.0
-2008,Male,Full-time,2250.0
-2009,Male,Full-time,2300.0
-2010,Male,Full-time,2430.0
-2011,Male,Full-time,2570.0
-2012,Male,Full-time,2690.0
-2013,Male,Full-time,2910.0
-2014,Male,Full-time,3020.0
-2015,Male,Full-time,3270.0
-2016,Male,Full-time,3560.0
-2017,Male,Full-time,3770.0
-2018,Male,Full-time,3840.0
-2019,Male,Full-time,3980.0
-2020,Male,Full-time,4250.0
-2021,Male,Full-time,4450.0
-2008,Female,Full-time,1860.0
-2009,Female,Full-time,1930.0
-2010,Female,Full-time,2050.0
-2011,Female,Full-time,2180.0
-2012,Female,Full-time,2290.0
-2013,Female,Full-time,2440.0
-2014,Female,Full-time,2580.0
-2015,Female,Full-time,2810.0
-2016,Female,Full-time,3060.0
-2017,Female,Full-time,3280.0
-2018,Female,Full-time,3390.0
-2019,Female,Full-time,3490.0
-2020,Female,Full-time,3820.0
-2021,Female,Full-time,4060.0
-2008,Male,Part-time,1580.0
-2009,Male,Part-time,1640.0
-2010,Male,Part-time,1680.0
-2011,Male,Part-time,1830.0
-2012,Male,Part-time,1910.0
-2013,Male,Part-time,2010.0
-2014,Male,Part-time,2120.0
-2015,Male,Part-time,2320.0
-2016,Male,Part-time,2560.0
-2017,Male,Part-time,2670.0
-2018,Male,Part-time,2700.0
-2019,Male,Part-time,2820.0
-2020,Male,Part-time,3140.0
-2021,Male,Part-time,3270.0
-2008,Female,Part-time,1420.0
-2009,Female,Part-time,1530.0
-2010,Female,Part-time,1600.0
-2011,Female,Part-time,1720.0
-2012,Female,Part-time,1800.0
-2013,Female,Part-time,1900.0
-2014,Female,Part-time,2080.0
-2015,Female,Part-time,2200.0
-2016,Female,Part-time,2480.0
-2017,Female,Part-time,2620.0
-2018,Female,Part-time,2650.0
-2019,Female,Part-time,2730.0
-2020,Female,Part-time,3080.0
-2021,Female,Part-time,3250.0
-2008,Male,Manufacturing (C),1950.0
-2009,Male,Manufacturing (C),1990.0
-2010,Male,Manufacturing (C),2170.0
-2011,Male,Manufacturing (C),2340.0
-2012,Male,Manufacturing (C),2410.0
-2013,Male,Manufacturing (C),2620.0
-2014,Male,Manufacturing (C),2580.0
-2015,Male,Manufacturing (C),2800.0
-2016,Male,Manufacturing (C),2980.0
-2017,Male,Manufacturing (C),3180.0
-2018,Male,Manufacturing (C),3380.0
-2019,Male,Manufacturing (C),3570.0
-2020,Male,Manufacturing (C),3880.0
-2021,Male,Manufacturing (C),4070.0
-2008,Female,Manufacturing (C),1510.0
-2009,Female,Manufacturing (C),1560.0
-2010,Female,Manufacturing (C),1660.0
-2011,Female,Manufacturing (C),1860.0
-2012,Female,Manufacturing (C),1930.0
-2013,Female,Manufacturing (C),2120.0
-2014,Female,Manufacturing (C),2180.0
-2015,Female,Manufacturing (C),2350.0
-2016,Female,Manufacturing (C),2560.0
-2017,Female,Manufacturing (C),2650.0
-2018,Female,Manufacturing (C),2810.0
-2019,Female,Manufacturing (C),3100.0
-2020,Female,Manufacturing (C),3330.0
-2021,Female,Manufacturing (C),3530.0
-2008,Male,"Electricity, gas, steam, and air conditioning supply (D)",2500.0
-2009,Male,"Electricity, gas, steam, and air conditioning supply (D)",2660.0
-2010,Male,"Electricity, gas, steam, and air conditioning supply (D)",2670.0
-2011,Male,"Electricity, gas, steam, and air conditioning supply (D)",2910.0
-2012,Male,"Electricity, gas, steam, and air conditioning supply (D)",3160.0
-2013,Male,"Electricity, gas, steam, and air conditioning supply (D)",3370.0
-2014,Male,"Electricity, gas, steam, and air conditioning supply (D)",3630.0
-2015,Male,"Electricity, gas, steam, and air conditioning supply (D)",3820.0
-2016,Male,"Electricity, gas, steam, and air conditioning supply (D)",4490.0
-2017,Male,"Electricity, gas, steam, and air conditioning supply (D)",4700.0
-2018,Male,"Electricity, gas, steam, and air conditioning supply (D)",4900.0
-2019,Male,"Electricity, gas, steam, and air conditioning supply (D)",4980.0
-2020,Male,"Electricity, gas, steam, and air conditioning supply (D)",5460.0
-2021,Male,"Electricity, gas, steam, and air conditioning supply (D)",2040.0
-2008,Female,"Electricity, gas, steam, and air conditioning supply (D)",2150.0
-2009,Female,"Electricity, gas, steam, and air conditioning supply (D)",2300.0
-2010,Female,"Electricity, gas, steam, and air conditioning supply (D)",2580.0
-2011,Female,"Electricity, gas, steam, and air conditioning supply (D)",2690.0
-2012,Female,"Electricity, gas, steam, and air conditioning supply (D)",2950.0
-2013,Female,"Electricity, gas, steam, and air conditioning supply (D)",3210.0
-2014,Female,"Electricity, gas, steam, and air conditioning supply (D)",3370.0
-2015,Female,"Electricity, gas, steam, and air conditioning supply (D)",3910.0
-2016,Female,"Electricity, gas, steam, and air conditioning supply (D)",4290.0
-2017,Female,"Electricity, gas, steam, and air conditioning supply (D)",4470.0
-2018,Female,"Electricity, gas, steam, and air conditioning supply (D)",4500.0
-2019,Female,"Electricity, gas, steam, and air conditioning supply (D)",5100.0
-2020,Female,"Electricity, gas, steam, and air conditioning supply (D)",5490.0
-2021,Female,"Electricity, gas, steam, and air conditioning supply (D)",
-2008,Male,Wholesale and retail trade; repair of motor vehicles (G),1780.0
-2009,Male,Wholesale and retail trade; repair of motor vehicles (G),1860.0
-2010,Male,Wholesale and retail trade; repair of motor vehicles (G),2050.0
-2011,Male,Wholesale and retail trade; repair of motor vehicles (G),2130.0
-2012,Male,Wholesale and retail trade; repair of motor vehicles (G),2210.0
-2013,Male,Wholesale and retail trade; repair of motor vehicles (G),2370.0
-2014,Male,Wholesale and retail trade; repair of motor vehicles (G),2570.0
-2015,Male,Wholesale and retail trade; repair of motor vehicles (G),2880.0
-2016,Male,Wholesale and retail trade; repair of motor vehicles (G),3010.0
-2017,Male,Wholesale and retail trade; repair of motor vehicles (G),3200.0
-2018,Male,Wholesale and retail trade; repair of motor vehicles (G),3290.0
-2019,Male,Wholesale and retail trade; repair of motor vehicles (G),3380.0
-2020,Male,Wholesale and retail trade; repair of motor vehicles (G),3440.0
-2021,Male,Wholesale and retail trade; repair of motor vehicles (G),3610.0
-2008,Female,Wholesale and retail trade; repair of motor vehicles (G),1380.0
-2009,Female,Wholesale and retail trade; repair of motor vehicles (G),1420.0
-2010,Female,Wholesale and retail trade; repair of motor vehicles (G),1630.0
-2011,Female,Wholesale and retail trade; repair of motor vehicles (G),1720.0
-2012,Female,Wholesale and retail trade; repair of motor vehicles (G),1800.0
-2013,Female,Wholesale and retail trade; repair of motor vehicles (G),1940.0
-2014,Female,Wholesale and retail trade; repair of motor vehicles (G),2100.0
-2015,Female,Wholesale and retail trade; repair of motor vehicles (G),2310.0
-2016,Female,Wholesale and retail trade; repair of motor vehicles (G),2450.0
-2017,Female,Wholesale and retail trade; repair of motor vehicles (G),2640.0
-2018,Female,Wholesale and retail trade; repair of motor vehicles (G),2820.0
-2019,Female,Wholesale and retail trade; repair of motor vehicles (G),2910.0
-2020,Female,Wholesale and retail trade; repair of motor vehicles (G),3120.0
-2021,Female,Wholesale and retail trade; repair of motor vehicles (G),3240.0
-2008,Male,Transportation and storage (H),2070.0
-2009,Male,Transportation and storage (H),2100.0
-2010,Male,Transportation and storage (H),2210.0
-2011,Male,Transportation and storage (H),2330.0
-2012,Male,Transportation and storage (H),2420.0
-2013,Male,Transportation and storage (H),2700.0
-2014,Male,Transportation and storage (H),2760.0
-2015,Male,Transportation and storage (H),3000.0
-2016,Male,Transportation and storage (H),3290.0
-2017,Male,Transportation and storage (H),3370.0
-2018,Male,Transportation and storage (H),3540.0
-2019,Male,Transportation and storage (H),3840.0
-2020,Male,Transportation and storage (H),4160.0
-2021,Male,Transportation and storage (H),4350.0
-2008,Female,Transportation and storage (H),1590.0
-2009,Female,Transportation and storage (H),1680.0
-2010,Female,Transportation and storage (H),1850.0
-2011,Female,Transportation and storage (H),1950.0
-2012,Female,Transportation and storage (H),2050.0
-2013,Female,Transportation and storage (H),2200.0
-2014,Female,Transportation and storage (H),2240.0
-2015,Female,Transportation and storage (H),2420.0
-2016,Female,Transportation and storage (H),2630.0
-2017,Female,Transportation and storage (H),2800.0
-2018,Female,Transportation and storage (H),3030.0
-2019,Female,Transportation and storage (H),3220.0
-2020,Female,Transportation and storage (H),3700.0
-2021,Female,Transportation and storage (H),3760.0
-2008,Male,Information and communication (J),2660.0
-2009,Male,Information and communication (J),2560.0
-2010,Male,Information and communication (J),2810.0
-2011,Male,Information and communication (J),2880.0
-2012,Male,Information and communication (J),3130.0
-2013,Male,Information and communication (J),3120.0
-2014,Male,Information and communication (J),3290.0
-2015,Male,Information and communication (J),3460.0
-2016,Male,Information and communication (J),3850.0
-2017,Male,Information and communication (J),3960.0
-2018,Male,Information and communication (J),4210.0
-2019,Male,Information and communication (J),4330.0
-2020,Male,Information and communication (J),4670.0
-2021,Male,Information and communication (J),4960.0
-2008,Female,Information and communication (J),2160.0
-2009,Female,Information and communication (J),2170.0
-2010,Female,Information and communication (J),2310.0
-2011,Female,Information and communication (J),2380.0
-2012,Female,Information and communication (J),2560.0
-2013,Female,Information and communication (J),2570.0
-2014,Female,Information and communication (J),2690.0
-2015,Female,Information and communication (J),2970.0
-2016,Female,Information and communication (J),3380.0
-2017,Female,Information and communication (J),3540.0
-2018,Female,Information and communication (J),3770.0
-2019,Female,Information and communication (J),3880.0
-2020,Female,Information and communication (J),4070.0
-2021,Female,Information and communication (J),4320.0
-2018,Male,Accomodation and food services (I),2330.0
-2019,Male,Accomodation and food services (I),2510.0
-2020,Male,Accomodation and food services (I),2890.0
-2021,Male,Accomodation and food services (I),2950.0
-2018,Female,Accomodation and food services (I),2210.0
-2019,Female,Accomodation and food services (I),2340.0
-2020,Female,Accomodation and food services (I),2720.0
-2021,Female,Accomodation and food services (I),2750.0
-2008,Male,Financial and insurance activities (K),3840.0
-2009,Male,Financial and insurance activities (K),3750.0
-2010,Male,Financial and insurance activities (K),3850.0
-2011,Male,Financial and insurance activities (K),4140.0
-2012,Male,Financial and insurance activities (K),4630.0
-2013,Male,Financial and insurance activities (K),5160.0
-2014,Male,Financial and insurance activities (K),5550.0
-2015,Male,Financial and insurance activities (K),5770.0
-2016,Male,Financial and insurance activities (K),6470.0
-2017,Male,Financial and insurance activities (K),7090.0
-2018,Male,Financial and insurance activities (K),7280.0
-2019,Male,Financial and insurance activities (K),7300.0
-2020,Male,Financial and insurance activities (K),7610.0
-2021,Male,Financial and insurance activities (K),7700.0
-2008,Female,Financial and insurance activities (K),2200.0
-2009,Female,Financial and insurance activities (K),2370.0
-2010,Female,Financial and insurance activities (K),2610.0
-2011,Female,Financial and insurance activities (K),2720.0
-2012,Female,Financial and insurance activities (K),3010.0
-2013,Female,Financial and insurance activities (K),3190.0
-2014,Female,Financial and insurance activities (K),3410.0
-2015,Female,Financial and insurance activities (K),3630.0
-2016,Female,Financial and insurance activities (K),3950.0
-2017,Female,Financial and insurance activities (K),4350.0
-2018,Female,Financial and insurance activities (K),4710.0
-2019,Female,Financial and insurance activities (K),4890.0
-2020,Female,Financial and insurance activities (K),5180.0
-2021,Female,Financial and insurance activities (K),5410.0
-2008,Male,Public administration and defence; compulsory social sec. (O),2360.0
-2009,Male,Public administration and defence; compulsory social sec. (O),2390.0
-2010,Male,Public administration and defence; compulsory social sec. (O),2410.0
-2011,Male,Public administration and defence; compulsory social sec. (O),2590.0
-2012,Male,Public administration and defence; compulsory social sec. (O),2710.0
-2013,Male,Public administration and defence; compulsory social sec. (O),2840.0
-2014,Male,Public administration and defence; compulsory social sec. (O),3030.0
-2015,Male,Public administration and defence; compulsory social sec. (O),3160.0
-2016,Male,Public administration and defence; compulsory social sec. (O),3750.0
-2017,Male,Public administration and defence; compulsory social sec. (O),3910.0
-2018,Male,Public administration and defence; compulsory social sec. (O),4130.0
-2019,Male,Public administration and defence; compulsory social sec. (O),4230.0
-2020,Male,Public administration and defence; compulsory social sec. (O),4510.0
-2021,Male,Public administration and defence; compulsory social sec. (O),4960.0
-2008,Female,Public administration and defence; compulsory social sec. (O),1970.0
-2009,Female,Public administration and defence; compulsory social sec. (O),2020.0
-2010,Female,Public administration and defence; compulsory social sec. (O),2060.0
-2011,Female,Public administration and defence; compulsory social sec. (O),2250.0
-2012,Female,Public administration and defence; compulsory social sec. (O),2370.0
-2013,Female,Public administration and defence; compulsory social sec. (O),2510.0
-2014,Female,Public administration and defence; compulsory social sec. (O),2730.0
-2015,Female,Public administration and defence; compulsory social sec. (O),2890.0
-2016,Female,Public administration and defence; compulsory social sec. (O),3350.0
-2017,Female,Public administration and defence; compulsory social sec. (O),3530.0
-2018,Female,Public administration and defence; compulsory social sec. (O),3770.0
-2019,Female,Public administration and defence; compulsory social sec. (O),3830.0
-2020,Female,Public administration and defence; compulsory social sec. (O),4150.0
-2021,Female,Public administration and defence; compulsory social sec. (O),4550.0
-2008,Male,Education (P),2020.0
-2009,Male,Education (P),2030.0
-2010,Male,Education (P),2030.0
-2011,Male,Education (P),2160.0
-2012,Male,Education (P),2230.0
-2013,Male,Education (P),2300.0
-2014,Male,Education (P),2500.0
-2015,Male,Education (P),2640.0
-2016,Male,Education (P),2930.0
-2017,Male,Education (P),3150.0
-2018,Male,Education (P),3240.0
-2019,Male,Education (P),3250.0
-2020,Male,Education (P),3450.0
-2021,Male,Education (P),3660.0
-2008,Female,Education (P),1580.0
-2009,Female,Education (P),1680.0
-2010,Female,Education (P),1710.0
-2011,Female,Education (P),1820.0
-2012,Female,Education (P),1890.0
-2013,Female,Education (P),1960.0
-2014,Female,Education (P),2170.0
-2015,Female,Education (P),2290.0
-2016,Female,Education (P),2560.0
-2017,Female,Education (P),2750.0
-2018,Female,Education (P),2890.0
-2019,Female,Education (P),2900.0
-2020,Female,Education (P),3160.0
-2021,Female,Education (P),3410.0
-2008,Male,Human health and social work activities (Q),2130.0
-2009,Male,Human health and social work activities (Q),2150.0
-2010,Male,Human health and social work activities (Q),2130.0
-2011,Male,Human health and social work activities (Q),2280.0
-2012,Male,Human health and social work activities (Q),2320.0
-2013,Male,Human health and social work activities (Q),2370.0
-2014,Male,Human health and social work activities (Q),2590.0
-2015,Male,Human health and social work activities (Q),2850.0
-2016,Male,Human health and social work activities (Q),3250.0
-2017,Male,Human health and social work activities (Q),3450.0
-2018,Male,Human health and social work activities (Q),3530.0
-2019,Male,Human health and social work activities (Q),3520.0
-2020,Male,Human health and social work activities (Q),3750.0
-2021,Male,Human health and social work activities (Q),4170.0
-2008,Female,Human health and social work activities (Q),1740.0
-2009,Female,Human health and social work activities (Q),1800.0
-2010,Female,Human health and social work activities (Q),1850.0
-2011,Female,Human health and social work activities (Q),1950.0
-2012,Female,Human health and social work activities (Q),1990.0
-2013,Female,Human health and social work activities (Q),2100.0
-2014,Female,Human health and social work activities (Q),2330.0
-2015,Female,Human health and social work activities (Q),2490.0
-2016,Female,Human health and social work activities (Q),2830.0
-2017,Female,Human health and social work activities (Q),2990.0
-2018,Female,Human health and social work activities (Q),3170.0
-2019,Female,Human health and social work activities (Q),3180.0
-2020,Female,Human health and social work activities (Q),3530.0
-2021,Female,Human health and social work activities (Q),3970.0
-2008,Male,Managers (1),3970.0
-2009,Male,Managers (1),3910.0
-2010,Male,Managers (1),4000.0
-2011,Male,Managers (1),4270.0
-2012,Male,Managers (1),4460.0
-2013,Male,Managers (1),4980.0
-2014,Male,Managers (1),5180.0
-2015,Male,Managers (1),5520.0
-2016,Male,Managers (1),6160.0
-2017,Male,Managers (1),6630.0
-2018,Male,Managers (1),6660.0
-2019,Male,Managers (1),6810.0
-2020,Male,Managers (1),7130.0
-2021,Male,Managers (1),7490.0
-2008,Female,Managers (1),2770.0
-2009,Female,Managers (1),2920.0
-2010,Female,Managers (1),3040.0
-2011,Female,Managers (1),3240.0
-2012,Female,Managers (1),3430.0
-2013,Female,Managers (1),3680.0
-2014,Female,Managers (1),4040.0
-2015,Female,Managers (1),4320.0
-2016,Female,Managers (1),4870.0
-2017,Female,Managers (1),5250.0
-2018,Female,Managers (1),5270.0
-2019,Female,Managers (1),5440.0
-2020,Female,Managers (1),5880.0
-2021,Female,Managers (1),6280.0
-2008,Male,Professionals (2),2800.0
-2009,Male,Professionals (2),2720.0
-2010,Male,Professionals (2),2800.0
-2011,Male,Professionals (2),2970.0
-2012,Male,Professionals (2),3130.0
-2013,Male,Professionals (2),3330.0
-2014,Male,Professionals (2),3490.0
-2015,Male,Professionals (2),3760.0
-2016,Male,Professionals (2),4120.0
-2017,Male,Professionals (2),4340.0
-2018,Male,Professionals (2),4590.0
-2019,Male,Professionals (2),4650.0
-2020,Male,Professionals (2),4820.0
-2021,Male,Professionals (2),5150.0
-2008,Female,Professionals (2),2150.0
-2009,Female,Professionals (2),2170.0
-2010,Female,Professionals (2),2220.0
-2011,Female,Professionals (2),2330.0
-2012,Female,Professionals (2),2410.0
-2013,Female,Professionals (2),2570.0
-2014,Female,Professionals (2),2820.0
-2015,Female,Professionals (2),3040.0
-2016,Female,Professionals (2),3320.0
-2017,Female,Professionals (2),3520.0
-2018,Female,Professionals (2),3760.0
-2019,Female,Professionals (2),3790.0
-2020,Female,Professionals (2),4030.0
-2021,Female,Professionals (2),4380.0
-2008,Male,Technicians and associate professionals (3),2430.0
-2009,Male,Technicians and associate professionals (3),2450.0
-2010,Male,Technicians and associate professionals (3),2550.0
-2011,Male,Technicians and associate professionals (3),2780.0
-2012,Male,Technicians and associate professionals (3),2910.0
-2013,Male,Technicians and associate professionals (3),3050.0
-2014,Male,Technicians and associate professionals (3),3250.0
-2015,Male,Technicians and associate professionals (3),3430.0
-2016,Male,Technicians and associate professionals (3),3820.0
-2017,Male,Technicians and associate professionals (3),4120.0
-2018,Male,Technicians and associate professionals (3),4190.0
-2019,Male,Technicians and associate professionals (3),4380.0
-2020,Male,Technicians and associate professionals (3),4500.0
-2021,Male,Technicians and associate professionals (3),4820.0
-2008,Female,Technicians and associate professionals (3),1740.0
-2009,Female,Technicians and associate professionals (3),1800.0
-2010,Female,Technicians and associate professionals (3),1890.0
-2011,Female,Technicians and associate professionals (3),2040.0
-2012,Female,Technicians and associate professionals (3),2110.0
-2013,Female,Technicians and associate professionals (3),2220.0
-2014,Female,Technicians and associate professionals (3),2340.0
-2015,Female,Technicians and associate professionals (3),2490.0
-2016,Female,Technicians and associate professionals (3),2770.0
-2017,Female,Technicians and associate professionals (3),3000.0
-2018,Female,Technicians and associate professionals (3),3190.0
-2019,Female,Technicians and associate professionals (3),3250.0
-2020,Female,Technicians and associate professionals (3),3490.0
-2021,Female,Technicians and associate professionals (3),3780.0
-2008,Male,Clerks (4),1960.0
-2009,Male,Clerks (4),2010.0
-2010,Male,Clerks (4),2120.0
-2011,Male,Clerks (4),2260.0
-2012,Male,Clerks (4),2380.0
-2013,Male,Clerks (4),2490.0
-2014,Male,Clerks (4),2440.0
-2015,Male,Clerks (4),2510.0
-2016,Male,Clerks (4),2540.0
-2017,Male,Clerks (4),2750.0
-2018,Male,Clerks (4),2900.0
-2019,Male,Clerks (4),2960.0
-2020,Male,Clerks (4),3230.0
-2021,Male,Clerks (4),3550.0
-2008,Female,Clerks (4),1620.0
-2009,Female,Clerks (4),1690.0
-2010,Female,Clerks (4),1800.0
-2011,Female,Clerks (4),1890.0
-2012,Female,Clerks (4),2020.0
-2013,Female,Clerks (4),2130.0
-2014,Female,Clerks (4),2220.0
-2015,Female,Clerks (4),2360.0
-2016,Female,Clerks (4),2540.0
-2017,Female,Clerks (4),2740.0
-2018,Female,Clerks (4),2910.0
-2019,Female,Clerks (4),2970.0
-2020,Female,Clerks (4),3260.0
-2021,Female,Clerks (4),3530.0
-2008,Male,Service workers and shop and market sales workers (5),1440.0
-2009,Male,Service workers and shop and market sales workers (5),1560.0
-2010,Male,Service workers and shop and market sales workers (5),1660.0
-2011,Male,Service workers and shop and market sales workers (5),1780.0
-2012,Male,Service workers and shop and market sales workers (5),1840.0
-2013,Male,Service workers and shop and market sales workers (5),1960.0
-2014,Male,Service workers and shop and market sales workers (5),2040.0
-2015,Male,Service workers and shop and market sales workers (5),2190.0
-2016,Male,Service workers and shop and market sales workers (5),2460.0
-2017,Male,Service workers and shop and market sales workers (5),2600.0
-2018,Male,Service workers and shop and market sales workers (5),2610.0
-2019,Male,Service workers and shop and market sales workers (5),2710.0
-2020,Male,Service workers and shop and market sales workers (5),2990.0
-2021,Male,Service workers and shop and market sales workers (5),3220.0
-2008,Female,Service workers and shop and market sales workers (5),1200.0
-2009,Female,Service workers and shop and market sales workers (5),1310.0
-2010,Female,Service workers and shop and market sales workers (5),1410.0
-2011,Female,Service workers and shop and market sales workers (5),1500.0
-2012,Female,Service workers and shop and market sales workers (5),1570.0
-2013,Female,Service workers and shop and market sales workers (5),1650.0
-2014,Female,Service workers and shop and market sales workers (5),1760.0
-2015,Female,Service workers and shop and market sales workers (5),1850.0
-2016,Female,Service workers and shop and market sales workers (5),2100.0
-2017,Female,Service workers and shop and market sales workers (5),2230.0
-2018,Female,Service workers and shop and market sales workers (5),2280.0
-2019,Female,Service workers and shop and market sales workers (5),2370.0
-2020,Female,Service workers and shop and market sales workers (5),2650.0
-2021,Female,Service workers and shop and market sales workers (5),2870.0
-2008,Male,Craft and related workers (7),1840.0
-2009,Male,Craft and related workers (7),1840.0
-2010,Male,Craft and related workers (7),2010.0
-2011,Male,Craft and related workers (7),2200.0
-2012,Male,Craft and related workers (7),2260.0
-2013,Male,Craft and related workers (7),2380.0
-2014,Male,Craft and related workers (7),2450.0
-2015,Male,Craft and related workers (7),2710.0
-2016,Male,Craft and related workers (7),2910.0
-2017,Male,Craft and related workers (7),3130.0
-2018,Male,Craft and related workers (7),3300.0
-2019,Male,Craft and related workers (7),3370.0
-2020,Male,Craft and related workers (7),3710.0
-2021,Male,Craft and related workers (7),3870.0
-2008,Female,Craft and related workers (7),1300.0
-2009,Female,Craft and related workers (7),1320.0
-2010,Female,Craft and related workers (7),1520.0
-2011,Female,Craft and related workers (7),1760.0
-2012,Female,Craft and related workers (7),1500.0
-2013,Female,Craft and related workers (7),1750.0
-2014,Female,Craft and related workers (7),1860.0
-2015,Female,Craft and related workers (7),2060.0
-2016,Female,Craft and related workers (7),2300.0
-2017,Female,Craft and related workers (7),2470.0
-2018,Female,Craft and related workers (7),2510.0
-2019,Female,Craft and related workers (7),2660.0
-2020,Female,Craft and related workers (7),2890.0
-2021,Female,Craft and related workers (7),3070.0
-2008,Male,Elementary occupations (9),1350.0
-2009,Male,Elementary occupations (9),1390.0
-2010,Male,Elementary occupations (9),1490.0
-2011,Male,Elementary occupations (9),1580.0
-2012,Male,Elementary occupations (9),1710.0
-2013,Male,Elementary occupations (9),1740.0
-2014,Male,Elementary occupations (9),1860.0
-2015,Male,Elementary occupations (9),2010.0
-2016,Male,Elementary occupations (9),2200.0
-2017,Male,Elementary occupations (9),2320.0
-2018,Male,Elementary occupations (9),2360.0
-2019,Male,Elementary occupations (9),2480.0
-2020,Male,Elementary occupations (9),2730.0
-2021,Male,Elementary occupations (9),2820.0
-2008,Female,Elementary occupations (9),1140.0
-2009,Female,Elementary occupations (9),1230.0
-2010,Female,Elementary occupations (9),1320.0
-2011,Female,Elementary occupations (9),1400.0
-2012,Female,Elementary occupations (9),1510.0
-2013,Female,Elementary occupations (9),1570.0
-2014,Female,Elementary occupations (9),1710.0
-2015,Female,Elementary occupations (9),1790.0
-2016,Female,Elementary occupations (9),2030.0
-2017,Female,Elementary occupations (9),2130.0
-2018,Female,Elementary occupations (9),2140.0
-2019,Female,Elementary occupations (9),2260.0
-2020,Female,Elementary occupations (9),2540.0
-2021,Female,Elementary occupations (9),2650.0
-2008,Male,"General, machine and specialized workers",1480.0
-2009,Male,"General, machine and specialized workers",1520.0
-2010,Male,"General, machine and specialized workers",1650.0
-2011,Male,"General, machine and specialized workers",1810.0
-2012,Male,"General, machine and specialized workers",1850.0
-2013,Male,"General, machine and specialized workers",1950.0
-2014,Male,"General, machine and specialized workers",2020.0
-2015,Male,"General, machine and specialized workers",2200.0
-2016,Male,"General, machine and specialized workers",2400.0
-2017,Male,"General, machine and specialized workers",2550.0
-2018,Male,"General, machine and specialized workers",2590.0
-2019,Male,"General, machine and specialized workers",2750.0
-2020,Male,"General, machine and specialized workers",3020.0
-2021,Male,"General, machine and specialized workers",3190.0
-2008,Female,"General, machine and specialized workers",1190.0
-2009,Female,"General, machine and specialized workers",1270.0
-2010,Female,"General, machine and specialized workers",1380.0
-2011,Female,"General, machine and specialized workers",1510.0
-2012,Female,"General, machine and specialized workers",1530.0
-2013,Female,"General, machine and specialized workers",1660.0
-2014,Female,"General, machine and specialized workers",1760.0
-2015,Female,"General, machine and specialized workers",1900.0
-2016,Female,"General, machine and specialized workers",2140.0
-2017,Female,"General, machine and specialized workers",2250.0
-2018,Female,"General, machine and specialized workers",2250.0
-2019,Female,"General, machine and specialized workers",2380.0
-2020,Female,"General, machine and specialized workers",2660.0
-2021,Female,"General, machine and specialized workers",2780.0
+2008,,,1895
+2009,,,1965
+2010,,,2070
+2011,,,2215
+2012,,,2310
+2013,,,2470
+2014,,,2560
+2015,,,2755
+2016,,,3035
+2017,,,3220
+2018,,,3260
+2019,,,3360
+2020,,,3695
+2021,,,3910
+2022,,,4130
+2008,Male,,2110
+2009,Male,,2160
+2010,Male,,2270
+2011,Male,,2430
+2012,Male,,2530
+2013,Male,,2720
+2014,Male,,2790
+2015,Male,,3010
+2016,Male,,3290
+2017,Male,,3480
+2018,Male,,3500
+2019,Male,,3610
+2020,Male,,3930
+2021,Male,,4120
+2022,Male,,4330
+2008,Female,,1680
+2009,Female,,1770
+2010,Female,,1870
+2011,Female,,2000
+2012,Female,,2090
+2013,Female,,2220
+2014,Female,,2330
+2015,Female,,2500
+2016,Female,,2780
+2017,Female,,2960
+2018,Female,,3020
+2019,Female,,3110
+2020,Female,,3460
+2021,Female,,3700
+2022,Female,,3930
+2008,Male,Total - excluding public administration (O),2080
+2009,Male,Total - excluding public administration (O),2130
+2010,Male,Total - excluding public administration (O),2250
+2011,Male,Total - excluding public administration (O),2400
+2012,Male,Total - excluding public administration (O),2500
+2013,Male,Total - excluding public administration (O),2710
+2014,Male,Total - excluding public administration (O),2760
+2015,Male,Total - excluding public administration (O),2990
+2016,Male,Total - excluding public administration (O),3250
+2017,Male,Total - excluding public administration (O),3440
+2018,Male,Total - excluding public administration (O),3450
+2019,Male,Total - excluding public administration (O),3560
+2020,Male,Total - excluding public administration (O),3880
+2021,Male,Total - excluding public administration (O),4050
+2022,Male,Total - excluding public administration (O),4250
+2008,Female,Total - excluding public administration (O),1650
+2009,Female,Total - excluding public administration (O),1750
+2010,Female,Total - excluding public administration (O),1850
+2011,Female,Total - excluding public administration (O),1970
+2012,Female,Total - excluding public administration (O),2060
+2013,Female,Total - excluding public administration (O),2200
+2014,Female,Total - excluding public administration (O),2300
+2015,Female,Total - excluding public administration (O),2470
+2016,Female,Total - excluding public administration (O),2730
+2017,Female,Total - excluding public administration (O),2910
+2018,Female,Total - excluding public administration (O),2970
+2019,Female,Total - excluding public administration (O),3060
+2020,Female,Total - excluding public administration (O),3410
+2021,Female,Total - excluding public administration (O),3630
+2022,Female,Total - excluding public administration (O),3850
+2008,Male,Private sector,2090
+2009,Male,Private sector,2150
+2010,Male,Private sector,2310
+2011,Male,Private sector,2470
+2012,Male,Private sector,2580
+2013,Male,Private sector,2830
+2014,Male,Private sector,2840
+2015,Male,Private sector,3070
+2016,Male,Private sector,3290
+2017,Male,Private sector,3480
+2018,Male,Private sector,3460
+2019,Male,Private sector,3600
+2020,Male,Private sector,3960
+2021,Male,Private sector,4080
+2022,Male,Private sector,4260
+2008,Female,Private sector,1620
+2009,Female,Private sector,1720
+2010,Female,Private sector,1900
+2011,Female,Private sector,2040
+2012,Female,Private sector,2150
+2013,Female,Private sector,2340
+2014,Female,Private sector,2380
+2015,Female,Private sector,2580
+2016,Female,Private sector,2790
+2017,Female,Private sector,2970
+2018,Female,Private sector,2910
+2019,Female,Private sector,3070
+2020,Female,Private sector,3490
+2021,Female,Private sector,3520
+2022,Female,Private sector,3690
+2008,Male,"Public sector, total",2170
+2009,Male,"Public sector, total",2190
+2010,Male,"Public sector, total",2200
+2011,Male,"Public sector, total",2340
+2012,Male,"Public sector, total",2440
+2013,Male,"Public sector, total",2500
+2014,Male,"Public sector, total",2680
+2015,Male,"Public sector, total",2880
+2016,Male,"Public sector, total",3300
+2017,Male,"Public sector, total",3500
+2018,Male,"Public sector, total",3610
+2019,Male,"Public sector, total",3660
+2020,Male,"Public sector, total",3890
+2021,Male,"Public sector, total",4260
+2022,Male,"Public sector, total",4530
+2008,Female,"Public sector, total",1710
+2009,Female,"Public sector, total",1800
+2010,Female,"Public sector, total",1840
+2011,Female,"Public sector, total",1950
+2012,Female,"Public sector, total",2040
+2013,Female,"Public sector, total",2110
+2014,Female,"Public sector, total",2310
+2015,Female,"Public sector, total",2450
+2016,Female,"Public sector, total",2780
+2017,Female,"Public sector, total",2950
+2018,Female,"Public sector, total",3120
+2019,Female,"Public sector, total",3150
+2020,Female,"Public sector, total",3450
+2021,Female,"Public sector, total",3810
+2022,Female,"Public sector, total",4100
+2008,Male,"Public sector, central government",2400
+2009,Male,"Public sector, central government",2380
+2010,Male,"Public sector, central government",2410
+2011,Male,"Public sector, central government",2590
+2012,Male,"Public sector, central government",2720
+2013,Male,"Public sector, central government",2830
+2014,Male,"Public sector, central government",2970
+2015,Male,"Public sector, central government",3290
+2016,Male,"Public sector, central government",3740
+2017,Male,"Public sector, central government",3920
+2018,Male,"Public sector, central government",4090
+2019,Male,"Public sector, central government",4120
+2020,Male,"Public sector, central government",4350
+2021,Male,"Public sector, central government",4710
+2022,Male,"Public sector, central government",4970
+2008,Female,"Public sector, central government",1950
+2009,Female,"Public sector, central government",1990
+2010,Female,"Public sector, central government",2030
+2011,Female,"Public sector, central government",2170
+2012,Female,"Public sector, central government",2240
+2013,Female,"Public sector, central government",2360
+2014,Female,"Public sector, central government",2530
+2015,Female,"Public sector, central government",2800
+2016,Female,"Public sector, central government",3130
+2017,Female,"Public sector, central government",3300
+2018,Female,"Public sector, central government",3500
+2019,Female,"Public sector, central government",3540
+2020,Female,"Public sector, central government",3860
+2021,Female,"Public sector, central government",4240
+2022,Female,"Public sector, central government",4520
+2008,Male,"Public sector, local government",1840
+2009,Male,"Public sector, local government",1920
+2010,Male,"Public sector, local government",1930
+2011,Male,"Public sector, local government",2040
+2012,Male,"Public sector, local government",2130
+2013,Male,"Public sector, local government",2100
+2014,Male,"Public sector, local government",2290
+2015,Male,"Public sector, local government",2400
+2016,Male,"Public sector, local government",2750
+2017,Male,"Public sector, local government",2950
+2018,Male,"Public sector, local government",3010
+2019,Male,"Public sector, local government",3100
+2020,Male,"Public sector, local government",3350
+2021,Male,"Public sector, local government",3730
+2022,Male,"Public sector, local government",4030
+2008,Female,"Public sector, local government",1570
+2009,Female,"Public sector, local government",1720
+2010,Female,"Public sector, local government",1790
+2011,Female,"Public sector, local government",1890
+2012,Female,"Public sector, local government",1960
+2013,Female,"Public sector, local government",1960
+2014,Female,"Public sector, local government",2130
+2015,Female,"Public sector, local government",2220
+2016,Female,"Public sector, local government",2530
+2017,Female,"Public sector, local government",2700
+2018,Female,"Public sector, local government",2830
+2019,Female,"Public sector, local government",2870
+2020,Female,"Public sector, local government",3170
+2021,Female,"Public sector, local government",3500
+2022,Female,"Public sector, local government",3790
+2008,Male,Full-time,2250
+2009,Male,Full-time,2300
+2010,Male,Full-time,2430
+2011,Male,Full-time,2570
+2012,Male,Full-time,2690
+2013,Male,Full-time,2910
+2014,Male,Full-time,3020
+2015,Male,Full-time,3270
+2016,Male,Full-time,3560
+2017,Male,Full-time,3770
+2018,Male,Full-time,3840
+2019,Male,Full-time,3980
+2020,Male,Full-time,4250
+2021,Male,Full-time,4450
+2022,Male,Full-time,4670
+2008,Female,Full-time,1860
+2009,Female,Full-time,1930
+2010,Female,Full-time,2050
+2011,Female,Full-time,2180
+2012,Female,Full-time,2290
+2013,Female,Full-time,2440
+2014,Female,Full-time,2580
+2015,Female,Full-time,2810
+2016,Female,Full-time,3060
+2017,Female,Full-time,3280
+2018,Female,Full-time,3390
+2019,Female,Full-time,3490
+2020,Female,Full-time,3820
+2021,Female,Full-time,4050
+2022,Female,Full-time,4280
+2008,Male,Part-time,1580
+2009,Male,Part-time,1640
+2010,Male,Part-time,1680
+2011,Male,Part-time,1830
+2012,Male,Part-time,1910
+2013,Male,Part-time,2010
+2014,Male,Part-time,2120
+2015,Male,Part-time,2320
+2016,Male,Part-time,2560
+2017,Male,Part-time,2670
+2018,Male,Part-time,2700
+2019,Male,Part-time,2820
+2020,Male,Part-time,3140
+2021,Male,Part-time,3310
+2022,Male,Part-time,3520
+2008,Female,Part-time,1420
+2009,Female,Part-time,1530
+2010,Female,Part-time,1600
+2011,Female,Part-time,1720
+2012,Female,Part-time,1800
+2013,Female,Part-time,1900
+2014,Female,Part-time,2080
+2015,Female,Part-time,2200
+2016,Female,Part-time,2480
+2017,Female,Part-time,2620
+2018,Female,Part-time,2650
+2019,Female,Part-time,2730
+2020,Female,Part-time,3080
+2021,Female,Part-time,3270
+2022,Female,Part-time,3500
+2008,Male,Manufacturing (C),1950
+2009,Male,Manufacturing (C),1990
+2010,Male,Manufacturing (C),2170
+2011,Male,Manufacturing (C),2340
+2012,Male,Manufacturing (C),2410
+2013,Male,Manufacturing (C),2620
+2014,Male,Manufacturing (C),2580
+2015,Male,Manufacturing (C),2800
+2016,Male,Manufacturing (C),2980
+2017,Male,Manufacturing (C),3180
+2018,Male,Manufacturing (C),3380
+2019,Male,Manufacturing (C),3570
+2020,Male,Manufacturing (C),3880
+2021,Male,Manufacturing (C),4080
+2022,Male,Manufacturing (C),4300
+2008,Female,Manufacturing (C),1510
+2009,Female,Manufacturing (C),1560
+2010,Female,Manufacturing (C),1660
+2011,Female,Manufacturing (C),1860
+2012,Female,Manufacturing (C),1930
+2013,Female,Manufacturing (C),2120
+2014,Female,Manufacturing (C),2180
+2015,Female,Manufacturing (C),2350
+2016,Female,Manufacturing (C),2560
+2017,Female,Manufacturing (C),2650
+2018,Female,Manufacturing (C),2810
+2019,Female,Manufacturing (C),3100
+2020,Female,Manufacturing (C),3330
+2021,Female,Manufacturing (C),3530
+2022,Female,Manufacturing (C),3750
+2008,Male,"Electricity, gas, steam, and air conditioning supply (D)",2500
+2009,Male,"Electricity, gas, steam, and air conditioning supply (D)",2660
+2010,Male,"Electricity, gas, steam, and air conditioning supply (D)",2670
+2011,Male,"Electricity, gas, steam, and air conditioning supply (D)",2910
+2012,Male,"Electricity, gas, steam, and air conditioning supply (D)",3160
+2013,Male,"Electricity, gas, steam, and air conditioning supply (D)",3370
+2014,Male,"Electricity, gas, steam, and air conditioning supply (D)",3630
+2015,Male,"Electricity, gas, steam, and air conditioning supply (D)",3820
+2016,Male,"Electricity, gas, steam, and air conditioning supply (D)",4490
+2017,Male,"Electricity, gas, steam, and air conditioning supply (D)",4700
+2018,Male,"Electricity, gas, steam, and air conditioning supply (D)",4900
+2019,Male,"Electricity, gas, steam, and air conditioning supply (D)",4980
+2020,Male,"Electricity, gas, steam, and air conditioning supply (D)",5460
+2021,Male,"Electricity, gas, steam, and air conditioning supply (D)",5700
+2022,Male,"Electricity, gas, steam, and air conditioning supply (D)",6040
+2008,Female,"Electricity, gas, steam, and air conditioning supply (D)",2040
+2009,Female,"Electricity, gas, steam, and air conditioning supply (D)",2150
+2010,Female,"Electricity, gas, steam, and air conditioning supply (D)",2300
+2011,Female,"Electricity, gas, steam, and air conditioning supply (D)",2580
+2012,Female,"Electricity, gas, steam, and air conditioning supply (D)",2690
+2013,Female,"Electricity, gas, steam, and air conditioning supply (D)",2950
+2014,Female,"Electricity, gas, steam, and air conditioning supply (D)",3210
+2015,Female,"Electricity, gas, steam, and air conditioning supply (D)",3370
+2016,Female,"Electricity, gas, steam, and air conditioning supply (D)",3910
+2017,Female,"Electricity, gas, steam, and air conditioning supply (D)",4290
+2018,Female,"Electricity, gas, steam, and air conditioning supply (D)",4470
+2019,Female,"Electricity, gas, steam, and air conditioning supply (D)",4500
+2020,Female,"Electricity, gas, steam, and air conditioning supply (D)",5100
+2021,Female,"Electricity, gas, steam, and air conditioning supply (D)",5500
+2022,Female,"Electricity, gas, steam, and air conditioning supply (D)",5790
+2008,Male,Wholesale and retail trade; repair of motor vehicles (G),1780
+2009,Male,Wholesale and retail trade; repair of motor vehicles (G),1860
+2010,Male,Wholesale and retail trade; repair of motor vehicles (G),2050
+2011,Male,Wholesale and retail trade; repair of motor vehicles (G),2130
+2012,Male,Wholesale and retail trade; repair of motor vehicles (G),2210
+2013,Male,Wholesale and retail trade; repair of motor vehicles (G),2370
+2014,Male,Wholesale and retail trade; repair of motor vehicles (G),2570
+2015,Male,Wholesale and retail trade; repair of motor vehicles (G),2880
+2016,Male,Wholesale and retail trade; repair of motor vehicles (G),3010
+2017,Male,Wholesale and retail trade; repair of motor vehicles (G),3200
+2018,Male,Wholesale and retail trade; repair of motor vehicles (G),3290
+2019,Male,Wholesale and retail trade; repair of motor vehicles (G),3380
+2020,Male,Wholesale and retail trade; repair of motor vehicles (G),3440
+2021,Male,Wholesale and retail trade; repair of motor vehicles (G),3690
+2022,Male,Wholesale and retail trade; repair of motor vehicles (G),3770
+2008,Female,Wholesale and retail trade; repair of motor vehicles (G),1380
+2009,Female,Wholesale and retail trade; repair of motor vehicles (G),1420
+2010,Female,Wholesale and retail trade; repair of motor vehicles (G),1630
+2011,Female,Wholesale and retail trade; repair of motor vehicles (G),1720
+2012,Female,Wholesale and retail trade; repair of motor vehicles (G),1800
+2013,Female,Wholesale and retail trade; repair of motor vehicles (G),1940
+2014,Female,Wholesale and retail trade; repair of motor vehicles (G),2100
+2015,Female,Wholesale and retail trade; repair of motor vehicles (G),2310
+2016,Female,Wholesale and retail trade; repair of motor vehicles (G),2450
+2017,Female,Wholesale and retail trade; repair of motor vehicles (G),2640
+2018,Female,Wholesale and retail trade; repair of motor vehicles (G),2820
+2019,Female,Wholesale and retail trade; repair of motor vehicles (G),2910
+2020,Female,Wholesale and retail trade; repair of motor vehicles (G),3120
+2021,Female,Wholesale and retail trade; repair of motor vehicles (G),3350
+2022,Female,Wholesale and retail trade; repair of motor vehicles (G),3510
+2008,Male,Transportation and storage (H),2070
+2009,Male,Transportation and storage (H),2100
+2010,Male,Transportation and storage (H),2210
+2011,Male,Transportation and storage (H),2330
+2012,Male,Transportation and storage (H),2420
+2013,Male,Transportation and storage (H),2700
+2014,Male,Transportation and storage (H),2760
+2015,Male,Transportation and storage (H),3000
+2016,Male,Transportation and storage (H),3290
+2017,Male,Transportation and storage (H),3370
+2018,Male,Transportation and storage (H),3540
+2019,Male,Transportation and storage (H),3840
+2020,Male,Transportation and storage (H),4160
+2021,Male,Transportation and storage (H),4350
+2022,Male,Transportation and storage (H),4590
+2008,Female,Transportation and storage (H),1590
+2009,Female,Transportation and storage (H),1680
+2010,Female,Transportation and storage (H),1850
+2011,Female,Transportation and storage (H),1950
+2012,Female,Transportation and storage (H),2050
+2013,Female,Transportation and storage (H),2200
+2014,Female,Transportation and storage (H),2240
+2015,Female,Transportation and storage (H),2420
+2016,Female,Transportation and storage (H),2630
+2017,Female,Transportation and storage (H),2800
+2018,Female,Transportation and storage (H),3030
+2019,Female,Transportation and storage (H),3220
+2020,Female,Transportation and storage (H),3700
+2021,Female,Transportation and storage (H),3760
+2022,Female,Transportation and storage (H),3900
+2018,Male,Accomodation and food services (I),2330
+2019,Male,Accomodation and food services (I),2510
+2020,Male,Accomodation and food services (I),2890
+2021,Male,Accomodation and food services (I),2910
+2022,Male,Accomodation and food services (I),3040
+2018,Female,Accomodation and food services (I),2210
+2019,Female,Accomodation and food services (I),2340
+2020,Female,Accomodation and food services (I),2720
+2021,Female,Accomodation and food services (I),2710
+2022,Female,Accomodation and food services (I),2910
+2008,Male,Information and communication (J),2660
+2009,Male,Information and communication (J),2560
+2010,Male,Information and communication (J),2810
+2011,Male,Information and communication (J),2880
+2012,Male,Information and communication (J),3130
+2013,Male,Information and communication (J),3120
+2014,Male,Information and communication (J),3290
+2015,Male,Information and communication (J),3460
+2016,Male,Information and communication (J),3850
+2017,Male,Information and communication (J),3960
+2018,Male,Information and communication (J),4210
+2019,Male,Information and communication (J),4330
+2020,Male,Information and communication (J),4670
+2021,Male,Information and communication (J),4910
+2022,Male,Information and communication (J),5160
+2008,Female,Information and communication (J),2160
+2009,Female,Information and communication (J),2170
+2010,Female,Information and communication (J),2310
+2011,Female,Information and communication (J),2380
+2012,Female,Information and communication (J),2560
+2013,Female,Information and communication (J),2570
+2014,Female,Information and communication (J),2690
+2015,Female,Information and communication (J),2970
+2016,Female,Information and communication (J),3380
+2017,Female,Information and communication (J),3540
+2018,Female,Information and communication (J),3770
+2019,Female,Information and communication (J),3880
+2020,Female,Information and communication (J),4070
+2021,Female,Information and communication (J),4310
+2022,Female,Information and communication (J),4680
+2008,Male,Financial and insurance activities (K),3840
+2009,Male,Financial and insurance activities (K),3750
+2010,Male,Financial and insurance activities (K),3850
+2011,Male,Financial and insurance activities (K),4140
+2012,Male,Financial and insurance activities (K),4630
+2013,Male,Financial and insurance activities (K),5160
+2014,Male,Financial and insurance activities (K),5550
+2015,Male,Financial and insurance activities (K),5770
+2016,Male,Financial and insurance activities (K),6470
+2017,Male,Financial and insurance activities (K),7090
+2018,Male,Financial and insurance activities (K),7280
+2019,Male,Financial and insurance activities (K),7300
+2020,Male,Financial and insurance activities (K),7610
+2021,Male,Financial and insurance activities (K),7640
+2022,Male,Financial and insurance activities (K),7710
+2008,Female,Financial and insurance activities (K),2200
+2009,Female,Financial and insurance activities (K),2370
+2010,Female,Financial and insurance activities (K),2610
+2011,Female,Financial and insurance activities (K),2720
+2012,Female,Financial and insurance activities (K),3010
+2013,Female,Financial and insurance activities (K),3190
+2014,Female,Financial and insurance activities (K),3410
+2015,Female,Financial and insurance activities (K),3630
+2016,Female,Financial and insurance activities (K),3950
+2017,Female,Financial and insurance activities (K),4350
+2018,Female,Financial and insurance activities (K),4710
+2019,Female,Financial and insurance activities (K),4890
+2020,Female,Financial and insurance activities (K),5180
+2021,Female,Financial and insurance activities (K),5390
+2022,Female,Financial and insurance activities (K),5690
+2008,Male,Public administration and defence; compulsory social sec. (O),2360
+2009,Male,Public administration and defence; compulsory social sec. (O),2390
+2010,Male,Public administration and defence; compulsory social sec. (O),2410
+2011,Male,Public administration and defence; compulsory social sec. (O),2590
+2012,Male,Public administration and defence; compulsory social sec. (O),2710
+2013,Male,Public administration and defence; compulsory social sec. (O),2840
+2014,Male,Public administration and defence; compulsory social sec. (O),3030
+2015,Male,Public administration and defence; compulsory social sec. (O),3160
+2016,Male,Public administration and defence; compulsory social sec. (O),3750
+2017,Male,Public administration and defence; compulsory social sec. (O),3910
+2018,Male,Public administration and defence; compulsory social sec. (O),4130
+2019,Male,Public administration and defence; compulsory social sec. (O),4230
+2020,Male,Public administration and defence; compulsory social sec. (O),4510
+2021,Male,Public administration and defence; compulsory social sec. (O),4970
+2022,Male,Public administration and defence; compulsory social sec. (O),5230
+2008,Female,Public administration and defence; compulsory social sec. (O),1970
+2009,Female,Public administration and defence; compulsory social sec. (O),2020
+2010,Female,Public administration and defence; compulsory social sec. (O),2060
+2011,Female,Public administration and defence; compulsory social sec. (O),2250
+2012,Female,Public administration and defence; compulsory social sec. (O),2370
+2013,Female,Public administration and defence; compulsory social sec. (O),2510
+2014,Female,Public administration and defence; compulsory social sec. (O),2730
+2015,Female,Public administration and defence; compulsory social sec. (O),2890
+2016,Female,Public administration and defence; compulsory social sec. (O),3350
+2017,Female,Public administration and defence; compulsory social sec. (O),3530
+2018,Female,Public administration and defence; compulsory social sec. (O),3770
+2019,Female,Public administration and defence; compulsory social sec. (O),3830
+2020,Female,Public administration and defence; compulsory social sec. (O),4150
+2021,Female,Public administration and defence; compulsory social sec. (O),4560
+2022,Female,Public administration and defence; compulsory social sec. (O),4910
+2008,Male,Education (P),2020
+2009,Male,Education (P),2030
+2010,Male,Education (P),2030
+2011,Male,Education (P),2160
+2012,Male,Education (P),2230
+2013,Male,Education (P),2300
+2014,Male,Education (P),2500
+2015,Male,Education (P),2640
+2016,Male,Education (P),2930
+2017,Male,Education (P),3150
+2018,Male,Education (P),3240
+2019,Male,Education (P),3250
+2020,Male,Education (P),3450
+2021,Male,Education (P),3660
+2022,Male,Education (P),3880
+2008,Female,Education (P),1580
+2009,Female,Education (P),1680
+2010,Female,Education (P),1710
+2011,Female,Education (P),1820
+2012,Female,Education (P),1890
+2013,Female,Education (P),1960
+2014,Female,Education (P),2170
+2015,Female,Education (P),2290
+2016,Female,Education (P),2560
+2017,Female,Education (P),2750
+2018,Female,Education (P),2890
+2019,Female,Education (P),2900
+2020,Female,Education (P),3160
+2021,Female,Education (P),3410
+2022,Female,Education (P),3660
+2008,Male,Human health and social work activities (Q),2130
+2009,Male,Human health and social work activities (Q),2150
+2010,Male,Human health and social work activities (Q),2130
+2011,Male,Human health and social work activities (Q),2280
+2012,Male,Human health and social work activities (Q),2320
+2013,Male,Human health and social work activities (Q),2370
+2014,Male,Human health and social work activities (Q),2590
+2015,Male,Human health and social work activities (Q),2850
+2016,Male,Human health and social work activities (Q),3250
+2017,Male,Human health and social work activities (Q),3450
+2018,Male,Human health and social work activities (Q),3530
+2019,Male,Human health and social work activities (Q),3520
+2020,Male,Human health and social work activities (Q),3750
+2021,Male,Human health and social work activities (Q),4180
+2022,Male,Human health and social work activities (Q),4480
+2008,Female,Human health and social work activities (Q),1740
+2009,Female,Human health and social work activities (Q),1800
+2010,Female,Human health and social work activities (Q),1850
+2011,Female,Human health and social work activities (Q),1950
+2012,Female,Human health and social work activities (Q),1990
+2013,Female,Human health and social work activities (Q),2100
+2014,Female,Human health and social work activities (Q),2330
+2015,Female,Human health and social work activities (Q),2490
+2016,Female,Human health and social work activities (Q),2830
+2017,Female,Human health and social work activities (Q),2990
+2018,Female,Human health and social work activities (Q),3170
+2019,Female,Human health and social work activities (Q),3180
+2020,Female,Human health and social work activities (Q),3530
+2021,Female,Human health and social work activities (Q),3980
+2022,Female,Human health and social work activities (Q),4260
+2008,Male,Managers (1),3970
+2009,Male,Managers (1),3910
+2010,Male,Managers (1),4000
+2011,Male,Managers (1),4270
+2012,Male,Managers (1),4460
+2013,Male,Managers (1),4980
+2014,Male,Managers (1),5180
+2015,Male,Managers (1),5520
+2016,Male,Managers (1),6160
+2017,Male,Managers (1),6630
+2018,Male,Managers (1),6660
+2019,Male,Managers (1),6810
+2020,Male,Managers (1),7130
+2021,Male,Managers (1),7540
+2022,Male,Managers (1),7960
+2008,Female,Managers (1),2770
+2009,Female,Managers (1),2920
+2010,Female,Managers (1),3040
+2011,Female,Managers (1),3240
+2012,Female,Managers (1),3430
+2013,Female,Managers (1),3680
+2014,Female,Managers (1),4040
+2015,Female,Managers (1),4320
+2016,Female,Managers (1),4870
+2017,Female,Managers (1),5250
+2018,Female,Managers (1),5270
+2019,Female,Managers (1),5440
+2020,Female,Managers (1),5880
+2021,Female,Managers (1),6360
+2022,Female,Managers (1),6770
+2008,Male,Professionals (2),2800
+2009,Male,Professionals (2),2720
+2010,Male,Professionals (2),2800
+2011,Male,Professionals (2),2970
+2012,Male,Professionals (2),3130
+2013,Male,Professionals (2),3330
+2014,Male,Professionals (2),3490
+2015,Male,Professionals (2),3760
+2016,Male,Professionals (2),4120
+2017,Male,Professionals (2),4340
+2018,Male,Professionals (2),4590
+2019,Male,Professionals (2),4650
+2020,Male,Professionals (2),4820
+2021,Male,Professionals (2),5140
+2022,Male,Professionals (2),5440
+2008,Female,Professionals (2),2150
+2009,Female,Professionals (2),2170
+2010,Female,Professionals (2),2220
+2011,Female,Professionals (2),2330
+2012,Female,Professionals (2),2410
+2013,Female,Professionals (2),2570
+2014,Female,Professionals (2),2820
+2015,Female,Professionals (2),3040
+2016,Female,Professionals (2),3320
+2017,Female,Professionals (2),3520
+2018,Female,Professionals (2),3760
+2019,Female,Professionals (2),3790
+2020,Female,Professionals (2),4030
+2021,Female,Professionals (2),4380
+2022,Female,Professionals (2),4660
+2008,Male,Technicians and associate professionals (3),2430
+2009,Male,Technicians and associate professionals (3),2450
+2010,Male,Technicians and associate professionals (3),2550
+2011,Male,Technicians and associate professionals (3),2780
+2012,Male,Technicians and associate professionals (3),2910
+2013,Male,Technicians and associate professionals (3),3050
+2014,Male,Technicians and associate professionals (3),3250
+2015,Male,Technicians and associate professionals (3),3430
+2016,Male,Technicians and associate professionals (3),3820
+2017,Male,Technicians and associate professionals (3),4120
+2018,Male,Technicians and associate professionals (3),4190
+2019,Male,Technicians and associate professionals (3),4380
+2020,Male,Technicians and associate professionals (3),4500
+2021,Male,Technicians and associate professionals (3),4870
+2022,Male,Technicians and associate professionals (3),5160
+2008,Female,Technicians and associate professionals (3),1740
+2009,Female,Technicians and associate professionals (3),1800
+2010,Female,Technicians and associate professionals (3),1890
+2011,Female,Technicians and associate professionals (3),2040
+2012,Female,Technicians and associate professionals (3),2110
+2013,Female,Technicians and associate professionals (3),2220
+2014,Female,Technicians and associate professionals (3),2340
+2015,Female,Technicians and associate professionals (3),2490
+2016,Female,Technicians and associate professionals (3),2770
+2017,Female,Technicians and associate professionals (3),3000
+2018,Female,Technicians and associate professionals (3),3190
+2019,Female,Technicians and associate professionals (3),3250
+2020,Female,Technicians and associate professionals (3),3490
+2021,Female,Technicians and associate professionals (3),3790
+2022,Female,Technicians and associate professionals (3),4100
+2008,Male,Clerks (4),1960
+2009,Male,Clerks (4),2010
+2010,Male,Clerks (4),2120
+2011,Male,Clerks (4),2260
+2012,Male,Clerks (4),2380
+2013,Male,Clerks (4),2490
+2014,Male,Clerks (4),2440
+2015,Male,Clerks (4),2510
+2016,Male,Clerks (4),2540
+2017,Male,Clerks (4),2750
+2018,Male,Clerks (4),2900
+2019,Male,Clerks (4),2960
+2020,Male,Clerks (4),3230
+2021,Male,Clerks (4),3560
+2022,Male,Clerks (4),3650
+2008,Female,Clerks (4),1620
+2009,Female,Clerks (4),1690
+2010,Female,Clerks (4),1800
+2011,Female,Clerks (4),1890
+2012,Female,Clerks (4),2020
+2013,Female,Clerks (4),2130
+2014,Female,Clerks (4),2220
+2015,Female,Clerks (4),2360
+2016,Female,Clerks (4),2540
+2017,Female,Clerks (4),2740
+2018,Female,Clerks (4),2910
+2019,Female,Clerks (4),2970
+2020,Female,Clerks (4),3260
+2021,Female,Clerks (4),3500
+2022,Female,Clerks (4),3670
+2008,Male,Service workers and shop and market sales workers (5),1440
+2009,Male,Service workers and shop and market sales workers (5),1560
+2010,Male,Service workers and shop and market sales workers (5),1660
+2011,Male,Service workers and shop and market sales workers (5),1780
+2012,Male,Service workers and shop and market sales workers (5),1840
+2013,Male,Service workers and shop and market sales workers (5),1960
+2014,Male,Service workers and shop and market sales workers (5),2040
+2015,Male,Service workers and shop and market sales workers (5),2190
+2016,Male,Service workers and shop and market sales workers (5),2460
+2017,Male,Service workers and shop and market sales workers (5),2600
+2018,Male,Service workers and shop and market sales workers (5),2610
+2019,Male,Service workers and shop and market sales workers (5),2710
+2020,Male,Service workers and shop and market sales workers (5),2990
+2021,Male,Service workers and shop and market sales workers (5),3240
+2022,Male,Service workers and shop and market sales workers (5),3420
+2008,Female,Service workers and shop and market sales workers (5),1200
+2009,Female,Service workers and shop and market sales workers (5),1310
+2010,Female,Service workers and shop and market sales workers (5),1410
+2011,Female,Service workers and shop and market sales workers (5),1500
+2012,Female,Service workers and shop and market sales workers (5),1570
+2013,Female,Service workers and shop and market sales workers (5),1650
+2014,Female,Service workers and shop and market sales workers (5),1760
+2015,Female,Service workers and shop and market sales workers (5),1850
+2016,Female,Service workers and shop and market sales workers (5),2100
+2017,Female,Service workers and shop and market sales workers (5),2230
+2018,Female,Service workers and shop and market sales workers (5),2280
+2019,Female,Service workers and shop and market sales workers (5),2370
+2020,Female,Service workers and shop and market sales workers (5),2650
+2021,Female,Service workers and shop and market sales workers (5),2880
+2022,Female,Service workers and shop and market sales workers (5),3120
+2008,Male,Craft and related workers (7),1840
+2009,Male,Craft and related workers (7),1840
+2010,Male,Craft and related workers (7),2010
+2011,Male,Craft and related workers (7),2200
+2012,Male,Craft and related workers (7),2260
+2013,Male,Craft and related workers (7),2380
+2014,Male,Craft and related workers (7),2450
+2015,Male,Craft and related workers (7),2710
+2016,Male,Craft and related workers (7),2910
+2017,Male,Craft and related workers (7),3130
+2018,Male,Craft and related workers (7),3300
+2019,Male,Craft and related workers (7),3370
+2020,Male,Craft and related workers (7),3710
+2021,Male,Craft and related workers (7),3870
+2022,Male,Craft and related workers (7),4190
+2008,Female,Craft and related workers (7),1300
+2009,Female,Craft and related workers (7),1320
+2010,Female,Craft and related workers (7),1520
+2011,Female,Craft and related workers (7),1760
+2012,Female,Craft and related workers (7),1500
+2013,Female,Craft and related workers (7),1750
+2014,Female,Craft and related workers (7),1860
+2015,Female,Craft and related workers (7),2060
+2016,Female,Craft and related workers (7),2300
+2017,Female,Craft and related workers (7),2470
+2018,Female,Craft and related workers (7),2510
+2019,Female,Craft and related workers (7),2660
+2020,Female,Craft and related workers (7),2890
+2021,Female,Craft and related workers (7),3030
+2022,Female,Craft and related workers (7),3250
+2008,Male,Elementary occupations (9),1350
+2009,Male,Elementary occupations (9),1390
+2010,Male,Elementary occupations (9),1490
+2011,Male,Elementary occupations (9),1580
+2012,Male,Elementary occupations (9),1710
+2013,Male,Elementary occupations (9),1740
+2014,Male,Elementary occupations (9),1860
+2015,Male,Elementary occupations (9),2010
+2016,Male,Elementary occupations (9),2200
+2017,Male,Elementary occupations (9),2320
+2018,Male,Elementary occupations (9),2360
+2019,Male,Elementary occupations (9),2480
+2020,Male,Elementary occupations (9),2730
+2021,Male,Elementary occupations (9),2810
+2022,Male,Elementary occupations (9),3120
+2008,Female,Elementary occupations (9),1140
+2009,Female,Elementary occupations (9),1230
+2010,Female,Elementary occupations (9),1320
+2011,Female,Elementary occupations (9),1400
+2012,Female,Elementary occupations (9),1510
+2013,Female,Elementary occupations (9),1570
+2014,Female,Elementary occupations (9),1710
+2015,Female,Elementary occupations (9),1790
+2016,Female,Elementary occupations (9),2030
+2017,Female,Elementary occupations (9),2130
+2018,Female,Elementary occupations (9),2140
+2019,Female,Elementary occupations (9),2260
+2020,Female,Elementary occupations (9),2540
+2021,Female,Elementary occupations (9),2630
+2022,Female,Elementary occupations (9),2860
+2008,Male,"General, machine and specialized workers",1480
+2009,Male,"General, machine and specialized workers",1520
+2010,Male,"General, machine and specialized workers",1650
+2011,Male,"General, machine and specialized workers",1810
+2012,Male,"General, machine and specialized workers",1850
+2013,Male,"General, machine and specialized workers",1950
+2014,Male,"General, machine and specialized workers",2020
+2015,Male,"General, machine and specialized workers",2200
+2016,Male,"General, machine and specialized workers",2400
+2017,Male,"General, machine and specialized workers",2550
+2018,Male,"General, machine and specialized workers",2590
+2019,Male,"General, machine and specialized workers",2750
+2020,Male,"General, machine and specialized workers",3020
+2021,Male,"General, machine and specialized workers",3180
+2022,Male,"General, machine and specialized workers",3470
+2008,Female,"General, machine and specialized workers",1190
+2009,Female,"General, machine and specialized workers",1270
+2010,Female,"General, machine and specialized workers",1380
+2011,Female,"General, machine and specialized workers",1510
+2012,Female,"General, machine and specialized workers",1530
+2013,Female,"General, machine and specialized workers",1660
+2014,Female,"General, machine and specialized workers",1760
+2015,Female,"General, machine and specialized workers",1900
+2016,Female,"General, machine and specialized workers",2140
+2017,Female,"General, machine and specialized workers",2250
+2018,Female,"General, machine and specialized workers",2250
+2019,Female,"General, machine and specialized workers",2380
+2020,Female,"General, machine and specialized workers",2660
+2021,Female,"General, machine and specialized workers",2760
+2022,Female,"General, machine and specialized workers",2990
