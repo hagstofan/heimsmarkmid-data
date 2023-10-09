@@ -12,7 +12,8 @@ Year,Gender,Sector,Value
 2018,,,3260
 2019,,,3360
 2020,,,3695
-2021,,,3900
+2021,,,3910
+2022,,,4130
 2008,Male,,2110
 2009,Male,,2160
 2010,Male,,2270
@@ -26,7 +27,8 @@ Year,Gender,Sector,Value
 2018,Male,,3500
 2019,Male,,3610
 2020,Male,,3930
-2021,Male,,4110
+2021,Male,,4120
+2022,Male,,4330
 2008,Female,,1680
 2009,Female,,1770
 2010,Female,,1870
@@ -40,7 +42,8 @@ Year,Gender,Sector,Value
 2018,Female,,3020
 2019,Female,,3110
 2020,Female,,3460
-2021,Female,,3690
+2021,Female,,3700
+2022,Female,,3930
 2008,Male,Total - excluding public administration (O),2080
 2009,Male,Total - excluding public administration (O),2130
 2010,Male,Total - excluding public administration (O),2250
@@ -54,7 +57,8 @@ Year,Gender,Sector,Value
 2018,Male,Total - excluding public administration (O),3450
 2019,Male,Total - excluding public administration (O),3560
 2020,Male,Total - excluding public administration (O),3880
-2021,Male,Total - excluding public administration (O),4040
+2021,Male,Total - excluding public administration (O),4050
+2022,Male,Total - excluding public administration (O),4250
 2008,Female,Total - excluding public administration (O),1650
 2009,Female,Total - excluding public administration (O),1750
 2010,Female,Total - excluding public administration (O),1850
@@ -68,7 +72,8 @@ Year,Gender,Sector,Value
 2018,Female,Total - excluding public administration (O),2970
 2019,Female,Total - excluding public administration (O),3060
 2020,Female,Total - excluding public administration (O),3410
-2021,Female,Total - excluding public administration (O),3620
+2021,Female,Total - excluding public administration (O),3630
+2022,Female,Total - excluding public administration (O),3850
 2008,Male,Private sector,2090
 2009,Male,Private sector,2150
 2010,Male,Private sector,2310
@@ -82,7 +87,8 @@ Year,Gender,Sector,Value
 2018,Male,Private sector,3460
 2019,Male,Private sector,3600
 2020,Male,Private sector,3960
-2021,Male,Private sector,4070
+2021,Male,Private sector,4080
+2022,Male,Private sector,4260
 2008,Female,Private sector,1620
 2009,Female,Private sector,1720
 2010,Female,Private sector,1900
@@ -96,7 +102,8 @@ Year,Gender,Sector,Value
 2018,Female,Private sector,2910
 2019,Female,Private sector,3070
 2020,Female,Private sector,3490
-2021,Female,Private sector,3500
+2021,Female,Private sector,3520
+2022,Female,Private sector,3690
 2008,Male,"Public sector, total",2170
 2009,Male,"Public sector, total",2190
 2010,Male,"Public sector, total",2200
@@ -110,7 +117,8 @@ Year,Gender,Sector,Value
 2018,Male,"Public sector, total",3610
 2019,Male,"Public sector, total",3660
 2020,Male,"Public sector, total",3890
-2021,Male,"Public sector, total",4250
+2021,Male,"Public sector, total",4260
+2022,Male,"Public sector, total",4530
 2008,Female,"Public sector, total",1710
 2009,Female,"Public sector, total",1800
 2010,Female,"Public sector, total",1840
@@ -125,6 +133,7 @@ Year,Gender,Sector,Value
 2019,Female,"Public sector, total",3150
 2020,Female,"Public sector, total",3450
 2021,Female,"Public sector, total",3810
+2022,Female,"Public sector, total",4100
 2008,Male,"Public sector, central government",2400
 2009,Male,"Public sector, central government",2380
 2010,Male,"Public sector, central government",2410
@@ -139,6 +148,7 @@ Year,Gender,Sector,Value
 2019,Male,"Public sector, central government",4120
 2020,Male,"Public sector, central government",4350
 2021,Male,"Public sector, central government",4710
+2022,Male,"Public sector, central government",4970
 2008,Female,"Public sector, central government",1950
 2009,Female,"Public sector, central government",1990
 2010,Female,"Public sector, central government",2030
@@ -153,6 +163,7 @@ Year,Gender,Sector,Value
 2019,Female,"Public sector, central government",3540
 2020,Female,"Public sector, central government",3860
 2021,Female,"Public sector, central government",4240
+2022,Female,"Public sector, central government",4520
 2008,Male,"Public sector, local government",1840
 2009,Male,"Public sector, local government",1920
 2010,Male,"Public sector, local government",1930
@@ -166,7 +177,8 @@ Year,Gender,Sector,Value
 2018,Male,"Public sector, local government",3010
 2019,Male,"Public sector, local government",3100
 2020,Male,"Public sector, local government",3350
-2021,Male,"Public sector, local government",3720
+2021,Male,"Public sector, local government",3730
+2022,Male,"Public sector, local government",4030
 2008,Female,"Public sector, local government",1570
 2009,Female,"Public sector, local government",1720
 2010,Female,"Public sector, local government",1790
@@ -181,6 +193,7 @@ Year,Gender,Sector,Value
 2019,Female,"Public sector, local government",2870
 2020,Female,"Public sector, local government",3170
 2021,Female,"Public sector, local government",3500
+2022,Female,"Public sector, local government",3790
 2008,Male,Full-time,2250
 2009,Male,Full-time,2300
 2010,Male,Full-time,2430
@@ -195,6 +208,7 @@ Year,Gender,Sector,Value
 2019,Male,Full-time,3980
 2020,Male,Full-time,4250
 2021,Male,Full-time,4450
+2022,Male,Full-time,4670
 2008,Female,Full-time,1860
 2009,Female,Full-time,1930
 2010,Female,Full-time,2050
@@ -208,7 +222,8 @@ Year,Gender,Sector,Value
 2018,Female,Full-time,3390
 2019,Female,Full-time,3490
 2020,Female,Full-time,3820
-2021,Female,Full-time,4060
+2021,Female,Full-time,4050
+2022,Female,Full-time,4280
 2008,Male,Part-time,1580
 2009,Male,Part-time,1640
 2010,Male,Part-time,1680
@@ -222,7 +237,8 @@ Year,Gender,Sector,Value
 2018,Male,Part-time,2700
 2019,Male,Part-time,2820
 2020,Male,Part-time,3140
-2021,Male,Part-time,3270
+2021,Male,Part-time,3310
+2022,Male,Part-time,3520
 2008,Female,Part-time,1420
 2009,Female,Part-time,1530
 2010,Female,Part-time,1600
@@ -236,7 +252,8 @@ Year,Gender,Sector,Value
 2018,Female,Part-time,2650
 2019,Female,Part-time,2730
 2020,Female,Part-time,3080
-2021,Female,Part-time,3250
+2021,Female,Part-time,3270
+2022,Female,Part-time,3500
 2008,Male,Manufacturing (C),1950
 2009,Male,Manufacturing (C),1990
 2010,Male,Manufacturing (C),2170
@@ -250,7 +267,8 @@ Year,Gender,Sector,Value
 2018,Male,Manufacturing (C),3380
 2019,Male,Manufacturing (C),3570
 2020,Male,Manufacturing (C),3880
-2021,Male,Manufacturing (C),4070
+2021,Male,Manufacturing (C),4080
+2022,Male,Manufacturing (C),4300
 2008,Female,Manufacturing (C),1510
 2009,Female,Manufacturing (C),1560
 2010,Female,Manufacturing (C),1660
@@ -265,6 +283,7 @@ Year,Gender,Sector,Value
 2019,Female,Manufacturing (C),3100
 2020,Female,Manufacturing (C),3330
 2021,Female,Manufacturing (C),3530
+2022,Female,Manufacturing (C),3750
 2008,Male,"Electricity, gas, steam, and air conditioning supply (D)",2500
 2009,Male,"Electricity, gas, steam, and air conditioning supply (D)",2660
 2010,Male,"Electricity, gas, steam, and air conditioning supply (D)",2670
@@ -278,21 +297,23 @@ Year,Gender,Sector,Value
 2018,Male,"Electricity, gas, steam, and air conditioning supply (D)",4900
 2019,Male,"Electricity, gas, steam, and air conditioning supply (D)",4980
 2020,Male,"Electricity, gas, steam, and air conditioning supply (D)",5460
-2021,Male,"Electricity, gas, steam, and air conditioning supply (D)",2040
-2008,Female,"Electricity, gas, steam, and air conditioning supply (D)",2150
-2009,Female,"Electricity, gas, steam, and air conditioning supply (D)",2300
-2010,Female,"Electricity, gas, steam, and air conditioning supply (D)",2580
-2011,Female,"Electricity, gas, steam, and air conditioning supply (D)",2690
-2012,Female,"Electricity, gas, steam, and air conditioning supply (D)",2950
-2013,Female,"Electricity, gas, steam, and air conditioning supply (D)",3210
-2014,Female,"Electricity, gas, steam, and air conditioning supply (D)",3370
-2015,Female,"Electricity, gas, steam, and air conditioning supply (D)",3910
-2016,Female,"Electricity, gas, steam, and air conditioning supply (D)",4290
-2017,Female,"Electricity, gas, steam, and air conditioning supply (D)",4470
-2018,Female,"Electricity, gas, steam, and air conditioning supply (D)",4500
-2019,Female,"Electricity, gas, steam, and air conditioning supply (D)",5100
-2020,Female,"Electricity, gas, steam, and air conditioning supply (D)",5490
-2021,Female,"Electricity, gas, steam, and air conditioning supply (D)",
+2021,Male,"Electricity, gas, steam, and air conditioning supply (D)",5700
+2022,Male,"Electricity, gas, steam, and air conditioning supply (D)",6040
+2008,Female,"Electricity, gas, steam, and air conditioning supply (D)",2040
+2009,Female,"Electricity, gas, steam, and air conditioning supply (D)",2150
+2010,Female,"Electricity, gas, steam, and air conditioning supply (D)",2300
+2011,Female,"Electricity, gas, steam, and air conditioning supply (D)",2580
+2012,Female,"Electricity, gas, steam, and air conditioning supply (D)",2690
+2013,Female,"Electricity, gas, steam, and air conditioning supply (D)",2950
+2014,Female,"Electricity, gas, steam, and air conditioning supply (D)",3210
+2015,Female,"Electricity, gas, steam, and air conditioning supply (D)",3370
+2016,Female,"Electricity, gas, steam, and air conditioning supply (D)",3910
+2017,Female,"Electricity, gas, steam, and air conditioning supply (D)",4290
+2018,Female,"Electricity, gas, steam, and air conditioning supply (D)",4470
+2019,Female,"Electricity, gas, steam, and air conditioning supply (D)",4500
+2020,Female,"Electricity, gas, steam, and air conditioning supply (D)",5100
+2021,Female,"Electricity, gas, steam, and air conditioning supply (D)",5500
+2022,Female,"Electricity, gas, steam, and air conditioning supply (D)",5790
 2008,Male,Wholesale and retail trade; repair of motor vehicles (G),1780
 2009,Male,Wholesale and retail trade; repair of motor vehicles (G),1860
 2010,Male,Wholesale and retail trade; repair of motor vehicles (G),2050
@@ -306,7 +327,8 @@ Year,Gender,Sector,Value
 2018,Male,Wholesale and retail trade; repair of motor vehicles (G),3290
 2019,Male,Wholesale and retail trade; repair of motor vehicles (G),3380
 2020,Male,Wholesale and retail trade; repair of motor vehicles (G),3440
-2021,Male,Wholesale and retail trade; repair of motor vehicles (G),3610
+2021,Male,Wholesale and retail trade; repair of motor vehicles (G),3690
+2022,Male,Wholesale and retail trade; repair of motor vehicles (G),3770
 2008,Female,Wholesale and retail trade; repair of motor vehicles (G),1380
 2009,Female,Wholesale and retail trade; repair of motor vehicles (G),1420
 2010,Female,Wholesale and retail trade; repair of motor vehicles (G),1630
@@ -320,7 +342,8 @@ Year,Gender,Sector,Value
 2018,Female,Wholesale and retail trade; repair of motor vehicles (G),2820
 2019,Female,Wholesale and retail trade; repair of motor vehicles (G),2910
 2020,Female,Wholesale and retail trade; repair of motor vehicles (G),3120
-2021,Female,Wholesale and retail trade; repair of motor vehicles (G),3240
+2021,Female,Wholesale and retail trade; repair of motor vehicles (G),3350
+2022,Female,Wholesale and retail trade; repair of motor vehicles (G),3510
 2008,Male,Transportation and storage (H),2070
 2009,Male,Transportation and storage (H),2100
 2010,Male,Transportation and storage (H),2210
@@ -335,6 +358,7 @@ Year,Gender,Sector,Value
 2019,Male,Transportation and storage (H),3840
 2020,Male,Transportation and storage (H),4160
 2021,Male,Transportation and storage (H),4350
+2022,Male,Transportation and storage (H),4590
 2008,Female,Transportation and storage (H),1590
 2009,Female,Transportation and storage (H),1680
 2010,Female,Transportation and storage (H),1850
@@ -349,6 +373,17 @@ Year,Gender,Sector,Value
 2019,Female,Transportation and storage (H),3220
 2020,Female,Transportation and storage (H),3700
 2021,Female,Transportation and storage (H),3760
+2022,Female,Transportation and storage (H),3900
+2018,Male,Accomodation and food services (I),2330
+2019,Male,Accomodation and food services (I),2510
+2020,Male,Accomodation and food services (I),2890
+2021,Male,Accomodation and food services (I),2910
+2022,Male,Accomodation and food services (I),3040
+2018,Female,Accomodation and food services (I),2210
+2019,Female,Accomodation and food services (I),2340
+2020,Female,Accomodation and food services (I),2720
+2021,Female,Accomodation and food services (I),2710
+2022,Female,Accomodation and food services (I),2910
 2008,Male,Information and communication (J),2660
 2009,Male,Information and communication (J),2560
 2010,Male,Information and communication (J),2810
@@ -362,7 +397,8 @@ Year,Gender,Sector,Value
 2018,Male,Information and communication (J),4210
 2019,Male,Information and communication (J),4330
 2020,Male,Information and communication (J),4670
-2021,Male,Information and communication (J),4960
+2021,Male,Information and communication (J),4910
+2022,Male,Information and communication (J),5160
 2008,Female,Information and communication (J),2160
 2009,Female,Information and communication (J),2170
 2010,Female,Information and communication (J),2310
@@ -376,15 +412,8 @@ Year,Gender,Sector,Value
 2018,Female,Information and communication (J),3770
 2019,Female,Information and communication (J),3880
 2020,Female,Information and communication (J),4070
-2021,Female,Information and communication (J),4320
-2018,Male,Accomodation and food services (I),2330
-2019,Male,Accomodation and food services (I),2510
-2020,Male,Accomodation and food services (I),2890
-2021,Male,Accomodation and food services (I),2950
-2018,Female,Accomodation and food services (I),2210
-2019,Female,Accomodation and food services (I),2340
-2020,Female,Accomodation and food services (I),2720
-2021,Female,Accomodation and food services (I),2750
+2021,Female,Information and communication (J),4310
+2022,Female,Information and communication (J),4680
 2008,Male,Financial and insurance activities (K),3840
 2009,Male,Financial and insurance activities (K),3750
 2010,Male,Financial and insurance activities (K),3850
@@ -398,7 +427,8 @@ Year,Gender,Sector,Value
 2018,Male,Financial and insurance activities (K),7280
 2019,Male,Financial and insurance activities (K),7300
 2020,Male,Financial and insurance activities (K),7610
-2021,Male,Financial and insurance activities (K),7700
+2021,Male,Financial and insurance activities (K),7640
+2022,Male,Financial and insurance activities (K),7710
 2008,Female,Financial and insurance activities (K),2200
 2009,Female,Financial and insurance activities (K),2370
 2010,Female,Financial and insurance activities (K),2610
@@ -412,7 +442,8 @@ Year,Gender,Sector,Value
 2018,Female,Financial and insurance activities (K),4710
 2019,Female,Financial and insurance activities (K),4890
 2020,Female,Financial and insurance activities (K),5180
-2021,Female,Financial and insurance activities (K),5410
+2021,Female,Financial and insurance activities (K),5390
+2022,Female,Financial and insurance activities (K),5690
 2008,Male,Public administration and defence; compulsory social sec. (O),2360
 2009,Male,Public administration and defence; compulsory social sec. (O),2390
 2010,Male,Public administration and defence; compulsory social sec. (O),2410
@@ -426,7 +457,8 @@ Year,Gender,Sector,Value
 2018,Male,Public administration and defence; compulsory social sec. (O),4130
 2019,Male,Public administration and defence; compulsory social sec. (O),4230
 2020,Male,Public administration and defence; compulsory social sec. (O),4510
-2021,Male,Public administration and defence; compulsory social sec. (O),4960
+2021,Male,Public administration and defence; compulsory social sec. (O),4970
+2022,Male,Public administration and defence; compulsory social sec. (O),5230
 2008,Female,Public administration and defence; compulsory social sec. (O),1970
 2009,Female,Public administration and defence; compulsory social sec. (O),2020
 2010,Female,Public administration and defence; compulsory social sec. (O),2060
@@ -440,7 +472,8 @@ Year,Gender,Sector,Value
 2018,Female,Public administration and defence; compulsory social sec. (O),3770
 2019,Female,Public administration and defence; compulsory social sec. (O),3830
 2020,Female,Public administration and defence; compulsory social sec. (O),4150
-2021,Female,Public administration and defence; compulsory social sec. (O),4550
+2021,Female,Public administration and defence; compulsory social sec. (O),4560
+2022,Female,Public administration and defence; compulsory social sec. (O),4910
 2008,Male,Education (P),2020
 2009,Male,Education (P),2030
 2010,Male,Education (P),2030
@@ -455,6 +488,7 @@ Year,Gender,Sector,Value
 2019,Male,Education (P),3250
 2020,Male,Education (P),3450
 2021,Male,Education (P),3660
+2022,Male,Education (P),3880
 2008,Female,Education (P),1580
 2009,Female,Education (P),1680
 2010,Female,Education (P),1710
@@ -469,6 +503,7 @@ Year,Gender,Sector,Value
 2019,Female,Education (P),2900
 2020,Female,Education (P),3160
 2021,Female,Education (P),3410
+2022,Female,Education (P),3660
 2008,Male,Human health and social work activities (Q),2130
 2009,Male,Human health and social work activities (Q),2150
 2010,Male,Human health and social work activities (Q),2130
@@ -482,7 +517,8 @@ Year,Gender,Sector,Value
 2018,Male,Human health and social work activities (Q),3530
 2019,Male,Human health and social work activities (Q),3520
 2020,Male,Human health and social work activities (Q),3750
-2021,Male,Human health and social work activities (Q),4170
+2021,Male,Human health and social work activities (Q),4180
+2022,Male,Human health and social work activities (Q),4480
 2008,Female,Human health and social work activities (Q),1740
 2009,Female,Human health and social work activities (Q),1800
 2010,Female,Human health and social work activities (Q),1850
@@ -496,7 +532,8 @@ Year,Gender,Sector,Value
 2018,Female,Human health and social work activities (Q),3170
 2019,Female,Human health and social work activities (Q),3180
 2020,Female,Human health and social work activities (Q),3530
-2021,Female,Human health and social work activities (Q),3970
+2021,Female,Human health and social work activities (Q),3980
+2022,Female,Human health and social work activities (Q),4260
 2008,Male,Managers (1),3970
 2009,Male,Managers (1),3910
 2010,Male,Managers (1),4000
@@ -510,7 +547,8 @@ Year,Gender,Sector,Value
 2018,Male,Managers (1),6660
 2019,Male,Managers (1),6810
 2020,Male,Managers (1),7130
-2021,Male,Managers (1),7490
+2021,Male,Managers (1),7540
+2022,Male,Managers (1),7960
 2008,Female,Managers (1),2770
 2009,Female,Managers (1),2920
 2010,Female,Managers (1),3040
@@ -524,7 +562,8 @@ Year,Gender,Sector,Value
 2018,Female,Managers (1),5270
 2019,Female,Managers (1),5440
 2020,Female,Managers (1),5880
-2021,Female,Managers (1),6280
+2021,Female,Managers (1),6360
+2022,Female,Managers (1),6770
 2008,Male,Professionals (2),2800
 2009,Male,Professionals (2),2720
 2010,Male,Professionals (2),2800
@@ -538,7 +577,8 @@ Year,Gender,Sector,Value
 2018,Male,Professionals (2),4590
 2019,Male,Professionals (2),4650
 2020,Male,Professionals (2),4820
-2021,Male,Professionals (2),5150
+2021,Male,Professionals (2),5140
+2022,Male,Professionals (2),5440
 2008,Female,Professionals (2),2150
 2009,Female,Professionals (2),2170
 2010,Female,Professionals (2),2220
@@ -553,6 +593,7 @@ Year,Gender,Sector,Value
 2019,Female,Professionals (2),3790
 2020,Female,Professionals (2),4030
 2021,Female,Professionals (2),4380
+2022,Female,Professionals (2),4660
 2008,Male,Technicians and associate professionals (3),2430
 2009,Male,Technicians and associate professionals (3),2450
 2010,Male,Technicians and associate professionals (3),2550
@@ -566,7 +607,8 @@ Year,Gender,Sector,Value
 2018,Male,Technicians and associate professionals (3),4190
 2019,Male,Technicians and associate professionals (3),4380
 2020,Male,Technicians and associate professionals (3),4500
-2021,Male,Technicians and associate professionals (3),4820
+2021,Male,Technicians and associate professionals (3),4870
+2022,Male,Technicians and associate professionals (3),5160
 2008,Female,Technicians and associate professionals (3),1740
 2009,Female,Technicians and associate professionals (3),1800
 2010,Female,Technicians and associate professionals (3),1890
@@ -580,7 +622,8 @@ Year,Gender,Sector,Value
 2018,Female,Technicians and associate professionals (3),3190
 2019,Female,Technicians and associate professionals (3),3250
 2020,Female,Technicians and associate professionals (3),3490
-2021,Female,Technicians and associate professionals (3),3780
+2021,Female,Technicians and associate professionals (3),3790
+2022,Female,Technicians and associate professionals (3),4100
 2008,Male,Clerks (4),1960
 2009,Male,Clerks (4),2010
 2010,Male,Clerks (4),2120
@@ -594,7 +637,8 @@ Year,Gender,Sector,Value
 2018,Male,Clerks (4),2900
 2019,Male,Clerks (4),2960
 2020,Male,Clerks (4),3230
-2021,Male,Clerks (4),3550
+2021,Male,Clerks (4),3560
+2022,Male,Clerks (4),3650
 2008,Female,Clerks (4),1620
 2009,Female,Clerks (4),1690
 2010,Female,Clerks (4),1800
@@ -608,7 +652,8 @@ Year,Gender,Sector,Value
 2018,Female,Clerks (4),2910
 2019,Female,Clerks (4),2970
 2020,Female,Clerks (4),3260
-2021,Female,Clerks (4),3530
+2021,Female,Clerks (4),3500
+2022,Female,Clerks (4),3670
 2008,Male,Service workers and shop and market sales workers (5),1440
 2009,Male,Service workers and shop and market sales workers (5),1560
 2010,Male,Service workers and shop and market sales workers (5),1660
@@ -622,7 +667,8 @@ Year,Gender,Sector,Value
 2018,Male,Service workers and shop and market sales workers (5),2610
 2019,Male,Service workers and shop and market sales workers (5),2710
 2020,Male,Service workers and shop and market sales workers (5),2990
-2021,Male,Service workers and shop and market sales workers (5),3220
+2021,Male,Service workers and shop and market sales workers (5),3240
+2022,Male,Service workers and shop and market sales workers (5),3420
 2008,Female,Service workers and shop and market sales workers (5),1200
 2009,Female,Service workers and shop and market sales workers (5),1310
 2010,Female,Service workers and shop and market sales workers (5),1410
@@ -636,7 +682,8 @@ Year,Gender,Sector,Value
 2018,Female,Service workers and shop and market sales workers (5),2280
 2019,Female,Service workers and shop and market sales workers (5),2370
 2020,Female,Service workers and shop and market sales workers (5),2650
-2021,Female,Service workers and shop and market sales workers (5),2870
+2021,Female,Service workers and shop and market sales workers (5),2880
+2022,Female,Service workers and shop and market sales workers (5),3120
 2008,Male,Craft and related workers (7),1840
 2009,Male,Craft and related workers (7),1840
 2010,Male,Craft and related workers (7),2010
@@ -651,6 +698,7 @@ Year,Gender,Sector,Value
 2019,Male,Craft and related workers (7),3370
 2020,Male,Craft and related workers (7),3710
 2021,Male,Craft and related workers (7),3870
+2022,Male,Craft and related workers (7),4190
 2008,Female,Craft and related workers (7),1300
 2009,Female,Craft and related workers (7),1320
 2010,Female,Craft and related workers (7),1520
@@ -664,7 +712,8 @@ Year,Gender,Sector,Value
 2018,Female,Craft and related workers (7),2510
 2019,Female,Craft and related workers (7),2660
 2020,Female,Craft and related workers (7),2890
-2021,Female,Craft and related workers (7),3070
+2021,Female,Craft and related workers (7),3030
+2022,Female,Craft and related workers (7),3250
 2008,Male,Elementary occupations (9),1350
 2009,Male,Elementary occupations (9),1390
 2010,Male,Elementary occupations (9),1490
@@ -678,7 +727,8 @@ Year,Gender,Sector,Value
 2018,Male,Elementary occupations (9),2360
 2019,Male,Elementary occupations (9),2480
 2020,Male,Elementary occupations (9),2730
-2021,Male,Elementary occupations (9),2820
+2021,Male,Elementary occupations (9),2810
+2022,Male,Elementary occupations (9),3120
 2008,Female,Elementary occupations (9),1140
 2009,Female,Elementary occupations (9),1230
 2010,Female,Elementary occupations (9),1320
@@ -692,7 +742,8 @@ Year,Gender,Sector,Value
 2018,Female,Elementary occupations (9),2140
 2019,Female,Elementary occupations (9),2260
 2020,Female,Elementary occupations (9),2540
-2021,Female,Elementary occupations (9),2650
+2021,Female,Elementary occupations (9),2630
+2022,Female,Elementary occupations (9),2860
 2008,Male,"General, machine and specialized workers",1480
 2009,Male,"General, machine and specialized workers",1520
 2010,Male,"General, machine and specialized workers",1650
@@ -706,7 +757,8 @@ Year,Gender,Sector,Value
 2018,Male,"General, machine and specialized workers",2590
 2019,Male,"General, machine and specialized workers",2750
 2020,Male,"General, machine and specialized workers",3020
-2021,Male,"General, machine and specialized workers",3190
+2021,Male,"General, machine and specialized workers",3180
+2022,Male,"General, machine and specialized workers",3470
 2008,Female,"General, machine and specialized workers",1190
 2009,Female,"General, machine and specialized workers",1270
 2010,Female,"General, machine and specialized workers",1380
@@ -720,4 +772,5 @@ Year,Gender,Sector,Value
 2018,Female,"General, machine and specialized workers",2250
 2019,Female,"General, machine and specialized workers",2380
 2020,Female,"General, machine and specialized workers",2660
-2021,Female,"General, machine and specialized workers",2780
+2021,Female,"General, machine and specialized workers",2760
+2022,Female,"General, machine and specialized workers",2990
