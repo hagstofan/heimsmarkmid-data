@@ -1,469 +1,163 @@
-Year,Age,Gender,Nationality,Value
-2005,5 years and younger,,,0.253712871
-2006,5 years and younger,,,0.200235571
-2007,5 years and younger,,,0.230985915
-2008,5 years and younger,,,0.206588498
-2009,5 years and younger,,,0.202380952
-2010,5 years and younger,,,0.27479092
-2011,5 years and younger,,,0.27479092
-2012,5 years and younger,,,0.295683028
-2013,5 years and younger,,,0.268571429
-2014,5 years and younger,,,0.275590551
-2015,5 years and younger,,,0.212302667
-2016,5 years and younger,,,0.19412382
-2017,5 years and younger,,,0.190721649
-2005,5 years and younger,Male,,0.10519802
-2006,5 years and younger,Male,,0.088339223
-2007,5 years and younger,Male,,0.123943662
-2008,5 years and younger,Male,,0.106085985
-2009,5 years and younger,Male,,0.05952381
-2010,5 years and younger,Male,,0.125448029
-2011,5 years and younger,Male,,0.131421744
-2012,5 years and younger,Male,,0.147841514
-2013,5 years and younger,Male,,0.131428571
-2014,5 years and younger,Male,,0.146231721
-2015,5 years and younger,Male,,0.08709853
-2016,5 years and younger,Male,,0.089192025
-2017,5 years and younger,Male,,0.082474227
-2005,5 years and younger,Female,,0.148514851
-2006,5 years and younger,Female,,0.111896349
-2007,5 years and younger,Female,,0.107042254
-2008,5 years and younger,Female,,0.100502513
-2009,5 years and younger,Female,,0.142857143
-2010,5 years and younger,Female,,0.149342891
-2011,5 years and younger,Female,,0.143369176
-2012,5 years and younger,Female,,0.147841514
-2013,5 years and younger,Female,,0.137142857
-2014,5 years and younger,Female,,0.12935883
-2015,5 years and younger,Female,,0.125204137
-2016,5 years and younger,Female,,0.104931794
-2017,5 years and younger,Female,,0.108247423
-2005,6 - 12 years,,,6.522277228
-2006,6 - 12 years,,,6.236749117
-2007,6 - 12 years,,,5.729577465
-2008,6 - 12 years,,,5.002791736
-2009,6 - 12 years,,,4.297619048
-2010,6 - 12 years,,,3.76344086
-2011,6 - 12 years,,,3.590203106
-2012,6 - 12 years,,,3.625073921
-2013,6 - 12 years,,,3.405714286
-2014,6 - 12 years,,,3.318335208
-2015,6 - 12 years,,,3.102885139
-2016,6 - 12 years,,,3.32633788
-2017,6 - 12 years,,,3.365979381
-2005,6 - 12 years,Male,,3.372524752
-2006,6 - 12 years,Male,,3.345111896
-2007,6 - 12 years,Male,,3.030985915
-2008,6 - 12 years,Male,,2.551647125
-2009,6 - 12 years,Male,,2.214285714
-2010,6 - 12 years,Male,,1.911589008
-2011,6 - 12 years,Male,,1.732377539
-2012,6 - 12 years,Male,,1.862803075
-2013,6 - 12 years,Male,,1.805714286
-2014,6 - 12 years,Male,,1.743532058
-2015,6 - 12 years,Male,,1.633097441
-2016,6 - 12 years,Male,,1.757607555
-2017,6 - 12 years,Male,,1.881443299
-2005,6 - 12 years,Female,,3.149752475
-2006,6 - 12 years,Female,,2.89163722
-2007,6 - 12 years,Female,,2.698591549
-2008,6 - 12 years,Female,,2.451144612
-2009,6 - 12 years,Female,,2.083333333
-2010,6 - 12 years,Female,,1.851851852
-2011,6 - 12 years,Female,,1.857825568
-2012,6 - 12 years,Female,,1.762270846
-2013,6 - 12 years,Female,,1.6
-2014,6 - 12 years,Female,,1.57480315
-2015,6 - 12 years,Female,,1.469787697
-2016,6 - 12 years,Female,,1.568730325
-2017,6 - 12 years,Female,,1.484536082
-2005,13 - 18 years,,,136.2376238
-2006,13 - 18 years,,,132.5971731
-2007,13 - 18 years,,,128.1690141
-2008,13 - 18 years,,,126.0524846
-2009,13 - 18 years,,,125.5535714
-2010,13 - 18 years,,,123.1541219
-2011,13 - 18 years,,,114.4922342
-2012,13 - 18 years,,,111.0348906
-2013,13 - 18 years,,,106.8457143
-2014,13 - 18 years,,,106.1023622
-2015,13 - 18 years,,,101.7855199
-2016,13 - 18 years,,,99.09233998
-2017,13 - 18 years,,,98.5257732
-2005,13 - 18 years,Male,,70.16707921
-2006,13 - 18 years,Male,,68.00942285
-2007,13 - 18 years,Male,,65.37464789
-2008,13 - 18 years,Male,,64.40536013
-2009,13 - 18 years,Male,,63.80357143
-2010,13 - 18 years,Male,,62.60454002
-2011,13 - 18 years,Male,,58.33333333
-2012,13 - 18 years,Male,,56.8066233
-2013,13 - 18 years,Male,,54.07428571
-2014,13 - 18 years,Male,,53.58830146
-2015,13 - 18 years,Male,,51.31736527
-2016,13 - 18 years,Male,,50.0996852
-2017,13 - 18 years,Male,,49.57216495
-2005,13 - 18 years,Female,,66.07054455
-2006,13 - 18 years,Female,,64.58775029
-2007,13 - 18 years,Female,,62.7943662
-2008,13 - 18 years,Female,,61.64712451
-2009,13 - 18 years,Female,,61.75
-2010,13 - 18 years,Female,,60.54958184
-2011,13 - 18 years,Female,,56.15890084
-2012,13 - 18 years,Female,,54.2282673
-2013,13 - 18 years,Female,,52.77142857
-2014,13 - 18 years,Female,,52.51406074
-2015,13 - 18 years,Female,,50.4681546
-2016,13 - 18 years,Female,,48.99265477
-2017,13 - 18 years,Female,,48.95360825
-2005,Total,,,143.0136139
-2006,Total,,,139.0341578
-2007,Total,,,134.1295775
-2008,Total,,,131.2618649
-2009,Total,,,130.0535714
-2010,Total,,,127.1923536
-2011,Total,,,118.3572282
-2012,Total,,,114.9556475
-2013,Total,,,110.52
-2014,Total,,,109.696288
-2015,Total,,,105.1007077
-2016,Total,,,102.6128017
-2017,Total,,,102.0824742
-2005,Total,Male,,73.64480198
-2006,Total,Male,,71.44287397
-2007,Total,Male,,68.52957746
-2008,Total,Male,,67.06309324
-2009,Total,Male,,66.07738095
-2010,Total,Male,,64.64157706
-2011,Total,Male,,60.19713262
-2012,Total,Male,,58.81726789
-2013,Total,Male,,56.01142857
-2014,Total,Male,,55.47806524
-2015,Total,Male,,53.03756124
-2016,Total,Male,,51.94648478
-2017,Total,Male,,51.53608247
-2005,Total,Female,,69.36881188
-2006,Total,Female,,67.59128386
-2007,Total,Female,,65.6
-2008,Total,Female,,64.19877164
-2009,Total,Female,,63.97619048
-2010,Total,Female,,62.55077658
-2011,Total,Female,,58.16009558
-2012,Total,Female,,56.13837966
-2013,Total,Female,,54.50857143
-2014,Total,Female,,54.21822272
-2015,Total,Female,,52.06314643
-2016,Total,Female,,50.66631689
-2017,Total,Female,,50.54639175
-2005,5 years and younger,,Foreign,0.0
-2006,5 years and younger,,Foreign,0.0
-2007,5 years and younger,,Foreign,0.0
-2008,5 years and younger,,Foreign,0.0
-2009,5 years and younger,,Foreign,0.0
-2010,5 years and younger,,Foreign,0.0
-2011,5 years and younger,,Foreign,0.0
-2012,5 years and younger,,Foreign,0.0
-2013,5 years and younger,,Foreign,0.0
-2014,5 years and younger,,Foreign,0.0
-2015,5 years and younger,,Foreign,0.0
-2016,5 years and younger,,Foreign,0.0
-2017,5 years and younger,,Foreign,0.0
-2005,5 years and younger,Male,Foreign,0.0
-2006,5 years and younger,Male,Foreign,0.0
-2007,5 years and younger,Male,Foreign,0.0
-2008,5 years and younger,Male,Foreign,0.0
-2009,5 years and younger,Male,Foreign,0.0
-2010,5 years and younger,Male,Foreign,0.0
-2011,5 years and younger,Male,Foreign,0.0
-2012,5 years and younger,Male,Foreign,0.0
-2013,5 years and younger,Male,Foreign,0.0
-2014,5 years and younger,Male,Foreign,0.0
-2015,5 years and younger,Male,Foreign,0.0
-2016,5 years and younger,Male,Foreign,0.0
-2017,5 years and younger,Male,Foreign,0.0
-2005,5 years and younger,Female,Foreign,0.0
-2006,5 years and younger,Female,Foreign,0.0
-2007,5 years and younger,Female,Foreign,0.0
-2008,5 years and younger,Female,Foreign,0.0
-2009,5 years and younger,Female,Foreign,0.0
-2010,5 years and younger,Female,Foreign,0.0
-2011,5 years and younger,Female,Foreign,0.0
-2012,5 years and younger,Female,Foreign,0.0
-2013,5 years and younger,Female,Foreign,0.0
-2014,5 years and younger,Female,Foreign,0.0
-2015,5 years and younger,Female,Foreign,0.0
-2016,5 years and younger,Female,Foreign,0.0
-2017,5 years and younger,Female,Foreign,0.0
-2005,6 - 12 years,,Foreign,0.074257426
-2006,6 - 12 years,,Foreign,0.129564193
-2007,6 - 12 years,,Foreign,0.101408451
-2008,6 - 12 years,,Foreign,0.061418202
-2009,6 - 12 years,,Foreign,0.053571429
-2010,6 - 12 years,,Foreign,0.083632019
-2011,6 - 12 years,,Foreign,0.065710872
-2012,6 - 12 years,,Foreign,0.076877587
-2013,6 - 12 years,,Foreign,0.091428571
-2014,6 - 12 years,,Foreign,0.044994376
-2015,6 - 12 years,,Foreign,0.070767556
-2016,6 - 12 years,,Foreign,0.057712487
-2017,6 - 12 years,,Foreign,0.103092784
-2005,6 - 12 years,Male,Foreign,0.037128713
-2006,6 - 12 years,Male,Foreign,0.064782097
-2007,6 - 12 years,Male,Foreign,0.056338028
-2008,6 - 12 years,Male,Foreign,0.027917365
-2009,6 - 12 years,Male,Foreign,0.0
-2010,6 - 12 years,Male,Foreign,0.035842294
-2011,6 - 12 years,Male,Foreign,0.035842294
-2012,6 - 12 years,Male,Foreign,0.047309284
-2013,6 - 12 years,Male,Foreign,0.045714286
-2014,6 - 12 years,Male,Foreign,0.0
-2015,6 - 12 years,Male,Foreign,0.038105607
-2016,6 - 12 years,Male,Foreign,0.0
-2017,6 - 12 years,Male,Foreign,0.056701031
-2005,6 - 12 years,Female,Foreign,0.037128713
-2006,6 - 12 years,Female,Foreign,0.064782097
-2007,6 - 12 years,Female,Foreign,0.045070423
-2008,6 - 12 years,Female,Foreign,0.033500838
-2009,6 - 12 years,Female,Foreign,0.0
-2010,6 - 12 years,Female,Foreign,0.047789725
-2011,6 - 12 years,Female,Foreign,0.029868578
-2012,6 - 12 years,Female,Foreign,0.029568303
-2013,6 - 12 years,Female,Foreign,0.045714286
-2014,6 - 12 years,Female,Foreign,0.0
-2015,6 - 12 years,Female,Foreign,0.032661949
-2016,6 - 12 years,Female,Foreign,0.0
-2017,6 - 12 years,Female,Foreign,0.046391753
-2005,13 - 18 years,,Foreign,2.431930693
-2006,13 - 18 years,,Foreign,2.832744405
-2007,13 - 18 years,,Foreign,3.408450704
-2008,13 - 18 years,,Foreign,3.82467895
-2009,13 - 18 years,,Foreign,4.113095238
-2010,13 - 18 years,,Foreign,3.996415771
-2011,13 - 18 years,,Foreign,4.121863799
-2012,13 - 18 years,,Foreign,3.914843288
-2013,13 - 18 years,,Foreign,3.828571429
-2014,13 - 18 years,,Foreign,4.015748031
-2015,13 - 18 years,,Foreign,4.03375068
-2016,13 - 18 years,,Foreign,4.123819517
-2017,13 - 18 years,,Foreign,4.082474227
-2005,13 - 18 years,Male,Foreign,1.169554455
-2006,13 - 18 years,Male,Foreign,1.395759717
-2007,13 - 18 years,Male,Foreign,1.723943662
-2008,13 - 18 years,Male,Foreign,1.976549414
-2009,13 - 18 years,Male,Foreign,2.148809524
-2010,13 - 18 years,Male,Foreign,2.025089606
-2011,13 - 18 years,Male,Foreign,2.025089606
-2012,13 - 18 years,Male,Foreign,1.998817268
-2013,13 - 18 years,Male,Foreign,1.971428571
-2014,13 - 18 years,Male,Foreign,2.035995501
-2015,13 - 18 years,Male,Foreign,2.008709853
-2016,13 - 18 years,Male,Foreign,2.103882476
-2017,13 - 18 years,Male,Foreign,2.015463918
-2005,13 - 18 years,Female,Foreign,1.262376238
-2006,13 - 18 years,Female,Foreign,1.436984688
-2007,13 - 18 years,Female,Foreign,1.684507042
-2008,13 - 18 years,Female,Foreign,1.848129537
-2009,13 - 18 years,Female,Foreign,1.964285714
-2010,13 - 18 years,Female,Foreign,1.971326165
-2011,13 - 18 years,Female,Foreign,2.096774194
-2012,13 - 18 years,Female,Foreign,1.91602602
-2013,13 - 18 years,Female,Foreign,1.857142857
-2014,13 - 18 years,Female,Foreign,1.979752531
-2015,13 - 18 years,Female,Foreign,2.025040827
-2016,13 - 18 years,Female,Foreign,2.019937041
-2017,13 - 18 years,Female,Foreign,2.067010309
-2005,Total,,Foreign,2.506188119
-2006,Total,,Foreign,2.962308598
-2007,Total,,Foreign,3.509859155
-2008,Total,,Foreign,3.886097152
-2009,Total,,Foreign,4.166666667
-2010,Total,,Foreign,4.08004779
-2011,Total,,Foreign,4.187574671
-2012,Total,,Foreign,3.991720875
-2013,Total,,Foreign,3.925714286
-2014,Total,,Foreign,4.071991001
-2015,Total,,Foreign,4.109961894
-2016,Total,,Foreign,4.186778594
-2017,Total,,Foreign,4.18556701
-2005,Total,Male,Foreign,1.206683168
-2006,Total,Male,Foreign,1.460541814
-2007,Total,Male,Foreign,1.78028169
-2008,Total,Male,Foreign,2.004466778
-2009,Total,Male,Foreign,2.18452381
-2010,Total,Male,Foreign,2.0609319
-2011,Total,Male,Foreign,2.0609319
-2012,Total,Male,Foreign,2.046126552
-2013,Total,Male,Foreign,2.022857143
-2014,Total,Male,Foreign,2.069741282
-2015,Total,Male,Foreign,2.04681546
-2016,Total,Male,Foreign,2.145855194
-2017,Total,Male,Foreign,2.072164948
-2005,Total,Female,Foreign,1.29950495
-2006,Total,Female,Foreign,1.501766784
-2007,Total,Female,Foreign,1.729577465
-2008,Total,Female,Foreign,1.881630374
-2009,Total,Female,Foreign,1.982142857
-2010,Total,Female,Foreign,2.01911589
-2011,Total,Female,Foreign,2.126642772
-2012,Total,Female,Foreign,1.945594323
-2013,Total,Female,Foreign,1.902857143
-2014,Total,Female,Foreign,2.002249719
-2015,Total,Female,Foreign,2.063146434
-2016,Total,Female,Foreign,2.0409234
-2017,Total,Female,Foreign,2.113402062
-2005,5 years and younger,,Icelandic,0.253712871
-2006,5 years and younger,,Icelandic,0.200235571
-2007,5 years and younger,,Icelandic,0.230985915
-2008,5 years and younger,,Icelandic,0.206588498
-2009,5 years and younger,,Icelandic,0.202380952
-2010,5 years and younger,,Icelandic,0.27479092
-2011,5 years and younger,,Icelandic,0.27479092
-2012,5 years and younger,,Icelandic,0.295683028
-2013,5 years and younger,,Icelandic,0.262857143
-2014,5 years and younger,,Icelandic,0.264341957
-2015,5 years and younger,,Icelandic,0.206859009
-2016,5 years and younger,,Icelandic,0.18887723
-2017,5 years and younger,,Icelandic,0.190721649
-2005,5 years and younger,Male,Icelandic,0.10519802
-2006,5 years and younger,Male,Icelandic,0.088339223
-2007,5 years and younger,Male,Icelandic,0.123943662
-2008,5 years and younger,Male,Icelandic,0.106085985
-2009,5 years and younger,Male,Icelandic,0.05952381
-2010,5 years and younger,Male,Icelandic,0.125448029
-2011,5 years and younger,Male,Icelandic,0.131421744
-2012,5 years and younger,Male,Icelandic,0.147841514
-2013,5 years and younger,Male,Icelandic,0.125714286
-2014,5 years and younger,Male,Icelandic,0.134983127
-2015,5 years and younger,Male,Icelandic,0.08709853
-2016,5 years and younger,Male,Icelandic,0.089192025
-2017,5 years and younger,Male,Icelandic,0.082474227
-2005,5 years and younger,Female,Icelandic,0.148514851
-2006,5 years and younger,Female,Icelandic,0.111896349
-2007,5 years and younger,Female,Icelandic,0.107042254
-2008,5 years and younger,Female,Icelandic,0.100502513
-2009,5 years and younger,Female,Icelandic,0.142857143
-2010,5 years and younger,Female,Icelandic,0.149342891
-2011,5 years and younger,Female,Icelandic,0.143369176
-2012,5 years and younger,Female,Icelandic,0.147841514
-2013,5 years and younger,Female,Icelandic,0.137142857
-2014,5 years and younger,Female,Icelandic,0.12935883
-2015,5 years and younger,Female,Icelandic,0.119760479
-2016,5 years and younger,Female,Icelandic,0.099685205
-2017,5 years and younger,Female,Icelandic,0.108247423
-2005,6 - 12 years,,Icelandic,6.448019802
-2006,6 - 12 years,,Icelandic,6.107184923
-2007,6 - 12 years,,Icelandic,5.628169014
-2008,6 - 12 years,,Icelandic,4.941373534
-2009,6 - 12 years,,Icelandic,4.244047619
-2010,6 - 12 years,,Icelandic,3.679808841
-2011,6 - 12 years,,Icelandic,3.524492234
-2012,6 - 12 years,,Icelandic,3.548196334
-2013,6 - 12 years,,Icelandic,3.314285714
-2014,6 - 12 years,,Icelandic,3.273340832
-2015,6 - 12 years,,Icelandic,3.032117583
-2016,6 - 12 years,,Icelandic,3.268625393
-2017,6 - 12 years,,Icelandic,3.262886598
-2005,6 - 12 years,Male,Icelandic,3.33539604
-2006,6 - 12 years,Male,Icelandic,3.2803298
-2007,6 - 12 years,Male,Icelandic,2.974647887
-2008,6 - 12 years,Male,Icelandic,2.52372976
-2009,6 - 12 years,Male,Icelandic,2.178571429
-2010,6 - 12 years,Male,Icelandic,1.875746714
-2011,6 - 12 years,Male,Icelandic,1.696535245
-2012,6 - 12 years,Male,Icelandic,1.815493791
-2013,6 - 12 years,Male,Icelandic,1.76
-2014,6 - 12 years,Male,Icelandic,1.721034871
-2015,6 - 12 years,Male,Icelandic,1.594991835
-2016,6 - 12 years,Male,Icelandic,1.715634837
-2017,6 - 12 years,Male,Icelandic,1.824742268
-2005,6 - 12 years,Female,Icelandic,3.112623762
-2006,6 - 12 years,Female,Icelandic,2.826855124
-2007,6 - 12 years,Female,Icelandic,2.653521127
-2008,6 - 12 years,Female,Icelandic,2.417643774
-2009,6 - 12 years,Female,Icelandic,2.06547619
-2010,6 - 12 years,Female,Icelandic,1.804062127
-2011,6 - 12 years,Female,Icelandic,1.827956989
-2012,6 - 12 years,Female,Icelandic,1.732702543
-2013,6 - 12 years,Female,Icelandic,1.554285714
-2014,6 - 12 years,Female,Icelandic,1.552305962
-2015,6 - 12 years,Female,Icelandic,1.437125749
-2016,6 - 12 years,Female,Icelandic,1.552990556
-2017,6 - 12 years,Female,Icelandic,1.43814433
-2005,13 - 18 years,,Icelandic,133.8056931
-2006,13 - 18 years,,Icelandic,129.7644287
-2007,13 - 18 years,,Icelandic,124.7605634
-2008,13 - 18 years,,Icelandic,122.2278057
-2009,13 - 18 years,,Icelandic,121.4404762
-2010,13 - 18 years,,Icelandic,119.1577061
-2011,13 - 18 years,,Icelandic,110.3703704
-2012,13 - 18 years,,Icelandic,107.1200473
-2013,13 - 18 years,,Icelandic,103.0171429
-2014,13 - 18 years,,Icelandic,102.0866142
-2015,13 - 18 years,,Icelandic,97.75176919
-2016,13 - 18 years,,Icelandic,94.96852046
-2017,13 - 18 years,,Icelandic,94.44329897
-2005,13 - 18 years,Male,Icelandic,68.99752475
-2006,13 - 18 years,Male,Icelandic,66.61366313
-2007,13 - 18 years,Male,Icelandic,63.65070423
-2008,13 - 18 years,Male,Icelandic,62.42881072
-2009,13 - 18 years,Male,Icelandic,61.6547619
-2010,13 - 18 years,Male,Icelandic,60.57945042
-2011,13 - 18 years,Male,Icelandic,56.30824373
-2012,13 - 18 years,Male,Icelandic,54.80780603
-2013,13 - 18 years,Male,Icelandic,52.10285714
-2014,13 - 18 years,Male,Icelandic,51.55230596
-2015,13 - 18 years,Male,Icelandic,49.30865542
-2016,13 - 18 years,Male,Icelandic,47.99580273
-2017,13 - 18 years,Male,Icelandic,47.55670103
-2005,13 - 18 years,Female,Icelandic,64.80816832
-2006,13 - 18 years,Female,Icelandic,63.15076561
-2007,13 - 18 years,Female,Icelandic,61.10985915
-2008,13 - 18 years,Female,Icelandic,59.79899497
-2009,13 - 18 years,Female,Icelandic,59.78571429
-2010,13 - 18 years,Female,Icelandic,58.57825568
-2011,13 - 18 years,Female,Icelandic,54.06212664
-2012,13 - 18 years,Female,Icelandic,52.31224128
-2013,13 - 18 years,Female,Icelandic,50.91428571
-2014,13 - 18 years,Female,Icelandic,50.53430821
-2015,13 - 18 years,Female,Icelandic,48.44311377
-2016,13 - 18 years,Female,Icelandic,46.97271773
-2017,13 - 18 years,Female,Icelandic,46.88659794
-2005,Total,,Icelandic,140.5074257
-2006,Total,,Icelandic,136.0718492
-2007,Total,,Icelandic,130.6197183
-2008,Total,,Icelandic,127.3757677
-2009,Total,,Icelandic,125.8869048
-2010,Total,,Icelandic,123.1123059
-2011,Total,,Icelandic,114.1696535
-2012,Total,,Icelandic,110.9639267
-2013,Total,,Icelandic,106.5942857
-2014,Total,,Icelandic,105.624297
-2015,Total,,Icelandic,100.9907458
-2016,Total,,Icelandic,98.42602308
-2017,Total,,Icelandic,97.89690722
-2005,Total,Male,Icelandic,72.43811881
-2006,Total,Male,Icelandic,69.98233216
-2007,Total,Male,Icelandic,66.74929577
-2008,Total,Male,Icelandic,65.05862647
-2009,Total,Male,Icelandic,63.89285714
-2010,Total,Male,Icelandic,62.58064516
-2011,Total,Male,Icelandic,58.13620072
-2012,Total,Male,Icelandic,56.77114134
-2013,Total,Male,Icelandic,53.98857143
-2014,Total,Male,Icelandic,53.40832396
-2015,Total,Male,Icelandic,50.99074578
-2016,Total,Male,Icelandic,49.80062959
-2017,Total,Male,Icelandic,49.46391753
-2005,Total,Female,Icelandic,68.06930693
-2006,Total,Female,Icelandic,66.08951708
-2007,Total,Female,Icelandic,63.87042254
-2008,Total,Female,Icelandic,62.31714126
-2009,Total,Female,Icelandic,61.99404762
-2010,Total,Female,Icelandic,60.53166069
-2011,Total,Female,Icelandic,56.03345281
-2012,Total,Female,Icelandic,54.19278533
-2013,Total,Female,Icelandic,52.60571429
-2014,Total,Female,Icelandic,52.215973
-2015,Total,Female,Icelandic,50.0
-2016,Total,Female,Icelandic,48.62539349
-2017,Total,Female,Icelandic,48.43298969
+Year,Age,Gender,Value
+2005,Under 15 years,,16
+2006,Under 15 years,,16
+2007,Under 15 years,,15
+2008,Under 15 years,,14
+2009,Under 15 years,,11
+2010,Under 15 years,,9
+2011,Under 15 years,,8
+2012,Under 15 years,,8
+2013,Under 15 years,,8
+2014,Under 15 years,,8
+2015,Under 15 years,,8
+2016,Under 15 years,,8
+2017,Under 15 years,,9
+2018,Under 15 years,,9
+2019,Under 15 years,,8
+2020,Under 15 years,,8
+2021,Under 15 years,,7
+2022,Under 15 years,,8
+2005,15 - 19 years,,85
+2006,15 - 19 years,,88
+2007,15 - 19 years,,89
+2008,15 - 19 years,,86
+2009,15 - 19 years,,78
+2010,15 - 19 years,,75
+2011,15 - 19 years,,74
+2012,15 - 19 years,,75
+2013,15 - 19 years,,73
+2014,15 - 19 years,,73
+2015,15 - 19 years,,73
+2016,15 - 19 years,,74
+2017,15 - 19 years,,74
+2018,15 - 19 years,,72
+2019,15 - 19 years,,69
+2020,15 - 19 years,,63
+2021,15 - 19 years,,63
+2022,15 - 19 years,,67
+2005,Total,,101
+2006,Total,,104
+2007,Total,,104
+2008,Total,,100
+2009,Total,,89
+2010,Total,,84
+2011,Total,,82
+2012,Total,,83
+2013,Total,,81
+2014,Total,,81
+2015,Total,,81
+2016,Total,,82
+2017,Total,,83
+2018,Total,,80
+2019,Total,,77
+2020,Total,,71
+2021,Total,,70
+2022,Total,,75
+2005,Under 15 years,Male,16
+2006,Under 15 years,Male,15
+2007,Under 15 years,Male,14
+2008,Under 15 years,Male,13
+2009,Under 15 years,Male,10
+2010,Under 15 years,Male,9
+2011,Under 15 years,Male,8
+2012,Under 15 years,Male,8
+2013,Under 15 years,Male,8
+2014,Under 15 years,Male,8
+2015,Under 15 years,Male,7
+2016,Under 15 years,Male,8
+2017,Under 15 years,Male,8
+2018,Under 15 years,Male,8
+2019,Under 15 years,Male,7
+2020,Under 15 years,Male,8
+2021,Under 15 years,Male,7
+2022,Under 15 years,Male,7
+2005,15 - 19 years,Male,77
+2006,15 - 19 years,Male,79
+2007,15 - 19 years,Male,79
+2008,15 - 19 years,Male,75
+2009,15 - 19 years,Male,67
+2010,15 - 19 years,Male,66
+2011,15 - 19 years,Male,66
+2012,15 - 19 years,Male,66
+2013,15 - 19 years,Male,65
+2014,15 - 19 years,Male,65
+2015,15 - 19 years,Male,65
+2016,15 - 19 years,Male,65
+2017,15 - 19 years,Male,66
+2018,15 - 19 years,Male,63
+2019,15 - 19 years,Male,60
+2020,15 - 19 years,Male,55
+2021,15 - 19 years,Male,55
+2022,15 - 19 years,Male,59
+2005,Total,Male,93
+2006,Total,Male,94
+2007,Total,Male,92
+2008,Total,Male,88
+2009,Total,Male,78
+2010,Total,Male,75
+2011,Total,Male,74
+2012,Total,Male,75
+2013,Total,Male,72
+2014,Total,Male,73
+2015,Total,Male,72
+2016,Total,Male,73
+2017,Total,Male,74
+2018,Total,Male,71
+2019,Total,Male,68
+2020,Total,Male,63
+2021,Total,Male,61
+2022,Total,Male,67
+2005,Under 15 years,Female,16
+2006,Under 15 years,Female,16
+2007,Under 15 years,Female,17
+2008,Under 15 years,Female,15
+2009,Under 15 years,Female,11
+2010,Under 15 years,Female,9
+2011,Under 15 years,Female,8
+2012,Under 15 years,Female,8
+2013,Under 15 years,Female,8
+2014,Under 15 years,Female,8
+2015,Under 15 years,Female,8
+2016,Under 15 years,Female,8
+2017,Under 15 years,Female,9
+2018,Under 15 years,Female,9
+2019,Under 15 years,Female,9
+2020,Under 15 years,Female,8
+2021,Under 15 years,Female,8
+2022,Under 15 years,Female,9
+2005,15 - 19 years,Female,95
+2006,15 - 19 years,Female,100
+2007,15 - 19 years,Female,101
+2008,15 - 19 years,Female,99
+2009,15 - 19 years,Female,90
+2010,15 - 19 years,Female,85
+2011,15 - 19 years,Female,83
+2012,15 - 19 years,Female,84
+2013,15 - 19 years,Female,82
+2014,15 - 19 years,Female,82
+2015,15 - 19 years,Female,82
+2016,15 - 19 years,Female,83
+2017,15 - 19 years,Female,84
+2018,15 - 19 years,Female,81
+2019,15 - 19 years,Female,78
+2020,15 - 19 years,Female,72
+2021,15 - 19 years,Female,73
+2022,15 - 19 years,Female,76
+2005,Total,Female,110
+2006,Total,Female,116
+2007,Total,Female,118
+2008,Total,Female,114
+2009,Total,Female,101
+2010,Total,Female,94
+2011,Total,Female,91
+2012,Total,Female,92
+2013,Total,Female,90
+2014,Total,Female,91
+2015,Total,Female,90
+2016,Total,Female,92
+2017,Total,Female,93
+2018,Total,Female,91
+2019,Total,Female,87
+2020,Total,Female,81
+2021,Total,Female,80
+2022,Total,Female,84

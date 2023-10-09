@@ -20,9 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5 years and younger",
-                "6 - 12 years",
-                "13 - 18 years",
+                "Under 15 years",
+                "15 - 19 years",
                 "Total",
                 ""
               ]
@@ -42,20 +41,8 @@
             "title": "Gender"
           },
           {
-            "name": "Nationality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Foreign",
-                "Icelandic",
-                ""
-              ]
-            },
-            "title": "Nationality"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
