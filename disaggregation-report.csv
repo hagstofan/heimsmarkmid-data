@@ -1,7 +1,7 @@
 Disaggregation,Number of indicators,Number of values
 Accounts,1,2
-Age group,1,7
 Age-group,1,6
+Age group,1,7
 Age,7,20
 Area of Spending Category,1,3
 Biota,1,3
@@ -42,8 +42,8 @@ Type of Occupation,1,4
 Type of Product,1,7
 Type of skill,1,2
 Type of treatment,1,2
-Type of violence,1,2
 Type of Violence,1,2
+Type of violence,1,2
 Type,1,3
 Unit,1,2
 Vaccine - participation,1,9
