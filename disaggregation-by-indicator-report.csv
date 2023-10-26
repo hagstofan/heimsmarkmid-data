@@ -1,13 +1,13 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"Gender, Age",2
-#1-5-1,"Gender, Cause of death",2
+#1-5-1,"Cause of death, Gender",2
 #1-a-2,Area of Spending Category,1
 #10-1-1,"Income/expenditure, Income group",2
 #10-3-1,Status,1
 #10-5-1,Indicator,1
 #10-6-1,Organization,1
 #11-1-1,"Sex, Living condition",2
-#11-5-1,"Gender, Cause of death",2
+#11-5-1,"Cause of death, Gender",2
 #11-6-2,Group,1
 #12-2-2,Category,1
 #12-3-1,"Sector, Waste type, Waste origin",3
@@ -15,7 +15,7 @@ Indicator,Disaggregations,Number of disaggregations
 #12-4-2,Type of treatment,1
 #12-a-1,Energy Source,1
 #12-c-1,Unit,1
-#13-1-1,"Gender, Cause of death",2
+#13-1-1,"Cause of death, Gender",2
 #13-2-2,"Sector, Source, Accounts",3
 #15-1-1,Type,1
 #15-2-1,Sub-indicator.,1
@@ -29,7 +29,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-8-1,Organization,1
 #16-b-1,Status,1
 #17-1-1,Revenue,1
-#17-10-1,"Status, Type of Product",2
+#17-10-1,"Type of Product, Status",2
 #17-11-1,Group,1
 #17-6-1,Connection type,1
 #2-1-2,Severity,1
@@ -43,12 +43,12 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-1,"Sex, Type of skill",2
 #4-1-2,Sex,1
 #4-2-2,Gender,1
-#4-3-1,"Sex, Age, Education Category",3
+#4-3-1,"Age, Sex, Education Category",3
 #4-4-1,"Age-group, Skill",2
 #4-5-1,Index,1
 #4-c-1,Group,1
 #5-2-1,"Age group, Type of violence",2
-#5-3-1,"Sex, Age",2
+#5-3-1,"Age, Sex",2
 #5-5-1,"Sex, Level of government",2
 #5-5-2,"Sex, Position",2
 #5-b-1,Sex,1
