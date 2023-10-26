@@ -1,0 +1,2 @@
+.github/workflows/deploy_to_production.yml merge=ours
+.github/workflows/deploy_to_staging.yml merge=ours
