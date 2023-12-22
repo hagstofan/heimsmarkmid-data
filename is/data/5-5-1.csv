@@ -39,8 +39,8 @@ Year,Kyn,Stjórnarstig,Value
 2016,Kona,Alþingi,47.6
 2017,Karl,Alþingi,61.9
 2017,Kona,Alþingi,38.1
-2022,Karl,Alþingi,52.4
-2022,Kona,Alþingi,47.6
+2021,Karl,Alþingi,52.4
+2021,Kona,Alþingi,47.6
 1962,Kona,Sveitarstjórnir,0.955690704
 1966,Kona,Sveitarstjórnir,1.553062985
 1970,Kona,Sveitarstjórnir,2.428447528
@@ -56,6 +56,7 @@ Year,Kyn,Stjórnarstig,Value
 2010,Kona,Sveitarstjórnir,39.84375
 2014,Kona,Sveitarstjórnir,44.04761905
 2018,Kona,Sveitarstjórnir,47.01195219
+2022,Kona,Sveitarstjórnir,50.4
 1962,Karl,Sveitarstjórnir,99.0443093
 1966,Karl,Sveitarstjórnir,98.44693701
 1970,Karl,Sveitarstjórnir,97.57155247
@@ -71,3 +72,4 @@ Year,Kyn,Stjórnarstig,Value
 2010,Karl,Sveitarstjórnir,60.15625
 2014,Karl,Sveitarstjórnir,55.95238095
 2018,Karl,Sveitarstjórnir,52.98804781
+2022,Karl,Sveitarstjórnir,49.6

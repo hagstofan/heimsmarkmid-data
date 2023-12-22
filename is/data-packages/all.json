@@ -2144,7 +2144,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Gildi"
           }
         ]
@@ -2492,12 +2492,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Ár"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Gildi"
           }
         ]
@@ -3580,7 +3580,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Gildi"
           }
         ]

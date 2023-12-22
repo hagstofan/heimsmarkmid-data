@@ -39,8 +39,8 @@ Year,Sex,Level of government,Value
 2016,Female,Parliment,47.6
 2017,Male,Parliment,61.9
 2017,Female,Parliment,38.1
-2022,Male,Parliment,52.4
-2022,Female,Parliment,47.6
+2021,Male,Parliment,52.4
+2021,Female,Parliment,47.6
 1962,Female,Local government,0.955690704
 1966,Female,Local government,1.553062985
 1970,Female,Local government,2.428447528
@@ -56,6 +56,7 @@ Year,Sex,Level of government,Value
 2010,Female,Local government,39.84375
 2014,Female,Local government,44.04761905
 2018,Female,Local government,47.01195219
+2022,Female,Local government,50.4
 1962,Male,Local government,99.0443093
 1966,Male,Local government,98.44693701
 1970,Male,Local government,97.57155247
@@ -71,3 +72,4 @@ Year,Sex,Level of government,Value
 2010,Male,Local government,60.15625
 2014,Male,Local government,55.95238095
 2018,Male,Local government,52.98804781
+2022,Male,Local government,49.6

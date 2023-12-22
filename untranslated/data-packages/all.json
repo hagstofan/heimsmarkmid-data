@@ -1970,7 +1970,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
@@ -2290,11 +2290,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -3290,7 +3290,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
