@@ -2386,7 +2386,7 @@
           }
         ]
       },
-      "title": "Félagsaðstoð hins opinbera sem fátækir njóta umfram aðra."
+      "title": "Pro-poor public social spending"
     },
     {
       "path": "1-5-3/data.csv",
@@ -3250,7 +3250,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Fatal/non-fatal",
@@ -3327,7 +3327,7 @@
           }
         ]
       },
-      "title": "Mælikvarði á tölfræðilega getu til að mæla árangur í innleiðingu heimsmarkmiðanna"
+      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
     },
     {
       "path": "12-2-2/data.csv",
