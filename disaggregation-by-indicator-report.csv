@@ -10,7 +10,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-5-1,"Gender, Cause of death",2
 #11-6-2,Group,1
 #12-2-2,Category,1
-#12-3-1,"Waste type, Waste origin, Sector",3
+#12-3-1,"Sector, Waste type, Waste origin",3
 #12-4-1,Convention,1
 #12-4-2,Type of treatment,1
 #12-a-1,Energy Source,1
@@ -29,7 +29,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-8-1,Organization,1
 #16-b-1,Status,1
 #17-1-1,Revenue,1
-#17-10-1,"Type of Product, Status",2
+#17-10-1,"Status, Type of Product",2
 #17-11-1,Group,1
 #17-6-1,Connection type,1
 #2-1-2,Severity,1
@@ -43,7 +43,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-1,"Sex, Type of skill",2
 #4-1-2,Sex,1
 #4-2-2,Gender,1
-#4-3-1,"Age, Sex, Education Category",3
+#4-3-1,"Age, Education Category, Sex",3
 #4-4-1,"Age-group, Skill",2
 #4-5-1,Index,1
 #4-c-1,Group,1
@@ -60,7 +60,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-5-2,"Gender, Age",2
 #8-6-1,Gender,1
 #8-7-1,"Gender, Age",2
-#8-8-1,"Fatal/non-fatal, Sex, Nationality",3
+#8-8-1,"Sex, Fatal/non-fatal, Nationality",3
 #9-2-1,Industry category,1
 #9-4-1,Sector,1
 #9-5-1,Group,1
