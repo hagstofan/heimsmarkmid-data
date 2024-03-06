@@ -59,4 +59,4 @@ jobs:
         curl -X POST https://api.github.com/repos/hagstofan/heimsmarkmid-site/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.HAGSTOFA_DATA}}" \
-        --data '{"event_type": "rebuild-production", "client_payload":{"ref":"master"}}'
+        --data '{"event_type": "rebuild-production", "client_payload":{"ref":"develop"}}'
