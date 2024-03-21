@@ -22,6 +22,7 @@ Year,Sex,Position,Value
 2019,Male,Managers,77.0
 2020,Male,Managers,76.6
 2021,Male,Managers,76.1
+2022,Male,Managers,76.0
 1999,Male,Chairmen,77.6
 2000,Male,Chairmen,77.9
 2001,Male,Chairmen,78.2
@@ -45,6 +46,7 @@ Year,Sex,Position,Value
 2019,Male,Chairmen,75.7
 2020,Male,Chairmen,75.7
 2021,Male,Chairmen,75.3
+2022,Male,Chairmen,73.0
 1999,Male,Board of Directors,78.1
 2000,Male,Board of Directors,78.4
 2001,Male,Board of Directors,78.7
@@ -68,6 +70,7 @@ Year,Sex,Position,Value
 2019,Male,Board of Directors,73.6
 2020,Male,Board of Directors,73.5
 2021,Male,Board of Directors,73.0
+2021,Male,Board of Directors,72.8
 2009,Male,Director of governmental agencies,71.0
 2010,Male,Director of governmental agencies,69.0
 2011,Male,Director of governmental agencies,69.0
@@ -102,6 +105,7 @@ Year,Sex,Position,Value
 2019,Female,Managers,23.0
 2020,Female,Managers,23.4
 2021,Female,Managers,23.9
+2022,Female,Managers,24.0
 1999,Female,Chairmen,22.4
 2000,Female,Chairmen,22.1
 2001,Female,Chairmen,21.8
@@ -125,6 +129,7 @@ Year,Sex,Position,Value
 2019,Female,Chairmen,24.3
 2020,Female,Chairmen,24.3
 2021,Female,Chairmen,24.7
+2022,Female,Chairmen,25.0
 1999,Female,Board of Directors,21.9
 2000,Female,Board of Directors,21.6
 2001,Female,Board of Directors,21.3
@@ -148,6 +153,7 @@ Year,Sex,Position,Value
 2019,Female,Board of Directors,26.4
 2020,Female,Board of Directors,26.5
 2021,Female,Board of Directors,27.0
+2022,Female,Board of Directors,27.2
 2009,Female,Director of governmental agencies,29.0
 2010,Female,Director of governmental agencies,31.0
 2011,Female,Director of governmental agencies,31.0

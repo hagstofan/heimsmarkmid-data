@@ -22,6 +22,7 @@ Year,Kyn,Staða,Value
 2019,Karl,Framkvæmdarstjórar,77.0
 2020,Karl,Framkvæmdarstjórar,76.6
 2021,Karl,Framkvæmdarstjórar,76.1
+2022,Karl,Framkvæmdarstjórar,76.0
 1999,Karl,Stjórnarformenn,77.6
 2000,Karl,Stjórnarformenn,77.9
 2001,Karl,Stjórnarformenn,78.2
@@ -45,6 +46,7 @@ Year,Kyn,Staða,Value
 2019,Karl,Stjórnarformenn,75.7
 2020,Karl,Stjórnarformenn,75.7
 2021,Karl,Stjórnarformenn,75.3
+2022,Karl,Stjórnarformenn,73.0
 1999,Karl,Stjórnarmenn,78.1
 2000,Karl,Stjórnarmenn,78.4
 2001,Karl,Stjórnarmenn,78.7
@@ -68,6 +70,7 @@ Year,Kyn,Staða,Value
 2019,Karl,Stjórnarmenn,73.6
 2020,Karl,Stjórnarmenn,73.5
 2021,Karl,Stjórnarmenn,73.0
+2021,Karl,Stjórnarmenn,72.8
 2009,Karl,Forstöðumenn ríkisstofnana,71.0
 2010,Karl,Forstöðumenn ríkisstofnana,69.0
 2011,Karl,Forstöðumenn ríkisstofnana,69.0
@@ -102,6 +105,7 @@ Year,Kyn,Staða,Value
 2019,Kona,Framkvæmdarstjórar,23.0
 2020,Kona,Framkvæmdarstjórar,23.4
 2021,Kona,Framkvæmdarstjórar,23.9
+2022,Kona,Framkvæmdarstjórar,24.0
 1999,Kona,Stjórnarformenn,22.4
 2000,Kona,Stjórnarformenn,22.1
 2001,Kona,Stjórnarformenn,21.8
@@ -125,6 +129,7 @@ Year,Kyn,Staða,Value
 2019,Kona,Stjórnarformenn,24.3
 2020,Kona,Stjórnarformenn,24.3
 2021,Kona,Stjórnarformenn,24.7
+2022,Kona,Stjórnarformenn,25.0
 1999,Kona,Stjórnarmenn,21.9
 2000,Kona,Stjórnarmenn,21.6
 2001,Kona,Stjórnarmenn,21.3
@@ -148,6 +153,7 @@ Year,Kyn,Staða,Value
 2019,Kona,Stjórnarmenn,26.4
 2020,Kona,Stjórnarmenn,26.5
 2021,Kona,Stjórnarmenn,27.0
+2022,Kona,Stjórnarmenn,27.2
 2009,Kona,Forstöðumenn ríkisstofnana,29.0
 2010,Kona,Forstöðumenn ríkisstofnana,31.0
 2011,Kona,Forstöðumenn ríkisstofnana,31.0
