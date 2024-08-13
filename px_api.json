@@ -1,0 +1,41 @@
+{
+    "indicators": [
+        {
+            "name": "7.2.1",
+            "csv_file": "indicator_7-2-1.csv",
+            "url": "https://px.hagstofa.is:443/pxis/api/v1/is/Umhverfi/4_orkumal/2_framleidslaognotkun/IDN02102.px",
+            "request": {
+                "query": [
+                    {
+                    "code": "Ár",
+                    "selection": {
+                        "filter": "all",
+                        "values": ["199*", "20*"]
+                    }
+                    },
+                    {
+                    "code": "Eining",
+                    "selection": {
+                        "filter": "item",
+                        "values": [
+                        "1"
+                        ]
+                    }
+                    },
+                    {
+                    "code": "Tegund",
+                    "selection": {
+                        "filter": "item",
+                        "values": [
+                        "TOTAL_NATIONAL"
+                        ]
+                    }
+                    }
+                ],
+                "response": {
+                    "format": "csv"
+                }
+            }
+        }
+    ]
+}

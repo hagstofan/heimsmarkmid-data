@@ -1,145 +1,163 @@
 Year,Sex,Age,Value
-1998,Female,'16',0
-1998,Female,'17',3
-1998,Female,'18',5
-1998,Male,'16',0
-1998,Male,'17',0
-1998,Male,'18',0
-1999,Female,'16',0
-1999,Female,'17',0
-1999,Female,'18',10
-1999,Male,'16',0
-1999,Male,'17',0
-1999,Male,'18',0
-2000,Female,'16',0
-2000,Female,'17',0
-2000,Female,'18',8
-2000,Male,'16',0
-2000,Male,'17',0
-2000,Male,'18',0
-2001,Female,'16',0
-2001,Female,'17',0
-2001,Female,'18',8
-2001,Male,'16',0
-2001,Male,'17',0
-2001,Male,'18',1
-2002,Female,'16',0
-2002,Female,'17',0
-2002,Female,'18',6
-2002,Male,'16',0
-2002,Male,'17',0
-2002,Male,'18',0
-2003,Female,'16',1
-2003,Female,'17',0
-2003,Female,'18',4
-2003,Male,'16',0
-2003,Male,'17',0
-2003,Male,'18',1
-2004,Female,'16',0
-2004,Female,'17',1
-2004,Female,'18',6
-2004,Male,'16',0
-2004,Male,'17',0
-2004,Male,'18',2
-2005,Female,'16',0
-2005,Female,'17',0
-2005,Female,'18',5
-2005,Male,'16',0
-2005,Male,'17',0
-2005,Male,'18',0
-2006,Female,'16',0
-2006,Female,'17',1
-2006,Female,'18',3
-2006,Male,'16',0
-2006,Male,'17',0
-2006,Male,'18',0
-2007,Female,'16',0
-2007,Female,'17',0
-2007,Female,'18',2
-2007,Male,'16',0
-2007,Male,'17',0
-2007,Male,'18',0
-2008,Female,'16',0
-2008,Female,'17',0
-2008,Female,'18',2
-2008,Male,'16',0
-2008,Male,'17',0
-2008,Male,'18',1
-2009,Female,'16',0
-2009,Female,'17',1
-2009,Female,'18',3
-2009,Male,'16',0
-2009,Male,'17',0
-2009,Male,'18',1
-2010,Female,'16',0
-2010,Female,'17',0
-2010,Female,'18',4
-2010,Male,'16',0
-2010,Male,'17',0
-2010,Male,'18',0
-2011,Female,'16',0
-2011,Female,'17',0
-2011,Female,'18',0
-2011,Male,'16',0
-2011,Male,'17',0
-2011,Male,'18',0
-2012,Female,'16',0
-2012,Female,'17',0
-2012,Female,'18',0
-2012,Male,'16',0
-2012,Male,'17',0
-2012,Male,'18',0
-2013,Female,'16',0
-2013,Female,'17',0
-2013,Female,'18',4
-2013,Male,'16',0
-2013,Male,'17',0
-2013,Male,'18',1
-2014,Female,'16',0
-2014,Female,'17',0
-2014,Female,'18',2
-2014,Male,'16',0
-2014,Male,'17',0
-2014,Male,'18',0
-2015,Female,'16',0
-2015,Female,'17',0
-2015,Female,'18',3
-2015,Male,'16',0
-2015,Male,'17',0
-2015,Male,'18',1
-2016,Female,'16',1
-2016,Female,'17',0
-2016,Female,'18',2
-2016,Male,'16',0
-2016,Male,'17',0
-2016,Male,'18',1
-2017,Female,'16',0
-2017,Female,'17',1
-2017,Female,'18',3
-2017,Male,'16',0
-2017,Male,'17',0
-2017,Male,'18',0
-2018,Female,'16',0
-2018,Female,'17',0
-2018,Female,'18',1
-2018,Male,'16',0
-2018,Male,'17',0
-2018,Male,'18',1
-2019,Female,'16',0
-2019,Female,'17',0
-2019,Female,'18',1
-2019,Male,'16',0
-2019,Male,'17',0
-2019,Male,'18',0
-2020,Female,'16',0
-2020,Female,'17',0
-2020,Female,'18',1
-2020,Male,'16',0
-2020,Male,'17',0
-2020,Male,'18',0
-2021,Female,'16',0
-2021,Female,'17',0
-2021,Female,'18',2
-2021,Male,'16',0
-2021,Male,'17',0
-2021,Male,'18',0
+1998,Males,16 years,0
+1998,Females,16 years,0
+1998,Non-binary/Other,16 years,0
+1998,Males,17 years,0
+1998,Females,17 years,2
+1998,Non-binary/Other,17 years,0
+1999,Males,16 years,0
+1999,Females,16 years,0
+1999,Non-binary/Other,16 years,0
+1999,Males,17 years,0
+1999,Females,17 years,0
+1999,Non-binary/Other,17 years,0
+2000,Males,16 years,0
+2000,Females,16 years,0
+2000,Non-binary/Other,16 years,0
+2000,Males,17 years,0
+2000,Females,17 years,0
+2000,Non-binary/Other,17 years,0
+2001,Males,16 years,0
+2001,Females,16 years,0
+2001,Non-binary/Other,16 years,0
+2001,Males,17 years,0
+2001,Females,17 years,0
+2001,Non-binary/Other,17 years,0
+2002,Males,16 years,0
+2002,Females,16 years,0
+2002,Non-binary/Other,16 years,0
+2002,Males,17 years,0
+2002,Females,17 years,0
+2002,Non-binary/Other,17 years,0
+2003,Males,16 years,0
+2003,Females,16 years,1
+2003,Non-binary/Other,16 years,0
+2003,Males,17 years,0
+2003,Females,17 years,0
+2003,Non-binary/Other,17 years,0
+2004,Males,16 years,0
+2004,Females,16 years,0
+2004,Non-binary/Other,16 years,0
+2004,Males,17 years,0
+2004,Females,17 years,0
+2004,Non-binary/Other,17 years,0
+2005,Males,16 years,0
+2005,Females,16 years,0
+2005,Non-binary/Other,16 years,0
+2005,Males,17 years,0
+2005,Females,17 years,0
+2005,Non-binary/Other,17 years,0
+2006,Males,16 years,0
+2006,Females,16 years,0
+2006,Non-binary/Other,16 years,0
+2006,Males,17 years,0
+2006,Females,17 years,1
+2006,Non-binary/Other,17 years,0
+2007,Males,16 years,0
+2007,Females,16 years,0
+2007,Non-binary/Other,16 years,0
+2007,Males,17 years,0
+2007,Females,17 years,0
+2007,Non-binary/Other,17 years,0
+2008,Males,16 years,0
+2008,Females,16 years,0
+2008,Non-binary/Other,16 years,0
+2008,Males,17 years,0
+2008,Females,17 years,0
+2008,Non-binary/Other,17 years,0
+2009,Males,16 years,0
+2009,Females,16 years,0
+2009,Non-binary/Other,16 years,0
+2009,Males,17 years,0
+2009,Females,17 years,1
+2009,Non-binary/Other,17 years,0
+2010,Males,16 years,0
+2010,Females,16 years,0
+2010,Non-binary/Other,16 years,0
+2010,Males,17 years,0
+2010,Females,17 years,0
+2010,Non-binary/Other,17 years,0
+2011,Males,16 years,0
+2011,Females,16 years,0
+2011,Non-binary/Other,16 years,0
+2011,Males,17 years,0
+2011,Females,17 years,0
+2011,Non-binary/Other,17 years,0
+2012,Males,16 years,0
+2012,Females,16 years,0
+2012,Non-binary/Other,16 years,0
+2012,Males,17 years,0
+2012,Females,17 years,0
+2012,Non-binary/Other,17 years,0
+2013,Males,16 years,0
+2013,Females,16 years,0
+2013,Non-binary/Other,16 years,0
+2013,Males,17 years,0
+2013,Females,17 years,0
+2013,Non-binary/Other,17 years,0
+2014,Males,16 years,0
+2014,Females,16 years,0
+2014,Non-binary/Other,16 years,0
+2014,Males,17 years,0
+2014,Females,17 years,0
+2014,Non-binary/Other,17 years,0
+2015,Males,16 years,0
+2015,Females,16 years,0
+2015,Non-binary/Other,16 years,0
+2015,Males,17 years,0
+2015,Females,17 years,0
+2015,Non-binary/Other,17 years,0
+2016,Males,16 years,0
+2016,Females,16 years,1
+2016,Non-binary/Other,16 years,0
+2016,Males,17 years,0
+2016,Females,17 years,0
+2016,Non-binary/Other,17 years,0
+2017,Males,16 years,0
+2017,Females,16 years,0
+2017,Non-binary/Other,16 years,0
+2017,Males,17 years,0
+2017,Females,17 years,0
+2017,Non-binary/Other,17 years,0
+2018,Males,16 years,0
+2018,Females,16 years,0
+2018,Non-binary/Other,16 years,0
+2018,Males,17 years,0
+2018,Females,17 years,0
+2018,Non-binary/Other,17 years,0
+2019,Males,16 years,0
+2019,Females,16 years,0
+2019,Non-binary/Other,16 years,0
+2019,Males,17 years,0
+2019,Females,17 years,0
+2019,Non-binary/Other,17 years,0
+2020,Males,16 years,0
+2020,Females,16 years,0
+2020,Non-binary/Other,16 years,0
+2020,Males,17 years,0
+2020,Females,17 years,0
+2020,Non-binary/Other,17 years,0
+2021,Males,16 years,0
+2021,Females,16 years,0
+2021,Non-binary/Other,16 years,0
+2021,Males,17 years,0
+2021,Females,17 years,0
+2021,Non-binary/Other,17 years,0
+2022,Males,16 years,0
+2022,Females,16 years,0
+2022,Non-binary/Other,16 years,0
+2022,Males,17 years,0
+2022,Females,17 years,0
+2022,Non-binary/Other,17 years,0
+2023,Males,16 years,0
+2023,Females,16 years,0
+2023,Non-binary/Other,16 years,0
+2023,Males,17 years,0
+2023,Females,17 years,0
+2023,Non-binary/Other,17 years,0
+2024,Males,16 years,0
+2024,Females,16 years,0
+2024,Non-binary/Other,16 years,0
+2024,Males,17 years,0
+2024,Females,17 years,0
+2024,Non-binary/Other,17 years,0
