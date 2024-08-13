@@ -5858,9 +5858,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -5872,8 +5869,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Males",
+                "Females",
+                "Non-binary/Other",
                 ""
               ]
             }
@@ -5883,9 +5881,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "'16'",
-                "'17'",
-                "'18'",
+                "16 years",
+                "17 years",
                 ""
               ]
             }

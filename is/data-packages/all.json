@@ -6376,9 +6376,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -6391,8 +6388,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kona",
-                "Karl",
+                "Karlar",
+                "Konur",
+                "Kynsegin/annað",
                 ""
               ]
             },
@@ -6403,9 +6401,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "'16'",
-                "'17'",
-                "'18'",
+                "16 ára",
+                "17 ára",
                 ""
               ]
             },

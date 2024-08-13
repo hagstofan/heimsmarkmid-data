@@ -1,4 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Both,9,1
-Female,28,10
-Male,28,10
+Female,25,9
+Females,2,1
+Male,25,9
+Males,2,1
+Non-binary/Other,2,1

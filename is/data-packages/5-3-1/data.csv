@@ -1,145 +1,163 @@
 Year,Kyn,Aldur,Value
-1998,Kona,'16',0
-1998,Kona,'17',3
-1998,Kona,'18',5
-1998,Karl,'16',0
-1998,Karl,'17',0
-1998,Karl,'18',0
-1999,Kona,'16',0
-1999,Kona,'17',0
-1999,Kona,'18',10
-1999,Karl,'16',0
-1999,Karl,'17',0
-1999,Karl,'18',0
-2000,Kona,'16',0
-2000,Kona,'17',0
-2000,Kona,'18',8
-2000,Karl,'16',0
-2000,Karl,'17',0
-2000,Karl,'18',0
-2001,Kona,'16',0
-2001,Kona,'17',0
-2001,Kona,'18',8
-2001,Karl,'16',0
-2001,Karl,'17',0
-2001,Karl,'18',1
-2002,Kona,'16',0
-2002,Kona,'17',0
-2002,Kona,'18',6
-2002,Karl,'16',0
-2002,Karl,'17',0
-2002,Karl,'18',0
-2003,Kona,'16',1
-2003,Kona,'17',0
-2003,Kona,'18',4
-2003,Karl,'16',0
-2003,Karl,'17',0
-2003,Karl,'18',1
-2004,Kona,'16',0
-2004,Kona,'17',1
-2004,Kona,'18',6
-2004,Karl,'16',0
-2004,Karl,'17',0
-2004,Karl,'18',2
-2005,Kona,'16',0
-2005,Kona,'17',0
-2005,Kona,'18',5
-2005,Karl,'16',0
-2005,Karl,'17',0
-2005,Karl,'18',0
-2006,Kona,'16',0
-2006,Kona,'17',1
-2006,Kona,'18',3
-2006,Karl,'16',0
-2006,Karl,'17',0
-2006,Karl,'18',0
-2007,Kona,'16',0
-2007,Kona,'17',0
-2007,Kona,'18',2
-2007,Karl,'16',0
-2007,Karl,'17',0
-2007,Karl,'18',0
-2008,Kona,'16',0
-2008,Kona,'17',0
-2008,Kona,'18',2
-2008,Karl,'16',0
-2008,Karl,'17',0
-2008,Karl,'18',1
-2009,Kona,'16',0
-2009,Kona,'17',1
-2009,Kona,'18',3
-2009,Karl,'16',0
-2009,Karl,'17',0
-2009,Karl,'18',1
-2010,Kona,'16',0
-2010,Kona,'17',0
-2010,Kona,'18',4
-2010,Karl,'16',0
-2010,Karl,'17',0
-2010,Karl,'18',0
-2011,Kona,'16',0
-2011,Kona,'17',0
-2011,Kona,'18',0
-2011,Karl,'16',0
-2011,Karl,'17',0
-2011,Karl,'18',0
-2012,Kona,'16',0
-2012,Kona,'17',0
-2012,Kona,'18',0
-2012,Karl,'16',0
-2012,Karl,'17',0
-2012,Karl,'18',0
-2013,Kona,'16',0
-2013,Kona,'17',0
-2013,Kona,'18',4
-2013,Karl,'16',0
-2013,Karl,'17',0
-2013,Karl,'18',1
-2014,Kona,'16',0
-2014,Kona,'17',0
-2014,Kona,'18',2
-2014,Karl,'16',0
-2014,Karl,'17',0
-2014,Karl,'18',0
-2015,Kona,'16',0
-2015,Kona,'17',0
-2015,Kona,'18',3
-2015,Karl,'16',0
-2015,Karl,'17',0
-2015,Karl,'18',1
-2016,Kona,'16',1
-2016,Kona,'17',0
-2016,Kona,'18',2
-2016,Karl,'16',0
-2016,Karl,'17',0
-2016,Karl,'18',1
-2017,Kona,'16',0
-2017,Kona,'17',1
-2017,Kona,'18',3
-2017,Karl,'16',0
-2017,Karl,'17',0
-2017,Karl,'18',0
-2018,Kona,'16',0
-2018,Kona,'17',0
-2018,Kona,'18',1
-2018,Karl,'16',0
-2018,Karl,'17',0
-2018,Karl,'18',1
-2019,Kona,'16',0
-2019,Kona,'17',0
-2019,Kona,'18',1
-2019,Karl,'16',0
-2019,Karl,'17',0
-2019,Karl,'18',0
-2020,Kona,'16',0
-2020,Kona,'17',0
-2020,Kona,'18',1
-2020,Karl,'16',0
-2020,Karl,'17',0
-2020,Karl,'18',0
-2021,Kona,'16',0
-2021,Kona,'17',0
-2021,Kona,'18',2
-2021,Karl,'16',0
-2021,Karl,'17',0
-2021,Karl,'18',0
+1998,Karlar,16 ára,0
+1998,Konur,16 ára,0
+1998,Kynsegin/annað,16 ára,0
+1998,Karlar,17 ára,0
+1998,Konur,17 ára,2
+1998,Kynsegin/annað,17 ára,0
+1999,Karlar,16 ára,0
+1999,Konur,16 ára,0
+1999,Kynsegin/annað,16 ára,0
+1999,Karlar,17 ára,0
+1999,Konur,17 ára,0
+1999,Kynsegin/annað,17 ára,0
+2000,Karlar,16 ára,0
+2000,Konur,16 ára,0
+2000,Kynsegin/annað,16 ára,0
+2000,Karlar,17 ára,0
+2000,Konur,17 ára,0
+2000,Kynsegin/annað,17 ára,0
+2001,Karlar,16 ára,0
+2001,Konur,16 ára,0
+2001,Kynsegin/annað,16 ára,0
+2001,Karlar,17 ára,0
+2001,Konur,17 ára,0
+2001,Kynsegin/annað,17 ára,0
+2002,Karlar,16 ára,0
+2002,Konur,16 ára,0
+2002,Kynsegin/annað,16 ára,0
+2002,Karlar,17 ára,0
+2002,Konur,17 ára,0
+2002,Kynsegin/annað,17 ára,0
+2003,Karlar,16 ára,0
+2003,Konur,16 ára,1
+2003,Kynsegin/annað,16 ára,0
+2003,Karlar,17 ára,0
+2003,Konur,17 ára,0
+2003,Kynsegin/annað,17 ára,0
+2004,Karlar,16 ára,0
+2004,Konur,16 ára,0
+2004,Kynsegin/annað,16 ára,0
+2004,Karlar,17 ára,0
+2004,Konur,17 ára,0
+2004,Kynsegin/annað,17 ára,0
+2005,Karlar,16 ára,0
+2005,Konur,16 ára,0
+2005,Kynsegin/annað,16 ára,0
+2005,Karlar,17 ára,0
+2005,Konur,17 ára,0
+2005,Kynsegin/annað,17 ára,0
+2006,Karlar,16 ára,0
+2006,Konur,16 ára,0
+2006,Kynsegin/annað,16 ára,0
+2006,Karlar,17 ára,0
+2006,Konur,17 ára,1
+2006,Kynsegin/annað,17 ára,0
+2007,Karlar,16 ára,0
+2007,Konur,16 ára,0
+2007,Kynsegin/annað,16 ára,0
+2007,Karlar,17 ára,0
+2007,Konur,17 ára,0
+2007,Kynsegin/annað,17 ára,0
+2008,Karlar,16 ára,0
+2008,Konur,16 ára,0
+2008,Kynsegin/annað,16 ára,0
+2008,Karlar,17 ára,0
+2008,Konur,17 ára,0
+2008,Kynsegin/annað,17 ára,0
+2009,Karlar,16 ára,0
+2009,Konur,16 ára,0
+2009,Kynsegin/annað,16 ára,0
+2009,Karlar,17 ára,0
+2009,Konur,17 ára,1
+2009,Kynsegin/annað,17 ára,0
+2010,Karlar,16 ára,0
+2010,Konur,16 ára,0
+2010,Kynsegin/annað,16 ára,0
+2010,Karlar,17 ára,0
+2010,Konur,17 ára,0
+2010,Kynsegin/annað,17 ára,0
+2011,Karlar,16 ára,0
+2011,Konur,16 ára,0
+2011,Kynsegin/annað,16 ára,0
+2011,Karlar,17 ára,0
+2011,Konur,17 ára,0
+2011,Kynsegin/annað,17 ára,0
+2012,Karlar,16 ára,0
+2012,Konur,16 ára,0
+2012,Kynsegin/annað,16 ára,0
+2012,Karlar,17 ára,0
+2012,Konur,17 ára,0
+2012,Kynsegin/annað,17 ára,0
+2013,Karlar,16 ára,0
+2013,Konur,16 ára,0
+2013,Kynsegin/annað,16 ára,0
+2013,Karlar,17 ára,0
+2013,Konur,17 ára,0
+2013,Kynsegin/annað,17 ára,0
+2014,Karlar,16 ára,0
+2014,Konur,16 ára,0
+2014,Kynsegin/annað,16 ára,0
+2014,Karlar,17 ára,0
+2014,Konur,17 ára,0
+2014,Kynsegin/annað,17 ára,0
+2015,Karlar,16 ára,0
+2015,Konur,16 ára,0
+2015,Kynsegin/annað,16 ára,0
+2015,Karlar,17 ára,0
+2015,Konur,17 ára,0
+2015,Kynsegin/annað,17 ára,0
+2016,Karlar,16 ára,0
+2016,Konur,16 ára,1
+2016,Kynsegin/annað,16 ára,0
+2016,Karlar,17 ára,0
+2016,Konur,17 ára,0
+2016,Kynsegin/annað,17 ára,0
+2017,Karlar,16 ára,0
+2017,Konur,16 ára,0
+2017,Kynsegin/annað,16 ára,0
+2017,Karlar,17 ára,0
+2017,Konur,17 ára,0
+2017,Kynsegin/annað,17 ára,0
+2018,Karlar,16 ára,0
+2018,Konur,16 ára,0
+2018,Kynsegin/annað,16 ára,0
+2018,Karlar,17 ára,0
+2018,Konur,17 ára,0
+2018,Kynsegin/annað,17 ára,0
+2019,Karlar,16 ára,0
+2019,Konur,16 ára,0
+2019,Kynsegin/annað,16 ára,0
+2019,Karlar,17 ára,0
+2019,Konur,17 ára,0
+2019,Kynsegin/annað,17 ára,0
+2020,Karlar,16 ára,0
+2020,Konur,16 ára,0
+2020,Kynsegin/annað,16 ára,0
+2020,Karlar,17 ára,0
+2020,Konur,17 ára,0
+2020,Kynsegin/annað,17 ára,0
+2021,Karlar,16 ára,0
+2021,Konur,16 ára,0
+2021,Kynsegin/annað,16 ára,0
+2021,Karlar,17 ára,0
+2021,Konur,17 ára,0
+2021,Kynsegin/annað,17 ára,0
+2022,Karlar,16 ára,0
+2022,Konur,16 ára,0
+2022,Kynsegin/annað,16 ára,0
+2022,Karlar,17 ára,0
+2022,Konur,17 ára,0
+2022,Kynsegin/annað,17 ára,0
+2023,Karlar,16 ára,0
+2023,Konur,16 ára,0
+2023,Kynsegin/annað,16 ára,0
+2023,Karlar,17 ára,0
+2023,Konur,17 ára,0
+2023,Kynsegin/annað,17 ára,0
+2024,Karlar,16 ára,0
+2024,Konur,16 ára,0
+2024,Kynsegin/annað,16 ára,0
+2024,Karlar,17 ára,0
+2024,Konur,17 ára,0
+2024,Kynsegin/annað,17 ára,0
